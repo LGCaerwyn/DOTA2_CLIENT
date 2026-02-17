@@ -70,7 +70,6 @@
 00@P00
 00@pP0@P00PP00`P00``00p
 00PP P0
-00\a\a 3\a
 00`000
 00`Pp
 00p 0
@@ -106,7 +105,7 @@
 048<D
 04d_%02d_%02d_%02d_%02d_%02d
 04i_%02i_%02i_%02i%02i%02i
-07\a\b`9\a
+06\a\b`8\a
 08, <4
 08,@DHLPTX\\`dhlptx
 08<@D
@@ -7752,39 +7751,41 @@
 19sndopvarlatchdata_t
 1:1: Tokens : ( T__39 | T__40 | T__41 | T__42 | T__43 | T__44 | T__45 | T__46 | T__47 | T__48 | T__49 | T__50 | T__51 | TOK_COLON | OPEN_BRACE | CLOSE_BRACE | OPEN_PAREN | CLOSE_PAREN | OPEN_BRACKET | CLOSE_BRACKET | SEMICOLON | OP_EQUAL | COMMA | DOUBLE_AND | NEGATIVE_TOK | DOUBLE_OR | LITERAL_TRUE | LITERAL_FALSE | POS_INTLITERAL | POS_FLOATLITERAL | ID | DOUBLE_QUOTED_STRING | SINGLE_QUOTED_STRING | SINGLE_LINE_COMMENT | ML_COMMENT | WS | UNRECOGNIZED
 1HcV\bH
-1I\r%Xq
-1I\r*)W
-1I\r1\rk
-1I\r2+Y
-1I\r5%p
-1I\r9x\e
-1I\r9y
-1I\r:MS
-1I\rE/o
-1I\rI V
-1I\rJr
-1I\rMi
-1I\rRXK
-1I\rYCi
-1I\rY\bY
-1I\rZD\r
-1I\rZ\nG
-1I\rZf
-1I\r\nlS
-1I\r\rGp
-1I\r]7q
-1I\re
+1I\r"v
+1I\r"~N
+1I\r1
+1I\r1'C
+1I\r2C\r
+1I\r4\nE
+1I\r5Cp
+1I\rA
+1I\rBYh
+1I\rMZo
+1I\rO\nE
+1I\rY\aY
+1I\rZVK
+1I\rZo
+1I\r\eyc
+1I\r\n(Y
+1I\r\n\bG
+1I\r\r"p
+1I\r\rh
+1I\r\t[\t
+1I\r\t\nk
+1I\r]{o
+1I\rbIS
+1I\rbiS
 1I\ri
-1I\rj!n
-1I\rjy
-1I\rl
-1I\rq2k
-1I\rqMt
-1I\ru]o
-1I\r}Xq
+1I\ri@i
+1I\riv\e
+1I\rm\e
+1I\rq
+1I\rqJ\r
+1I\rqKt
+1I\rzv
+1I\rz~N
 1Ic<$9
 1Lc#I
-1YA1賩Y
 1\bC*[A
 1\bC1[A
 1\n)series_current_selection_priority_team_id
@@ -15329,6 +15330,7 @@
 3T$4D1
 3T$8D
 3T$<D
+3YA1蔰U
 3\n!CDOTAUserMsg_TE_DestroyProjectile
 3\n!CMsgGCStorePurchaseCancelResponse
 3\n"CDOTAUserMsg_GamerulesStateChanged
@@ -17598,10 +17600,10 @@
 4Lfff
 4P(8<@DH\b
 4T\nT\nT\nT\nT\nT\nT\nZ\n
-4YA1蔕t
-4YA1蝀3
-4YA1躮y
-4YA1農Z
+4YA1莓o
+4YA1褼U
+4YA1辤Q
+4\a\aP5\a
 4\a\b@8\a
 4\n CUserMessageLagCompensationError
 4\n/DOTA_UM_MuertaReleaseEvent_AssignedTargetKilled
@@ -18322,9 +18324,9 @@
 5Vec2DIfE
 5Vec3DIfE
 5Vec4DIfE
-5YA1蓊N
-5YA1軲v
-5YA1轄N
+5YA1衊N
+5YA1贜N
+5YA1跚N
 5\n0kKillEaterEventType_ArcWarden_TempestDoubleKills
 5\n0kKillEaterEventType_ChaosKnight_RealityRiftKills
 5\n0kKillEaterEventType_Earthshaker_AftershockHits10
@@ -18570,6 +18572,8 @@
 6Mc\aIcU
 6QAngle
 6YA1蔙H
+6YA1蚛z
+6YA1跰y
 6\n.ultimate_scepter_consumed_alchemist_bonus_mana
 6\n1kKillEaterEventType_Earthshaker_FissureMultiStuns
 6\n1kKillEaterEventType_Gyrocopter_HomingMissileKills
@@ -18619,6 +18623,7 @@
 6ffff
 6fffff
 6ffffff
+6i\f\bvj\f
 6p p RDp\bp p(p\bp
 70CDOTA_Ability_CDOTA_Ability_Special_Bonus_Unique_Keeper_of_the_Light_2
 70CDOTA_Ability_CDOTA_Ability_Special_Bonus_Unique_Keeper_of_the_Light_7
@@ -18678,11 +18683,9 @@
 7INotify
 7IScorer
 7Lc:E
-7YA1蔣Q
+7YA1脭s
 7YA1袎k
-7YA1袯y
-7YA1貭A
-7YA1跫Y
+7YA1觲A
 7\e u\r
 7\n!CMsgClientToGCGetBattleReportInfo
 7\n2kKillEaterEventType_Batrider_TripleHeroFlamebreaks
@@ -19016,7 +19019,8 @@
 9\n\vdamage_type
 9\n\vdiagnostics
 9\n\vplayer_info
-9\rW}K
+9\rW\tO
+9\rgMM
 9_\bt6H
 9basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
 9ffff
@@ -21306,6 +21310,7 @@ AWAVAUATSPLcw I
 AWAVAUATSPLcw(K
 AWAVAUATSPM
 AWAVAUATSPf
+AWAVAUATSP譋d
 AWAVAUATSf
 AWAVS
 AWAVSD
@@ -21316,7 +21321,7 @@ AWAVSM
 AWAVSP
 AWAVSP1
 AWAVSP9
-AWAVSP95p
+AWAVSP95
 AWAVSPA
 AWAVSPD
 AWAVSPE
@@ -21332,7 +21337,6 @@ AWAVSPL
 AWAVSPLc
 AWAVSPM
 AWAVSPf
-AWAVSP衲\f
 AWAYB
 AWAp\bp\bp
 AXARA
@@ -33697,6 +33701,7 @@ CXD98L
 CXfF9,`r
 CY\nCnt
 CY\nCnu
+C\a\v0C\a
 C\b(I
 C\bA9E\b
 C\bD9p\b~\f
@@ -34893,6 +34898,8 @@ D7xHǄ7
 D81u\vH
 D9 ~wI
 D9$\btu
+D9%gz
+D9%v\t
 D9*tFH
 D9*tbH
 D9*tkH
@@ -34908,23 +34915,21 @@ D94%`\t
 D942t\rH
 D94\btt
 D94\v}\vH
-D95* i
-D95:\ni
-D95B&i
-D95J\ei
-D95\n%i
-D95b!i
-D95r\vi
-D95z'i
+D95" i
+D952\ni
+D95:&i
+D95B\ei
+D95Z!i
+D95j\vi
 D98t\vH
 D98u\nH
 D99u4ffffff
 D9;tBH
 D9;t\rH
 D9<2t\rH
-D9=%uS
-D9=[uS
-D9=wtS
+D9=7sS
+D9=PsS
+D9=\etS
 D9B\bsy
 D9G\f|K
 D9L>@u
@@ -34955,18 +34960,15 @@ D9{4t
 D9|9\ftc
 D9|\b0u
 D9|\bTt\vH
+D;%a9P
 D;(u4A
 D;0}5H
 D;4\b~b
-D;5"\rB
-D;5, i
-D;5<\ni
-D;5D&i
-D;5L\ei
-D;5Y5b
-D;5\f%i
-D;5d!i
-D;5t\vi
+D;5$ i
+D;54\ni
+D;5D\ei
+D;5hRV
+D;5l\vi
 D;8}3H
 D;9uC;Y
 D;F\b~1H
@@ -37735,6 +37737,7 @@ Dʨ t"Hc
 DΊC8<"t
 DЊC8<"t
 Dԋv\bH
+DՋ\rw
 E C;D> t"I
 E r4L
 E#D$XI
@@ -37758,7 +37761,7 @@ E+~XE
 E0HcˋD
 E0ffff
 E1ɋKDA
-E1ɋ\r\rk
+E1ɋ\r=i
 E1ҐD9
 E3T$\bA
 E3]\bE3U\fD1
@@ -38239,10 +38242,11 @@ E\vM̉\bHkE
 E\vN\bA
 E\vP\bA
 E\vQ\bA
-E\v\r=M
-E\v\rD1\n
-E\v\rYA\t
-E\v\r~wF
+E\v\r.wF
+E\v\r=K
+E\v\rD/\n
+E\v\rY?\t
+E\v\r|CH
 E\vp\bHc
 E`IcD$xI
 E`IcEXH
@@ -38779,7 +38783,8 @@ ÈzX"t
 ÈzX"u
 EΉL$PH
 EЀ8%u6A
-EЀ=7I
+EЀ=7Zx
+EЀ=GH
 EЉC\bH
 EЉp f
 EЉp$f
@@ -38793,8 +38798,6 @@ EЋE\tE؋EĉE
 EЋE\vT1
 EЋG\bLc
 EЋU\vD1\b
-EЋ\rM5G
-EЋ\rMAG
 EԀtiM9
 EԊCX<"t
 EԊCX<"u
@@ -38870,7 +38873,6 @@ F<A;F(uyL
 F<A;F(uzL
 F@H\tG
 F@Hcˋ\f
-F@\n\avB\n
 F@ffff
 FACET_COLOR_BLUE
 FACET_COLOR_COUNT
@@ -39174,6 +39176,7 @@ FPA\vFTu
 FP[A\\A^A
 FP]ÐUH
 FPct Games With Roshan Advantage (Player team killed Roshan more times
+FQ\f\aVR\f
 FTr+L
 FXIndex
 F\b9C\b
@@ -39423,10 +39426,9 @@ Fantasy_Team_Slots
 Farm - %s
 FastRetrigger
 FastRetrigger: %s
-Fc\t\a6d\t
 FdA;F4
 FeaturedGamemodeProgress
-Feb 12 2026
+Feb 17 2026
 FeetSettings
 Fetching info about latest revision
 Fffff
@@ -46459,12 +46461,9 @@ LaunchLootRequiredHeight
 LaunchSpear
 LayoutAndAllocateConstantStorage
 Lc E9eH
-Lc%HHA
-Lc%_IA
+Lc%xFA
 Lc/A9
-Lc54/P
-Lc576f
-Lc5oKw
+Lc5oIw
 Lc:F;|3
 Lc@(Ii
 LcCPE9
@@ -48002,7 +48001,6 @@ MЋt\b,L
 MЋt\b0L
 MЋt\b4L
 M؉L0$D
-M؋58N8
 N HcV
 N is not supported in a class
 N(A;L
@@ -50904,6 +50902,7 @@ OverworldTokenID_t[3
 OverworldTokenRewardData
 OwnerHandle
 O|u\eI
+OΉ\r7\r0
 OхɉK\bL
 OхɉK\fL
 P    0
@@ -51178,6 +51177,7 @@ PP  p
 PP0PPP
 PP@0P
 PPA;FHu
+PPLc%u
 PPLcm
 PPP0pp
 PPPP@P@0000
@@ -51309,6 +51309,7 @@ PVS is shared between teams
 PVSManagerGameSystem
 PVSModifier
 PXD90~cH
+P\a\b@R\a
 P\bA;V\b
 P\bB9\f2u
 P\bH;Q\b
@@ -51969,7 +51970,6 @@ QUICK_BUY_PURCHASABLE_AT_OTHER_SHOP
 QUICK_BUY_PURCHASABLE_INVALID
 QZ^&A
 Q\\fff
-Q\a\b@S\a
 Q\a\tPT\a\b
 Q\bE9T$\bs\t
 Q\bH;P\b
@@ -52450,6 +52450,7 @@ R\n(CMsgClientToGCOverworldDevClearInventory
 R\n\aresults
 R\n\bresponse
 R\n\fActivityInfo
+R\v\n6U\v
 Rad2 Deg
 Radiant
 Radiant Game Count
@@ -57809,6 +57810,7 @@ V\bH;Y\b
 V\bHc
 V\bHcJ\bH
 V\bIc
+V\f\t&W\f
 V\n&NETWORK_DISCONNECT_KICKED_NOSTEAMLOGIN
 V\n&NETWORK_DISCONNECT_PURESERVER_MISMATCH
 V\n'NETWORK_DISCONNECT_CREATE_SERVER_FAILED
@@ -58161,7 +58163,6 @@ W\b9S\bsPA
 W\bA9T$\b
 W\bA;V\br
 W\bH;V\bu
-W\b\t@X\b
 W\b\tp_\b
 W\b]ÐUH
 W\bffffff
@@ -58432,26 +58433,22 @@ Y0;Z0s
 Y0A;X0s7L
 Y?33s
 Y?@T\tJa\v
-YA1腧K
-YA1臆c
-YA1臫j
-YA1芚e
-YA1葤G
-YA1蓝j
-YA1蕠j
-YA1虔k
-YA1蚒j
-YA1蚹p
-YA1螪j
-YA1衛j
-YA1袟j
-YA1譋t
-YA1谯j
-YA1賞j
-YA1质K
-YA1蹐V
-YA1轜U
-YA1辆c
+YA1膭j
+YA1臮j
+YA1苟j
+YA1茪j
+YA1莿\a
+YA1藖k
+YA1蛕k
+YA1蛬j
+YA1衡j
+YA1讜e
+YA1豏e
+YA1豠j
+YA1跔j
+YA1身j
+YA1軖j
+YA1軞j
 YDiF\f
 YYYY-MM-DD
 YYYY-MM-DD hh:mm
@@ -59383,7 +59380,7 @@ aD9s0t
 aD9s8t
 aE1ɀx
 aGeneral
-aH9=SVM
+aH9=Y]\f
 aH9F\bv
 aH;G\bt
 aH;G\bt\bH
@@ -59399,15 +59396,14 @@ aMax XPM
 aSupport
 aTAp\bp
 aXffffff
-aYA1藬y
 a[A^A
 a\a b\a
-a\a0)\a
-a\aP#\a
+a\a0(\a
+a\aP"\a
 a\a\tp\b\a\a
 a\a\tpb\a
 a\ap,\a
-a\bP'\a
+a\bP&\a
 a\bP@\a
 a\bSASASA
 a\bSAUAUA
@@ -59420,7 +59416,7 @@ a\n\eEDOTATriviaQuestionCategory
 a\n\nEBadgeType
 a\n\nInputError
 a\n\nPrediction
-a\t !\a
+a\t0%\a
 a\t0+\a
 a\tP#\a
 a\t`4\a
@@ -60860,8 +60856,7 @@ bHc@\fI
 bHcGxH9
 bHcK H
 bHcT\b\bH
-bHc\r
-bHc\r8
+bHc\rL
 bHeartRegenApplied
 bHeroEffect
 bHeroID_t
@@ -61103,7 +61098,6 @@ b\n\fdescriptor_t
 b\n\rDOTAMatchVote
 b\n\rEHeroStatType
 b\n\tEventData
-b\n\tf\r\n
 b\t\n\vSHA256 block transform for x86_64, CRYPTOGAMS by <appro@openssl.org
 b\tp+\b
 b]ÐUH
@@ -62177,6 +62171,7 @@ c\n%CMsgGCRequestSubGCSessionInfoResponse
 c\n(CWorkshop_GetPackageDailyRevenue_Request
 c\n\rCMsgTransform
 c\n\vCheerTarget
+c\t\avd\t
 cable_dynamic
 cache.fow
 cache_data_access_tokens
@@ -66278,7 +66273,6 @@ f$u%fAǅ\f
 f)IcL\r\bN
 f*t\n ESteamLearnGetAccessTokensResult
 f, %f, %f
-f-sZf
 f0IcF(M
 f0K3L
 f0K3L,\fB
@@ -66390,8 +66384,8 @@ fValue
 fWeight
 f[A^A
 f\\f9\fZ
-f\aV)\f
-f\bF}\f
+f\b6b\f
+f\bF&\f\n
 f\bH9L
 f\bLc{\bE
 f\bRARBWA
@@ -66424,14 +66418,16 @@ f\n\bnet_Tick
 f\n\bsvc_Menu
 f\n\fTeleportInfo
 f\n\rCMsgAddSocket
-f\rA}d
 f\rTT
+f\rV}d
 f\rjW
+f\rv!5
 f\tr\rI
 f^f9\fZ
 f_f9\f
 f_f9\fZ
 f`IcFXM
+f`\t\aFb\t
 face_duration
 face_player
 faceless_void_backtrack
@@ -67307,7 +67303,7 @@ furion_sprout
 furion_teleportation
 furion_wrath_of_nature
 fury_swipe_stacks_on_hit
-fv\vD;=\e
+fv\vD
 fwrite
 fxD;f|u
 fxIndex
@@ -68115,7 +68111,6 @@ hUpgradeAbility
 hWearable
 h[A^A
 h\a\n j\a
-h\f\b6j\f
 h\n CUserMessageHapticsManagerEffect
 h\n"unlocked_chat_wheel_message_ranges
 h\n"unlocked_ping_wheel_message_ranges
@@ -73269,6 +73264,7 @@ lycan_summon_wolves_hamstring
 lycan_summon_wolves_hightail
 lycan_summon_wolves_invisibility
 lycan_wolf_bite
+lէ10Q_2
 m$`< uMH
 m\a\b o\a
 m\a\b@n\a
@@ -88192,7 +88188,6 @@ n\bStanding
 n\bUAUA
 n\bUnitType
 n\bValueTag
-n\b\tP\v\b
 n\bactivity
 n\badditive
 n\bagi_base
@@ -89624,6 +89619,7 @@ n\tTE_FizzId
 n\tTeamState
 n\tTypeCache
 n\tUpdateFan
+n\t\aV\v\t
 n\tabilities
 n\taccountid
 n\taction_id
@@ -100974,7 +100970,7 @@ t#fffff
 t#ffffff
 t$ E;t$$u
 t$ H;5
-t$ H;5\a
+t$ H;5G
 t$ IcT
 t$(ffffff
 t$0LcC0E
@@ -101133,7 +101129,7 @@ t@ffffff
 tA8_%t
 tAfD9u
 tAƄ$X
-tBD9=7~l
+tBD9=7}l
 tBD;8uM
 tBy default, additional arguments are of the form [{ "key1" "value1" "key2" "value2" }]\n
 tBƄ;PB
@@ -101153,7 +101149,6 @@ tEJc<3L
 tEffff
 tEfffff
 tE~8E1
-tFD;%\r3
 tFfff
 tFffffff
 tFound %s\n
@@ -101179,6 +101174,7 @@ tJE;eLtDH
 tJHcH H
 tJHc\bH
 tJIcN`;\b}B
+tKD;%\r
 tKHc\bH
 tKLc M
 tKLc8M
@@ -101316,7 +101312,6 @@ t\f[A^A
 t\n CMsgDOTAClaimEventActionResponse
 t\n#CMsgClientToGCOverworldDevResetNode
 t\n'series_current_non_priority_team_choice
-t\n6?\t\t
 t\nH9H
 t\nH9X
 t\nH;X
@@ -101329,7 +101324,6 @@ t\n\v\f\r
 t\r<Ot\t
 t\rA9T9\bu
 t\rB9
-t\rD9%f\r
 t\rD93u\bH
 t\rF9
 t\rF9d
@@ -101352,6 +101346,7 @@ t\t[A
 t\t\npv\t
 t\t\tResponse %d: %s\n
 t\tif g_reloadState == nil then \t\t\tg_reloadState = {} \t\t\tfor k, v in pairs( package.loaded ) do \t\t\t\tg_reloadState[k] = v \t\t\tend \t\telse \t\t\tfor k, v in pairs( package.loaded ) do \t\t\t\tif g_reloadState[k] == nil then \t\t\t\t\tpackage.loaded[k] = nil \t\t\t\tend \t\t\tend \t\tend
+t\tv~\t\af
 t\vHǃ(F
 t\vO0
 t\v[A^A
@@ -102321,7 +102316,7 @@ t~rLc
 tǁx\b
 tщK@Ic
 tщ\vA
-tы5rFm
+tы5"Dm
 t։uԉE
 u %u %u
 u E;u$t
@@ -103207,8 +103202,6 @@ v2\v.CMsg_CVars
 v8A+D
 v8D;s<t
 v8D;s<u
-v8H;5J
-v8H;5X
 v8IcV0H
 v8Ic\f$I
 v8array
@@ -103252,7 +103245,6 @@ vLastPos
 vLcq H
 vLeashLocation
 vLocation
-vM\n\aVO\n
 vMax Assists
 vMax Dewards
 vMax Healing
@@ -103839,6 +103831,7 @@ w\a\n@z\a
 w\bH+7H
 w\bH97t
 w\bKcD
+w\bL;5B4
 w\b]ËO\bD
 w\bffff
 w\eIc\f$I9
@@ -104257,6 +104250,7 @@ write gameevents keyvalues (sorted by name) to gameevents_<modname>.txt
 written at chunk start last-read I%d
 written by I%d last-read I%d
 wrong submessage type
+wxH;52
 wxIcWpH
 wyfffff
 x IcD$ E
@@ -104307,6 +104301,7 @@ x\b[A
 x\b\bPy\b
 x\eD93
 x\nD9G
+x\t\tFy\t
 x]t\rf
 x_return
 xdigit
@@ -104340,7 +104335,6 @@ y\bL9g u
 y\eIcFLH
 y\n\a0{\n
 y\v[A
-y\v\aF{\v
 y_offset
 yasha_bonus_agility
 yasha_bonus_attack_speed

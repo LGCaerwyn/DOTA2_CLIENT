@@ -37422,7 +37422,6 @@ FOW_TEAM_UNUSED7
 FOW_TEAM_WEIGHTED_PIE
 FPct Games With Roshan Advantage (Player team killed Roshan more times
 FXIndex
-F\as
 F\n ParticleFreezeTransitionOverride
 F\n%NETWORK_DISCONNECT_DISCONNECT_BY_USER
 F\nAk_EMsgClientToGCMonsterHunterDevClaimInvestigationRewardsResponse
@@ -37641,7 +37640,7 @@ Fast
 FastRetrigger
 FastRetrigger: %s
 FeaturedGamemodeProgress
-Feb 12 2026
+Feb 17 2026
 FeetSettings
 Fetching info about latest revision
 Field
