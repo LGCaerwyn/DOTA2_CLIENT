@@ -17701,7 +17701,6 @@
 4STEAMLEARN_REGISTER_DATA_SOURCE_RESULT_ERROR_GENERIC
 4STEAMLEARN_REGISTER_DATA_SOURCE_RESULT_SUCCESS_FOUND
 4STEAMLEARN_SNAPSHOT_PROJECT_ERROR_INVALID_PROJECT_ID
-4YA1莓o
 4d     %s
 4d=[%%%d.%ds] at cycle %%6.4f weight %%5.3f
 4d]: %s%s
@@ -17726,6 +17725,7 @@
 4k_EMsgGCToClientCollectorsCacheAvailableDataResponse
 4vHc;H
 4ыK4E1
+4萬A菠A萃A
 5&YA1A
 5&YA1L
 5'YA1i
@@ -20362,13 +20362,13 @@ ACT_SLAM_DETONATOR_HOLSTER
 ACT_SLAM_DETONATOR_IDLE
 ACT_SLAM_DETONATOR_STICKWALL_DRAW
 ACT_SLAM_DETONATOR_THROW_DRAW
+ACT_SLAM_STICKWAL
 ACT_SLAM_STICKWALL_ATTACH
 ACT_SLAM_STICKWALL_ATTACH2
 ACT_SLAM_STICKWALL_DETONATE
 ACT_SLAM_STICKWALL_DETONATOR_HOLSTER
 ACT_SLAM_STICKWALL_DRAW
 ACT_SLAM_STICKWALL_IDLE
-ACT_SLAM_STICKWALL_ND_ATTA
 ACT_SLAM_STICKWALL_ND_ATTACH2
 ACT_SLAM_STICKWALL_ND_DRAW
 ACT_SLAM_STICKWALL_ND_IDLE
@@ -20786,7 +20786,7 @@ ARA`AARA
 ARA`AATBp
 ARA`JA[A
 ARA`TA`#BSBXA]A]A]A]A]A]A]A]A]A]A]A^CSDTAp
-ARA`cARARARARARARARARA
+ARA`dARARARARARARARARA
 ARA`dB`@ARA`@ARA
 ARA`nA`-AUA
 ARBRA
@@ -21033,7 +21033,7 @@ AZARAZARAp
 AZARA^ARARARARARARARARA^Ap
 AZARA`@ARAp
 AZARAp
-AZARB`@ARAZARAp
+AZARB`@ARAZARARBWBRA\0
 AZARBp
 AZASAp
 AZAWA
@@ -21051,7 +21051,6 @@ AZBZAp
 AZB[ARAWARAWARA[ARAWA
 AZB^ARARAWA
 AZB^ASA
-AZB^F\0
 A[ATAp
 A[AXB`AA`$A
 A[A[A^A
@@ -22225,13 +22224,12 @@ BRACKET_SINGLE
 BRARARA
 BRARARARARA[ARAWARBWARAWARAZAp
 BRARAWA
-BRARAWARAWARAWARAZARAp
 BRARA`ACVARAZC
 BRARAp
-BRARBRASBTAUBTARA[ARA`@ARA[A^AUB`/A`@A
 BRARBRAWA
 BRARBRA[ARA`@ARAWA
 BRARBRBWA
+BRARBTAUBTARA[ARA`@ARA[A^BUB`/A`@A
 BRASARAZARAp
 BRASAp
 BRATARATARA
@@ -22241,6 +22239,7 @@ BRATARATARATARAXAp
 BRATARATARAWAp
 BRATARATARB
 BRAUBSARA[AUB[ARA[AUA
+BRAWA
 BRAWARARA[AUBWBRAWARAUAp
 BRAWBRAWARASARA[ARASARASARA
 BRAWBRAWARAUCRA`(ARAWARAUB`(ARB`@A
@@ -22256,10 +22255,10 @@ BRA[ARA[ARAWBRA[ARASAUASASB[ARA[AUASASASB`/A`@A
 BRA`@ARAWA
 BRA`@ARAYARARA
 BRA`@ARA[ARA`@ARBWARAZAp
-BRBRAWA
 BRBRB\ATARATARATARA
 BRBSASC
 BRBVAp
+BRBWARAWARAWARAZARAp
 BRB\A
 BRUSHSOLID_ALWAYS
 BRUSHSOLID_NEVER
@@ -22616,6 +22615,7 @@ Bx<"t
 By default, additional arguments are of the form [{ "key1" "value1" "key2" "value2
 ByHeroTarget
 Bypasses lookup of soundscapes for indvidual audio sources when enabled
+B寮B少B尴B
 B耀B耀B
 B저B저B저B
 C	A:F
@@ -34928,7 +34928,6 @@ D3t$<F
 D7q/;M
 D8{%t
 D9 ~wI
-D9%gz
 D9*tFH
 D9*tbH
 D9*tkH
@@ -34939,14 +34938,14 @@ D93}lD
 D93}{D
 D93}}D
 D942t
-D95" i
-D95:&i
-D95Z!i
+D954C
+D95J$i
+D95Tp
+D95z	i
 D99u4ffffff
 D9;tBH
 D9<2t
-D9=7sS
-D9=PsS
+D9=etS
 D9L>@u
 D9`H~5H
 D9c,~b
@@ -34961,12 +34960,13 @@ D9ydt
 D9yduaH
 D9{0u
 D9{4t
-D;%a9P
+D;%aZV
 D;(u4A
+D;-Q5
 D;0}5H
 D;0~2E
-D;5$ i
-D;5hRV
+D;5L$i
+D;5hSV
 D;8}3H
 D;9uC;Y
 D;Z s%E1
@@ -39275,7 +39275,7 @@ FastRetrigger
 FastRetrigger: %s
 FdA;F4
 FeaturedGamemodeProgress
-Feb 17 2026
+Feb 18 2026
 FeetSettings
 Fetching info about latest revision
 Fffff
@@ -44069,7 +44069,6 @@ IcD$ I
 IcD$(H
 IcD$(I
 IcD$0H
-IcD$0H9
 IcD$0I9
 IcD$4H9
 IcD$4I
@@ -45962,6 +45961,7 @@ LUA_MODIFIER_MOTION_BOTH
 LUA_MODIFIER_MOTION_HORIZONTAL
 LUA_MODIFIER_MOTION_NONE
 LUA_MODIFIER_MOTION_VERTICAL
+L_ND_ATTACH
 LabelledDebugHelperDebug
 LadderConnect
 LagCompensate
@@ -45997,9 +45997,9 @@ LaunchLootRequiredHeight
 LaunchSpear
 LayoutAndAllocateConstantStorage
 Lc E9eH
-Lc%xFA
 Lc/A9
-Lc5oIw
+Lc5t.P
+Lc5w5f
 Lc6Lc
 Lc:F;|3
 Lc@(Ii
@@ -51401,6 +51401,7 @@ RARAZAWA
 RARAZAp
 RARA[ARAZARAp
 RARA\A
+RARA^F\0
 RARA`$B
 RARA`BBRA
 RARBRA
@@ -51573,6 +51574,7 @@ RBREp p
 RBSDp(p(p
 RBUARBUARBUARBUARBUARBUAUARBUARA
 RBUAUARBUARBSAp
+RBUAWA`3A`CA
 RBWARAWA
 RBWBp(p(p p
 RBYASBRBRBRBRBRBRBSBYA
@@ -55689,7 +55691,7 @@ TAZARAp
 TBRASA
 TBRASAp
 TBRATARAZARAp
-TBRB`@AYA
+TBRB`@AUAWA
 TBTARAp
 TBYARAYARAp
 TBYBRA
@@ -56495,7 +56497,6 @@ UAWAVATSI
 UAWAVAUATSH
 UAWAVAUATSI
 UAWAVAUATSPA
-UAWA`3A`CA
 UAYAWA
 UA^ARA^ARA^ARA^ARA]ARARA]ARA]ARA]ARA]ARA]ARA]ARA]ARA]ARA]ARA]ARA]ARA]ARA^ARA
 UA`UAVB`PA`PA
@@ -56651,7 +56652,6 @@ UWT1  %s
 UWT2  %s
 UWT3  %s
 Uffff
-Uffffff
 UltimateDisableResistance
 UnHideAbilityToSlot
 UnInvalid
@@ -57410,6 +57410,7 @@ WARAWA
 WARAWARA[ARAWA
 WARAWARA[BRAZAp
 WARAZARAp
+WARAZAp
 WARA`/Ap
 WARNING
 WARNING - FilterExperience called with null Hero
@@ -57439,8 +57440,7 @@ WAXARARASDp
 WA[A[AYC
 WBRA[ARA[ARAWA
 WBRA[BRAZAp
-WBRA\0
-WBRA`(ARARARBRAp
+WBRA`(ARARARAZARAWA
 WEAPON_SOUND_EMPTY
 WEAPON_SOUND_IMPACT
 WEAPON_SOUND_MELEE_HIT
@@ -57715,9 +57715,11 @@ XxA;X|t
 Y0;Z0s
 Y?33s
 Y?@T	Ja
-YA1苟j
-YA1衡j
-YA1身j
+YA1胱j
+YA1與c
+YA1芯j
+YA1蒟j
+YA1蠣u
 YARAVAp
 YARAXARAXARAXARBZARAp
 YARAYARAp
@@ -66610,8 +66612,8 @@ game/server/dota/dota_server_custom_game_cache.cpp
 game/server/dota/nextbot_s1/nextbot.cpp
 game/server/dota/nextbot_s1/nextbotinterface.cpp
 game/server/gameinterface.cpp
-game/server/gameinterface.cpp:2962
-game/server/gameinterface.cpp:3077
+game/server/gameinterface.cpp:2971
+game/server/gameinterface.cpp:3086
 game/server/nav_search_bfs.inl
 game/server/player_lagcompensation.cpp
 game/server/scenepayload.cpp
@@ -67315,6 +67317,7 @@ gyrocopter_multi_homing_missile
 gyrocopter_rocket_barrage
 gyrocopter_side_gunner
 gyroshell
+h		fi
 h(D;h,u
 h0D;h4u
 h@D;hD
@@ -72359,7 +72362,6 @@ kobold_disarm
 kobold_duration
 kobold_taskmaster_speed_aura
 kobold_tunneler_prospecting
-kunkka
 kunkka_admirals_rum
 kunkka_ghostship
 kunkka_return
@@ -97302,7 +97304,7 @@ t#ffff
 t#fffff
 t#ffffff
 t$ E;t$$u
-t$ H;5G
+t$ H;5
 t$ IcT
 t$(ffffff
 t$0LcC0E
@@ -97426,7 +97428,6 @@ t@Lc&N
 t@fff
 t@ffffff
 tAfD9u
-tBD9=7}l
 tBD;8uM
 tDHcKXH
 tDLc>N
@@ -97455,6 +97456,7 @@ tILc M
 tJE;eLtDH
 tJHcH H
 tJIcN
+tKD;%I
 tKLc M
 tKLc8M
 tKMc<$M
@@ -97517,6 +97519,7 @@ t]fff
 t]ffff
 t^I96
 t^fffff
+t_D;5kE
 t_I96
 t_IcE I
 t_Lc0M
@@ -97848,6 +97851,7 @@ tgM97
 tgM9u
 tgt_alpha
 tgtpath
+thD95H
 thI96
 thI96vVI
 thM94
@@ -98557,7 +98561,7 @@ t~Lck
 t~rLc
 tK D9
 t͋S\H
-tы5"Dm
+tы5"Em
 u %u %u
 u E;u$t
 u E;u$uuA
@@ -98953,6 +98957,7 @@ v0IcV(H
 v8A+D
 v8D;s<t
 v8D;s<u
+v8H;5
 v8IcV0H
 v8array
 v8callback
@@ -99919,10 +99924,8 @@ written at chunk start last-read I%d
 written by I%d last-read I%d
 wrong submessage type
 www.memtest86.com).  At the time of writing it is free (GPLd
-wxH;52
 wxIcWpH
 wyfffff
-x		Fy
 x IcD$ E
 x"9Ch
 x#A9Fh

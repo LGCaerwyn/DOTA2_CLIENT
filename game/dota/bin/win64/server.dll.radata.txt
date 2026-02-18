@@ -20136,7 +20136,6 @@ DYNAMIC_SET_DATA_CTX
 Data Encipherment
 Data:\n
 Decipher Only
-Dh\r
 Different CRL scope
 Diffie-Hellman based MAC
 Diffie-Hellman routines
@@ -20144,6 +20143,7 @@ Digital Signature
 DirName
 Directory
 Domain
+Dx\r
 E-mail Protection
 EC PARAMETERS
 EC PRIVATE KEY
@@ -21602,6 +21602,7 @@ X9_62_CURVE
 X9_62_FIELDID
 X9_62_PENTANOMIAL
 X9cm
+Xr4
 You must type in
 You need to read the OpenSSL FAQ, http://www.openssl.org/support/faq.html
 ZI\r\v
@@ -22819,7 +22820,6 @@ homePostalAddress
 homeTelephoneNumber
 host
 houseIdentifier
-hr4
 http request
 https proxy request
 i <= EVP_MAX_MD_SIZE

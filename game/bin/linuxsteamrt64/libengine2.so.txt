@@ -51,6 +51,8 @@
 0x8000'0000p0f <= flTicks && flTicks < +0x8000'0000p0f
 0|t?L
 0|t?z7
+0늠0뉘0눠0
+0렬0러0랬0
 1 = Pause the game when pressing ~ to open the console. CTRL+~ opens the console without pause
 1 = Unpause the game when pressing ~ to close the console. 0 = Leave the game paused
 1.2.11
@@ -1063,7 +1065,7 @@
 4 ~7ff
 4$@82u
 4$H;t
-4$Lc%Y
+4$Lc%9
 4.2f FPS %4.3f ms
 40CBreakpadPassiveAssertionFailureListener
 40CDemoRecovery_DemoInitialSpawnGroupEntry
@@ -3319,7 +3321,6 @@ D9k ~6H
 D9kXH
 D9{x~xLc
 D9X0J
-D;% cG
 D;4$}VD
 D;c0sb
 D;c4|	E1
@@ -4319,7 +4320,7 @@ H9p sMI9
 H9wXt
 H9z r
 H9z s
-H;-qih
+H;-1jh
 H;z H
 H;z t
 H?'mK
@@ -4373,7 +4374,7 @@ HasField
 HasLegacyGameUI
 HasModAppSystems
 Hc+HcC
-Hc5oIA
+Hc5OIA
 Hc@LHk
 HcC@A9
 HcClH
@@ -4855,6 +4856,7 @@ Is the server pausable
 IsValidFrac( flFrac
 IsValidIndex( i
 Issue an rcon command
+I谈I诸I谨I
 J400ToARGB
 J400ToARGBRow_Any_SSE2
 J400ToARGBRow_C
@@ -5178,6 +5180,7 @@ Marks the current demo playback tick for later use
 MaskCpuFlags
 Master "%s", delay %.0f, frames %d / ticks %d
 Match start status: %u/%u
+MatchID: %lld
 MatchSession
 Matchmaking failed; Waiting on %d/%d clients
 Material Group
@@ -5373,7 +5376,6 @@ MutableRepeatedMessage
 Myanmar
 M̋K,E1
 MкVUUU
-M蚀M蝸M
 N is not supported in a class
 N0A9N4
 N0A;N4
@@ -6433,7 +6435,6 @@ Poor man's restart: reload the current map from disk
 Position
 Post Source2 Client
 PostProcessingSystem_001
-PpLc=A
 Pre Source2 Client
 Pre-match interface command from [U:1:%u]: %s
 Precache table %s:  %i slots used
@@ -6865,8 +6866,6 @@ RunPrediction
 Running SteamAPI_RunCallbacks for first time
 Running [%s
 Runs the final server tick of the frame in parallel with client work
-R̥R̥R͘R
-R̯R̯R
 S Kct
 S(t_HcL
 S3: Client SteamID %s doesn't match SteamID %s from auth blob
@@ -7973,6 +7972,7 @@ T$HdH3
 T$Pff
 T$XdH3
 T$\McL$<B
+T$xdH3
 TGAWriter: Failed to serialize screenshot pixels (%d x %d, %s
 TLS init function for
 TLS wrapper function for
@@ -8389,7 +8389,6 @@ Using AVI will bring up a dialog for choosing the codec, which may not show if y
 UtlVectorMemory_Alloc
 UtlVectorMemory_CalcNewAllocationCount
 UtlVectorMemory_FailedAllocation
-U환U홈U호U
 V/?[w8rV
 VApplication001
 VAsyncFileSystem2_001
@@ -8592,7 +8591,6 @@ VoiceDataFormat_t
 Vrad3_001
 V|x{w
 V~jHZ
-V커V컴V켄V
 W(Hc_ H
 W(Hco H
 WARNING
@@ -15006,6 +15004,7 @@ avg_packets_out
 avg_ping_ms
 avi = .avi video and audio (unavailable on this platform
 avisound
+a녀a녀a녀a
 backColorBuffer
 backDepthBuffer
 backbuffer
@@ -15516,9 +15515,11 @@ cxa_throw_bad_array_new_length
 cyclevar
 cyclevar: cvar "%s" not found
 cyclevar: no varname specified
-c弘c岐c屠c
-c貌c貌c韵c
-c館c风c颐c
+c覧c覧c覧c
+c覧c覧c覧c覧c
+c뉴c낄c낄c
+c덴c댄c낄c
+c얼c얼c얼c
 d %d %d
 d %d %d %d
 d (s/n %d
@@ -16581,6 +16582,7 @@ kickid_hltv
 kkkkkkkkkkkkkkk
 kkkkkkkkkkkkkkkk
 kp|	1
+k愁k愁k惨k庵k
 l bug reH
 l$0tTH
 l$XuTI
@@ -16689,7 +16691,8 @@ low_value
 low_violence
 lseek64
 lua_is_currently_executing
-m8L;-^jh
+m H;-l;h
+m H;-tzh
 m_Args
 m_Attributes
 m_CScriptComponent
@@ -16958,7 +16961,6 @@ multvar
 multvar: cvar "%s" not found
 multvar: no varname specified
 must be unique within
-mxH;-L8h
 n L9l
 n>sak
 nBits != 32
@@ -18714,7 +18716,6 @@ timedemo_start
 timedemoquit
 timeout
 title_pw
-tkI;E
 tls_get_addr
 tm[A\A]A^A
 tm_clone_table

@@ -660,27 +660,20 @@
 1\n-NETWORK_DISCONNECT_DIRECT_CONNECT_RESERVATION
 1\n\fsplitplayers
 1\n\fvprof_report
-1\v="h9
+1\v= d
+1\v=$q9
 1\v='62
-1\v=1j
 1\v=2
 1\v=3<0
-1\v=4
-1\v=5
-1\v=7^9
-1\v=8C
-1\v=<j9
-1\v=D
-1\v=Dq9
+1\v=GMB
 1\v=K62
 1\v=Q 0
+1\v=U_5
+1\v=Zh9
 1\v=\bD
+1\v=^W8
 1\v=aK
-1\v=gMB
-1\v=u_5
-1\v=zh9
-1\v=|zN
-1\v=~W8
+1\v=v
 1f%% %s missed due to network (%d dropped, %d late)   Good:%d   BadOther:%d    Fixed: %d dropped, %d late\n
 1s3\t\b\b
 1ҋH ;M
@@ -1100,7 +1093,7 @@
 4 ~7ff
 4$@82u
 4$H;t$\bu
-4$Lc%Y
+4$Lc%9
 4(D;c\br\bA
 4-\rS(W
 4.2f FPS %4.3f ms\n
@@ -1681,7 +1674,7 @@ AVAUL
 AVAULc
 AVAUSH
 AVI not supported on this platform\n
-AVLc5l
+AVLc5L
 AWAUAV
 AWAVAU
 AWAVAUA
@@ -3516,8 +3509,6 @@ D24FS8
 D24X8_SHADOW
 D32FS8
 D7\\Hcq
-D9%<dG
-D9%rdG
 D90tNH
 D97tJHc
 D98tϋH
@@ -3530,15 +3521,10 @@ D9k ~6H
 D9{x~xLc
 D9}(Hc
 D9ÉGPA
-D;% cG
-D;%3dG
-D;%EdG
-D;%NdG
-D;%WdG
-D;%gcG
-D;%idG
-D;%pcG
-D;%ycG
+D;%jcG
+D;%kdG
+D;%scG
+D;%tdG
 D;4$}VD
 D;G\f}(HcO\bH
 D;`Xt*9pPt7D
@@ -3741,7 +3727,9 @@ Dumped stack stats struct "%s" to file "%s"\n
 Duplicate connection allowed\n
 Duplicate engine service named "%s" registered!\n
 Duplicate loop named "%s" registered!\n
+Dȋ=\fW3
 Dȋ=jiD
+Dȋ=tt
 Dؾ#YA1L
 E H;E
 E H;E(t
@@ -4630,12 +4618,12 @@ H9z r\fH
 H9z s
 H9z\bt\r
 H9{\bt\vH
-H;-qih
+H;-1jh
 H;2s]A
 H;5\rV
 H;=7T3
 H;=9Q3
-H;=S\vL
+H;=YnH
 H;=\aW3
 H;=\tX3
 H;=f23
@@ -4643,7 +4631,6 @@ H;=jU3
 H;=lR3
 H;=vA3
 H;=vs
-H;=z\aM
 H;B s.H
 H;B\btNA
 H;E s\a
@@ -4695,7 +4682,6 @@ H[]A\\A]ÐAWAVI
 H[]ÐATUA
 H[]ÐATUSH
 H\a.0c
-H\a1\v
 H\bD)C
 H\b[A
 H\bscH
@@ -4722,7 +4708,7 @@ HasField
 HasLegacyGameUI
 HasModAppSystems
 Hc+HcC
-Hc5oIA
+Hc5OIA
 Hc7E1
 Hc9E1
 Hc=ZhB
@@ -5430,6 +5416,8 @@ L9t$\bM
 L9|$(tLL
 L9|$HJ
 L9|$\bu
+L;%XzM
+L;-dWa
 L;4$t0A
 L;4$toM
 L;4$trM
@@ -5482,7 +5470,7 @@ Latest:%6.2f   Excess:%6.2f   Actual:%6.2f..%6.2f (@%d,%d)   Est:%6.2f..%6.2f (@
 Launch path: %s\n
 LayeredGameRoot
 LayeredOnMod
-Lc%-U\n
+Lc%\rU\n
 LcL1\bI
 LcN H
 LcT1\bI
@@ -5706,6 +5694,7 @@ Marks the current demo playback tick for later use
 MaskCpuFlags
 Master "%s", delay %.0f, frames %d / ticks %d\n
 Match start status: %u/%u\n
+MatchID: %lld\n
 MatchSession
 Matchmaking failed; Waiting on %d/%d clients
 Material Group
@@ -6914,8 +6903,8 @@ Poor man's restart: reload the current map from disk
 Position\n
 Post Source2 Client
 PostProcessingSystem_001
-PpLc=A
-PpLc=s
+PpLc=S
+PpLc=j
 Pre Source2 Client
 Pre-match interface command from [U:1:%u]: %s\n
 Precache table %s:  %i slots used\n
@@ -15619,7 +15608,8 @@ bH9H\bt
 bH9H\bt\bH
 bH9H\bu
 bH9Ɖ\nu
-bH;5w
+bH;57
+bH;5G
 bH\vH\v$\t
 bHc3H
 bHc@0
@@ -17356,8 +17346,9 @@ lseek64
 lua_is_currently_executing
 l|)9lC
 lֺO*V\a
+m H;-l;h
+m H;-tzh
 m"f\nn
-m8L;-^jh
 m\bu\eH9
 m\vm\vm\vm\vm\vm\vm\vm\vm\vm\vm\v
 m_Args
@@ -17611,7 +17602,7 @@ multvar
 multvar: cvar "%s" not found\n
 multvar: no varname specified!\n
 must be unique within
-mxH;-L8h
+mxH;-\f9h
 m۶m۶\rM
 m۶m۶mH
 n    Actual

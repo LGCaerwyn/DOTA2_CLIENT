@@ -216,7 +216,7 @@
 241012000000Z
 250507000000Z
 250604000000Z
-260128183918Z0
+260218194122Z0
 271008235959Z0a1
 2DigiCert SHA256 RSA4096 Timestamp Responder 2025 10
 2DownArrowPressed
@@ -1527,6 +1527,7 @@ UNKNOWN
 UNRECOGNIZED
 USAUAWH
 USVATAVAWH
+USVATH
 USVAVAWH
 USVWATAUAVAWH
 USVWATAUAVH
@@ -1771,6 +1772,7 @@ Z?setPen@QPainter@@QEAAXAEBVQColor@@@Z
 Z?setPen@QPainter@@QEAAXAEBVQPen@@@Z
 Z?setPlainText@QTextDocument@@QEAAXAEBVQString@@@Z
 Z?setPointSize@QFont@@QEAAXH@Z
+ZB3{RXVQl
 ZX?setBackground@QTextFormat@@QEAAXAEBVQBrush@@@Z
 a-zA-Z0-9][a-zA-Z0-9
 abcdefghijklmnopqrstuvwxyz
@@ -2435,6 +2437,7 @@ keyframeclass
 kok-IN
 kok-in
 l$ VWATH
+l$ fD
 l$0uLH
 l$HA_A^A]A
 layout@QLayout@@UEAAPEAV1@XZ
@@ -2458,6 +2461,7 @@ lock.png
 lod_level
 looks like this
 m%0!FCQIHTx
+mHVtPD
 m_Items
 managed vector constructor iterator
 managed vector copy constructor iterator
@@ -2775,7 +2779,6 @@ quz-bo
 quz-ec
 quz-pe
 r&fR{a
-r2SSu
 rKF^Wo
 rOH+ЋA
 raise@QWidget@@QEAAXXZ
@@ -2799,6 +2802,7 @@ redirected@QWidget@@MEBAPEAVQPaintDevice@@PEAVQPoint@@@Z
 registerNormalizedType@QMetaType@@SAHAEBVQByteArray@@P6AXPEAX@ZP6APEAX1PEBX@ZHV?$QFlags@W4TypeFlag@QMetaType@@@@PEBUQMetaObject@@@Z
 reject@QDialog@@UEAAXXZ
 rejected@QDialogButtonBox@@QEAAXXZ
+reloc
 remove@QFile@@SA_NAEBVQString@@@Z
 removeItem@QComboBox@@QEAAXH@Z
 remove_attr
@@ -3237,7 +3241,6 @@ uz-UZ-Cyrl
 uz-UZ-Latn
 uz-uz-cyrl
 uz-uz-latn
-v2tF	r~6
 v=Y]Bv
 v@D8s(t
 vAD8s(t

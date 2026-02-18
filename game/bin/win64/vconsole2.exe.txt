@@ -588,7 +588,7 @@
 241012000000Z
 250507000000Z
 250604000000Z
-260128184121Z0
+260218194301Z0
 271008235959Z0a1
 2BackgroundColorChanged( const QColor
 2ColorPicked(QColor
@@ -5821,6 +5821,7 @@ Text Viewer
 TextLayout_001
 TextureFormat
 TextureWrapModes
+TfvgI((P
 The following libraries have changed:<pre>%1</pre>You need to close and restart VConsole to update.<br>(You will only be prompted to restart once per session
 The lexer was matching from line %d, offset %d, which
 The preceding flow should have branched away from this

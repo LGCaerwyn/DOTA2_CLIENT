@@ -1,7 +1,6 @@
 0 0 0 0
 0 0 0 255
 0 to 1 value indicating the amout of random offset that should be applied to the reguluarly spaced positions
-0%hCK
 0+Ɖ\aIc
 0, 1 ] Value specifying the location along the local x-axis the bend will occur around
 0, 1 ] Value specifying the location on the gradient to pick the color from
@@ -19437,7 +19436,6 @@ ZIPSetupDecode
 ZIPSetupEncode
 ZIPVSetField
 ZVǖAO\b
-ZX|t4
 ZZZZZZZZZZZZZZZ
 ZZZZZZZZZZZZZZZZ
 Z\f?convertFromImage@QPixmap@@QEAA_NAEBVQImage@@V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z
@@ -19526,6 +19524,7 @@ aThreadMultiWaitObjectSetDestroy
 aWDG,r3
 aX\a8\ax\a
 a\b  Group 4 Options
+a\bKl9N
 a\bL+!H
 a\f?data@QSortFilterProxyModel@@UEBA?AVQVariant@@AEBVQModelIndex@@H@Z
 a]?sharedPainter@QPaintDevice@@MEBAPEAVQPainter@@XZ
@@ -20848,7 +20847,6 @@ eInstantStop
 eInvalid
 eMedium
 eMoveWithGait
-eNR[wq
 eObsoleteBackCompat1
 eObsoleteBackCompat2
 ePA_A
@@ -24939,7 +24937,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260128184154Z0
+r260218194546Z0
 r271008235959Z0a1\v0\t
 r311109235959Z0b1\v0\t
 r360428235959Z0i1\v0\t

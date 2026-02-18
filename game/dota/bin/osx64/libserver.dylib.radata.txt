@@ -37286,6 +37286,7 @@ FCVAR_UNLOGGED
 FCVAR_USERINFO
 FCVAR_VCONSOLE_SET_FOCUS
 FEATURED_GAMEMODE
+FGr
 FIELD_AI_SCHEDULE_BITS
 FIELD_AMMO_INDEX
 FIELD_ATTACHMENT_HANDLE
@@ -37640,7 +37641,7 @@ Fast
 FastRetrigger
 FastRetrigger: %s
 FeaturedGamemodeProgress
-Feb 17 2026
+Feb 18 2026
 FeetSettings
 Fetching info about latest revision
 Field
@@ -62748,8 +62749,8 @@ game/server/dota/dota_server_custom_game_cache.cpp
 game/server/dota/nextbot_s1/nextbot.cpp
 game/server/dota/nextbot_s1/nextbotinterface.cpp
 game/server/gameinterface.cpp
-game/server/gameinterface.cpp:2962
-game/server/gameinterface.cpp:3077
+game/server/gameinterface.cpp:2971
+game/server/gameinterface.cpp:3086
 game/server/nav_search_bfs.inl
 game/server/player_lagcompensation.cpp
 game/server/scenepayload.cpp
@@ -68043,7 +68044,6 @@ kobold_duration
 kobold_taskmaster_speed_aura
 kobold_tunneler_prospecting
 kunai
-kunkka
 kunkka_admirals_rum
 kunkka_ghostship
 kunkka_return

@@ -5754,6 +5754,7 @@ Marks the current demo playback tick for later use
 MaskCpuFlags
 Master "%s", delay %.0f, frames %d / ticks %d\n
 Match start status: %u/%u\n
+MatchID: %lld\n
 MatchSession
 Matchmaking failed; Waiting on %d/%d clients
 Material Group
@@ -8609,7 +8610,6 @@ U\n&NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
 U\n&NETWORK_DISCONNECT_SERVER_INCOMPATIBLE
 U\n(NETWORK_DISCONNECT_REJECT_INVALIDCERTLEN
 U\tMԋE IcK0H
-U\v5 [i
 Ub\r\e
 Uffffff
 UnInvalid

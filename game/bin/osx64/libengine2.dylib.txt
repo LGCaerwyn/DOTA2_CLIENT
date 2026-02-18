@@ -5309,6 +5309,7 @@ Marks the current demo playback tick for later use
 MaskCpuFlags
 Master "%s", delay %.0f, frames %d / ticks %d
 Match start status: %u/%u
+MatchID: %lld
 MatchSession
 Matchmaking failed; Waiting on %d/%d clients
 Material Group
