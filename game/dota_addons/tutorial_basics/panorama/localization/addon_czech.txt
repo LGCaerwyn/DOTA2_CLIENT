@@ -23,7 +23,7 @@
 		"basics_alert_FirstDeathBody"				"Když zemřeš, přijdeš o část svých zlaťáků a hrdina nebo hrdinové zodpovědní za tvoji smrt získají zkušenosti a zesílí tak.\n\nAž odpočet dosáhne nuly, oživneš u fontány tvého týmu. Odpočet můžeš také vidět pod portrétem svého hrdiny v horní části obrazovky."
 
 		"basics_alert_SecondDeathTitle"				"Smrt číhá všude"
-		"basics_alert_SecondDeathBody"				"Dávej si pozor na své okolí. Jakmile na tebe začne útočit nepřátelská věž, hrdina nebo dokonce i creep, popřemýšlej o úprku. Někdy ti to může zachránit život.\n\nS každou získanou úrovní se prodlužuje doba, po kterou je hrdina mrtev."
+		"basics_alert_SecondDeathBody"				"Dávej si pozor na své okolí. Jakmile na tebe začne útočit nepřátelská věž, hrdina, nebo dokonce i creep, popřemýšlej o úprku. Někdy ti to může zachránit život.\n\nS každou získanou úrovní se prodlužuje doba, po kterou je hrdina mrtev."
 
 		"basics_alert_RespawnTitle"					"Za chvíli oživneš"
 		"basics_alert_RespawnBody"					"Tvůj hrdina za chvíli oživne u fontány tvého týmu.\n\nPokus se co nejrychleji dostat zpět do akce!"
@@ -74,7 +74,7 @@
 		"basics_objective_OpenShopBody"		"Klikni levým tlačítkem myši na zlaté tlačítko s počtem tvých zlaťáků."
 
 		"basics_BuyFromShopTitle"			"Obchod s vybavením pro každého hrdinu"
-		"basics_BuyFromShopBody"			"Předměty ve hře Dota jsou různé. Některé dokáží léčit hrdiny, jiné vylepšují schopnosti hrdinů a některé dokonce samy disponují speciálními schopnostmi.\n\nPovšimni si, že v obchodě se nachází také seznam předmětů doporučených pro tvého hrdinu. Než si hru osvojíš a zjistíš, co všechny předměty dělají a jaké jsou jejich možné kombinace, drž se tohoto seznamu."
+		"basics_BuyFromShopBody"			"Předměty ve hře Dota jsou různé. Některé dokáží léčit hrdiny, jiné vylepšují schopnosti hrdinů, a některé dokonce samy disponují speciálními schopnostmi.\n\nPovšimni si, že v obchodě se nachází také seznam předmětů doporučených pro tvého hrdinu. Než si hru osvojíš a zjistíš, co všechny předměty dělají a jaké jsou jejich možné kombinace, drž se tohoto seznamu."
 
 		"basics_objective_BuyTangoesTitle"			"Zakup si předmět Tango"
 		"basics_objective_BuyTangoesBody"			"Klikni v obchodě pravým tlačítkem myši na předmět Tango."
@@ -133,7 +133,7 @@
 		"basics_objective_BuyAbilityTitle"			"Nauč se schopnost"
 		"basics_objective_BuyAbilityBody"			"Klikni levým tlačítkem myši na tlačítko „+“ nad schopností Lucent Beam, aby ses ji naučil."
 		
-		"basics_HealYourselfTitle"				"Používání předmětů, aneb nejprve předmět, poté jeho cíl"
+		"basics_HealYourselfTitle"				"Používání předmětů aneb nejprve předmět, poté jeho cíl"
 		"basics_HealYourselfBody"				"Zkus se vyléčit pomocí předmětu Healing Salve. Nejprve jej aktivuj tím, že v inventáři klikneš na jeho ikonu levým tlačítkem myši nebo stiskneš klávesu vyobrazenou nad jeho ikonou. Následně klikni levým tlačítkem na svého hrdinu. Předmět Healing Salve můžeš také přímo použít na sebe tím, že na něj klikneš dvakrát.\n\nPOZNÁMKA: Pokud při používání předmětu Healing Salve utržíš poškození od nepřátelského hrdiny, jeho efekt je přerušen!"
 		
 		"basics_CastIntroTitle"				"Schopnosti aktivovatelné a schopnosti pasivní"

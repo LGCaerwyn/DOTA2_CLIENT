@@ -70,7 +70,7 @@
 		"scenario_glimmer_cape_task_kill_necrophos_Description"		"Klicken Sie auf Ihr Glimmer Cape und dann auf Sniper, während dieser von Reaper's Scythe getroffen wird."
 
 		"scenario_glimmer_cape_wizard_tip_intro_Text"				"Glimmer Cape kann dich für kurze Zeit unsichtbar machen und dir so die Flucht ermöglichen."
-		"scenario_glimmer_cape_wizard_tip_ally_Text"				"Du kannst Glimmer Cape auch auf deine Verbündeten anwenden, um sie unsichtbar werden zu lassen. Wie etwa diesen Ogre Magi!"
+		"scenario_glimmer_cape_wizard_tip_ally_Text"				"Sie können Glimmer Cape auch auf Ihre Verbündeten anwenden, um sie unsichtbar werden zu lassen. Wie etwa diesen Ogre Magi."
 		"scenario_glimmer_cape_wizard_tip_magic_resist_Text"		"Die Aktivfähigkeit von Glimmer Cape gibt viel Magieresistenz. Perfekt zur Abwehr mächtiger Zauber."
 
 		"scenario_glimmer_cape_failure_ogre_died"			"Ogre Magi ist gestorben."
@@ -94,11 +94,7 @@
 
 		"scenario_roshan_wizard_tip_intro_Text"					"Roshan ist ein mächtiges unsterbliches Biest und trägt große Schätze mit sich, darunter auch die Ägis des Unsterblichen! Töten wir ihn."
 
-		"scenario_roshan_wizard_tip_fight_Text"					"Roshan erscheint am Anfang der Partie in seiner Grube, allerdings solltest du im Level aufsteigen, ein paar Gegenstände kaufen und deine Teamkameraden mitbringen, um ihn zu besiegen."
-
 		"scenario_roshan_wizard_tip_rosh_killed_Text"			"Wenn Sie Roshan besiegen, erhält Ihr gesamtes Team Gold und EP. Er wird nach einiger Zeit wieder erscheinen und bei seiner Rückkehr mehr Belohnungen mitbringen."
-
-		"scenario_roshan_wizard_tip_aegis_pickup_Text"			"Wenn du stirbst, wird die Ägis dich nach kurzer Zeit an deinem Todesort wiederbeleben."
 
 		"scenario_roshan_failure_aegis_denied"					"Die Aegis wurde zerstört!"
 
@@ -141,9 +137,7 @@
 
 		"scenario_invisibility_wizard_tip_observer_wards_Text"			"Ein gegnerischer Observer Ward!\nWards sind unsichtbar und Sie benötigen Klarsicht, um sie zu sehen."
 
-		"scenario_invisibility_wizard_tip_dust_intro_Text"				"Es gibt weitere Wege, unsichtbare Helden aufzudecken.\nBesorge dir eine Prise Dust of Appearance aus dem Shop."
-
-		"scenario_invisibility_wizard_tip_dust_Text"					"Dust of Appearance kann unsichtbare Helden um dich herum für begrenzte Zeit aufdecken.\n Er verlangsamt sie auch."
+		"scenario_invisibility_wizard_tip_dust_intro_Text"				"Es gibt weitere Wege, unsichtbare Helden aufzudecken.\nBesorgen Sie sich eine Prise Dust of Appearance aus dem Shop."
 
 		"scenario_invisibility_wizard_tip_kill_riki_Text"		"Riki ist ein hinterhältiger Held, der sich unsichtbar machen kann. Besiegen Sie ihn mithilfe des Sentry Ward."
 
@@ -261,15 +255,14 @@
 		"scenario_economy_task_pick_up_grove_bow"					"Heben Sie den {s:ItemName} auf"
 		"scenario_economy_task_pick_up_grove_bow_Description"		"Rechtsklicken Sie auf den Gegenstand, um ihn aufzuheben."
 
-		"scenario_economy_wizard_tip_echo_sabre_Text"					"Um Shadow Fiend besiegen zu können, musst du erst mächtiger werden. Lass uns ein Echo Sabre bauen und im Level aufsteigen."
+		"scenario_economy_wizard_tip_echo_sabre_Text"					"Um Shadow Fiend besiegen zu können, müssen Sie mächtiger werden. Steigen Sie zunächst im Level auf und verdienen Sie sich genug Gold für Echo Sabre."
 		"scenario_economy_wizard_tip_last_hit_enemy_creeps_Text"		"Wir haben nicht genug Gold, um den Gegenstand komplett zu kaufen. Es ist also an der Zeit, auf dem Pfad mehr Gold und Erfahrung zu sammeln."
 		"scenario_economy_wizard_tip_use_the_courier_Text"				"Jeder Spieler besitzt einen Kurier, der Gegenstände aus der Basis liefern kann!"
 		"scenario_economy_wizard_tip_safe_courier_usage_Text"			"Dein Kurier kann vom Gegner getötet werden, also such dir einen möglichst sicheren Treffpunkt aus."
-		"scenario_economy_wizard_tip_double_tap_to_center_Text"			"Du kannst die Taste für „Helden auswählen“ zweimal drücken, um die Kamera auf deinen Helden zu zentrieren."
-		"scenario_economy_wizard_tip_farm_the_jungle_Text"				"Abseits der Pfade findest du neutrale Einheiten, die bei ihrer Niederlage ebenfalls Gold und Erfahrung fallen lassen."
-		"scenario_economy_wizard_tip_imp_claw_Text"						"Neutrale Einheiten können auch spezielle „neutrale“ Gegenstände fallen lassen. Von denen kannst du jeweils nur einen ausrüsten, aber die überzähligen auch mit Verbündeten teilen."
-		"scenario_economy_wizard_tip_grove_bow_Text"					"Während einer Partie können diverse neutrale Gegenstände gefunden werden. Nicht benötigte Gegenstände kannst du jederzeit zur Basis zurückschicken."
-		"scenario_economy_wizard_tip_talents_Text"						"Sobald dein Held Level 10 erreicht, kannst du besondere Talente erlernen. Ab den Leveln 10, 15, 20 und 25 kann jeweils eines gewählt werden. Bis zu Level 30 werden nach und nach alle Talente freigeschaltet."
+		"scenario_economy_wizard_tip_double_tap_to_center_Text"			"Sie können die Taste für „Helden auswählen“ zweimal drücken, um die Kamera auf Ihren Helden zu zentrieren."
+		"scenario_economy_wizard_tip_farm_the_jungle_Text"				"Abseits der Pfade finden Sie neutrale Einheiten, die Sie ebenfalls für Gold und Erfahrung besiegen können."
+		"scenario_economy_wizard_tip_grove_bow_Text"					"Während einer Partie können diverse neutrale Gegenstände gefunden werden. Nicht benötigte Gegenstände können Sie jederzeit zur Basis zurückschicken."
+		"scenario_economy_wizard_tip_talents_Text"						"Sobald Ihr Held Level 10 erreicht, können Sie ein Talent erlernen. Auf den Leveln 15, 20 und 25 kann jeweils ein weiteres aus dem Talentbaum ausgewählt werden. Bis Level 30 werden nach und nach alle Talente freigeschaltet."
 		"scenario_economy_wizard_tip_fight_near_tower_Text"				"Verteidige deinen Turm! Der Turm greift Gegner an und gewährt Einheiten in seiner Nähe zusätzliche Rüstung sowie Lebensregeneration."
 		"scenario_economy_wizard_tip_neutral_creep_camps_Text"			"Es gibt kleine, mittlere, große und Uralte Lager neutraler Einheiten, die in gleicher Reihenfolge immer gefährlicher werden, aber auch mehr Erfahrung und Gold fallen lassen."
 		"scenario_economy_wizard_tip_backpack_Text"						"Der Grove Bow ist in deinen Rucksack gewandert. Wenn ein Gegenstand nicht mehr in dein normales Inventar passt, wird er dort gelagert, kann aber nicht benutzt werden."
@@ -278,9 +271,7 @@
 		"scenario_economy_ui_tip_item_guide"							"Shift + Linksklick, um den Gegenstand zum Schnellkauf hinzuzufügen."
 		"scenario_economy_ui_tip_right_click_neutral_item"				"Rechtsklicken Sie einen Gegenstand, um Optionen anzuzeigen."
 
-		"wizard_tip_failed_tp_wrong_location_Text"						"Ups! Scheinbar hast du dich zum falschen Ort teleportiert. Ich habe deine Schriftrolle des Stadtportals wiederhergestellt, damit du es nochmal versuchen kannst!"
-		"wizard_tip_failed_tp_interrupted_Text"							"Ups! Die Schriftrolle des Stadtportals ist eine kanalisierende Fähigkeit. Während der Benutzung darfst du nichts anderes machen oder der Effekt wird abgebrochen! Ich habe die Schriftrolle wiederhergestellt, damit du es nochmal versuchen kannst."
-
+		"wizard_tip_failed_tp_wrong_location_Text"						"Ups! Scheinbar haben Sie sich zum falschen Ort teleportiert. Ich habe Ihre Town Portal Scroll wiederhergestellt, damit Sie es noch einmal versuchen können."
 		"scenario_economy_dialog_complete_echo_sabre"	"Ich werde einige Gegenstände benötigen, um diesen Shadow Fiend zu besiegen. Ich sollte Echo Sabre vervollständigen, sodass ich mehr Schaden verursachen kann."
 		"scenario_economy_dialog_last_hit_enemy_creep"	"Ich kann Gold verdienen, indem ich den letzten Treffer auf gegnerische Einheiten lande."
 		"scenario_economy_dialog_use_the_courier"		"Ich muss nicht in der Basis sein, um meine Gegenstände zu bekommen. Mein treuer Kurier kann das für mich erledigen!"
@@ -300,13 +291,12 @@
 		"scenario_mid_1v1_task_do_not_die"						"Sie müssen überleben!"
 		"scenario_mid_1v1_task_do_not_die_Description"			"Gegnerische Diener, Türme und Shadow Fiend können Ihnen alle Schaden zufügen. Ziehen Sie sich zurück, wenn Sie Schaden erleiden, und benutzen Sie Regenerationsgegenstände, um sich zu heilen."
 		
-		"scenario_mid_1v1_wizard_tip_intro_1_Text"			"In diesem Szenario steuerst du Windranger und stehst im mittleren Pfad Shadow Fiend gegenüber."
-		"scenario_mid_1v1_wizard_tip_intro_2_Text"			"Indem du letzte Treffer landest und verbündete Diener denyst, wirst du langsam stärker als der gegnerische Held auf deinem Pfad."
-		"scenario_mid_1v1_wizard_tip_powershot_Text"		"Mit Powershot kannst du einfach letzte Treffer bei gegnerischen Dienern landen. Versuch möglichst, mehrere Gegner mit einem Schuss zu treffen."
+		"scenario_mid_1v1_wizard_tip_intro_1_Text"			"In diesem Szenario steuern Sie Windranger und stehen im mittleren Pfad Shadow Fiend gegenüber."
+		"scenario_mid_1v1_wizard_tip_intro_2_Text"			"Indem Sie letzte Treffer landen und verbündete Diener denyen, werden Sie langsam stärker als der gegnerische Held auf Ihrem Pfad."
+		"scenario_mid_1v1_wizard_tip_powershot_Text"		"Mit Powershot können Sie einfach letzte Treffer bei gegnerischen Dienern landen. Versuchen Sie möglichst, mehrere Ziele mit einem Schuss zu treffen."
 		"scenario_mid_1v1_wizard_tip_items_Text"			"Kauf Gegenstände aus dem Shop und lass sie von deinem Kurier zur Frontlinie liefern."
 		"scenario_mid_1v1_wizard_tip_runes_Text"			"Eine Kraftrune erscheint alle 2 Minuten an einem der beiden Orte im Fluss."
-		"scenario_mid_1v1_wizard_tip_bottle_Text"			"Kauf eine Flasche, um Lebenspunkte und Mana zu regenerieren. Wenn du eine Rune hineinfüllst, wird sie wieder aufgefüllt."
-		"scenario_mid_1v1_wizard_tip_hero_damage_Text"		"Lass dir nicht zu viel Schaden vom gegnerischen Helden zufügen! Bleib außerhalb seiner Reichweite, solange du selbst noch Diener angreifen und denyen kannst."
+		"scenario_mid_1v1_wizard_tip_hero_damage_Text"		"Vermeiden Sie, dass Ihnen ein gegnerischer Held zu viel Schaden zufügt. Bleiben Sie außerhalb seiner Reichweite, während Sie selbst noch Diener angreifen und denyen können."
 		"scenario_mid_1v1_wizard_tip_tower_damage_Text"		"Lass dir nicht zu viel Schaden vom gegnerischen Turm zufügen! Bleib außerhalb seiner Reichweite, solange keine verbündeten Diener in der Nähe sind."
 
 		"scenario_mid_1v1_ui_tip_powershot"					"Hier klicken, um Powershot einzureihen."
@@ -332,11 +322,8 @@
 		"scenario_navigation_task_move_to_location_2"								"Bewegen Sie Ihren Helden zum nächsten Wegpunkt"
 		"scenario_navigation_task_move_to_location_2_Description"			"Verschieben Sie die Kamera, indem Sie Ihren Mauszeiger an die Ränder des Bildschirms bewegen."
 		"scenario_navigation_task_move_to_location_3"								"Bewegen Sie Ihren Helden zum nächsten Wegpunkt"
-		"scenario_navigation_task_move_to_location_3_Description"			"Nutzen Sie Ihre „Phase Boots“ für einen kurzen Geschwindigkeitsschub. Aktivieren Sie diese durch einen Klick auf das Symbol oder mit dem entsprechenden Hotkey."
 		"scenario_navigation_task_move_to_location_4"								"Hinter das Hindernis blinzeln, dann zum nächsten Wegpunkt."
-		"scenario_navigation_task_move_to_location_4_Description"			"„Blink Dagger“ teleportiert Sie über kurze Distanzen. Aktivieren Sie ihn, indem Sie zuerst auf das Symbol klicken oder den Hotkey drücken und dann einen Ort auf dem Schlachtfeld durch Klicken auswählen."
 		"scenario_navigation_task_move_to_location_5"								"Bewegen Sie sich durch die Einheiten zum nächsten Wegpunkt."
-		"scenario_navigation_task_move_to_location_5_Description"			"Aktivieren Sie Ihre „Phase Boots“, um sich durch Einheiten, die Ihren Pfad versperren, hindurch zu bewegen, indem Sie auf das Symbol klicken oder den entsprechenden Hotkey drücken."
 		"scenario_navigation_task_move_to_location_6"								"Bewegen Sie Ihren Helden zum nächsten Wegpunkt"
 		"scenario_navigation_task_move_to_location_6_Description"			"Runen sind temporäre Boni. Heben Sie die „Rune der Hast“ mit Rechtsklick auf und laufen Sie zur nächsten Markierung. Runen werden beim Aufheben automatisch aktiviert."
 		"scenario_navigation_task_learn_mirana_leap"								"Werten Sie die Fähigkeit „Leap“ auf."
@@ -347,13 +334,8 @@
 		"scenario_navigation_task_move_to_location_end_Description"		"„Force Staff“ stößt Einheiten und Helden eine kurze Distanz zurück. Schieben Sie diese Einheiten zur Seite, indem Sie auf das Symbol klicken oder den Hotkey drücken und die Zieleinheit mit Linksklick auswählen."
 		"scenario_navigation_time_spent"													"Zeitaufwand:"
 		
-		"scenario_navigation_wizard_tip_center_camera_Text"					"Zentriere auf deinen Helden, indem du auf sein Porträt klickst."
-		"scenario_navigation_wizard_tip_leap_Text"									"Mit Leap kannst du über Hindernisse oder Höhenänderungen springen. Bei jeder Aktivierung wird eine Aufladung verbraucht."
-		"scenario_navigation_wizard_tip_phase_Text"									"Phase Boots haben nach ihrer Aktivierung eine Abklingzeit. Wenn du sie fortwährend einsetzt, kann es sein, dass sie in einer brenzligen Situation nicht bereit sind. Beachte auch, dass die Stiefel als ein Gegenstand zählen."
-		"scenario_navigation_wizard_tip_blink_Text"									"Mit Blink Dagger kannst du dich über unwegsames Gelände hinfort bewegen."
-		"scenario_navigation_wizard_tip_block_Text"									"Einheiten blockieren sich gegenseitig. Benutze die Phase Boots, um dich temporär durch Einheiten hindurch zu bewegen."
-		"scenario_navigation_wizard_tip_force_Text"									"Mit Force Staff kannst du dich durch Hindernisse hindurch bewegen. Ein Doppelklick benutzt Force Staff automatisch, um deinen eigenen Helden vorwärts zu stoßen."
-		
+		"scenario_navigation_wizard_tip_leap_Text"									"Mit Leap können Sie über Hindernisse oder Anhöhen springen. Bei jeder Aktivierung wird eine Aufladung verbraucht."
+		"scenario_navigation_wizard_tip_blink_Text"									"Mit Blink Dagger können Sie sich schnell über unwegsames Gelände bewegen."
 		"scenario_navigation_ui_tip_use_boots"						"Hier klicken, um die Phase Boots zu aktivieren."
 		"scenario_navigation_ui_tip_use_blink"						"Hier klicken, um Blink Dagger einzureihen."
 		"scenario_navigation_ui_tip_use_leap"						"Hier klicken, um nach vorne zu springen"
@@ -399,6 +381,7 @@
 		"lockdown_single_target_task_kill_queenofpain_Description"		"Wirken Sie „Shackles” und „Hex” auf Queen of Pain, während Drow Ranger sie angreift."
 		"lockdown_single_target_tip_queenofpain_blink_Text"				"Queen of Pain wird ihre Fähigkeit „Blink” einsetzen, um zu entkommen. Betäuben Sie sie bis zu ihrem Tod."
 
+		"lockdown_single_target_failure_queenofpain_escaped"			"Queen of Pain ist entkommen.\nVergessen Sie nicht, Shackles und Hex nacheinander zu wirken."
 		"lockdown_single_target_failure_protect_units"				"Ein Verbündeter ist gestorben."
 		// END - Scenario: Lockdown Single Target
 
@@ -414,16 +397,16 @@
 		"scenario_tp_scroll_wizard_tip_intro_Text"					"Renne niemals ohne ein bis zwei Schriftrollen des Stadtportals in die Schlacht."
 		"scenario_regen_ui_tip_quick_buy_slot"						"Hier rechtsklicken, um eine Town Portal Scroll zu kaufen."
 		
-		"scenario_tp_scroll_wizard_tip_wait_Text"					"Warte einen Moment! Am besten kaufst du dir vor dem Teleportieren eine weitere Schriftrolle des Stadtportals, damit du später noch eine auf Reserve hast."
+		"scenario_tp_scroll_wizard_tip_wait_Text"					"Warten Sie einen Moment! Am besten kaufen Sie vor dem Teleportieren eine weitere Town Portal Scroll, damit Sie später eine auf Reserve haben."
 		
 		"scenario_tp_scroll_task_teleport_to_tower"					"Teleportieren Sie sich mit Ihrer Town Portal Scroll zum Turm."
 		"scenario_tp_scroll_task_teleport_to_tower_Description"		"Klicken Sie auf die Town Portal Scroll und dann in die Nähe des Turms."
-		"scenario_tp_scroll_wizard_tip_teleport_Text"				"Mit Schriftrollen des Stadtportals kannst du schnell auf Situationen auf der gesamten Karte reagieren."
+		"scenario_tp_scroll_wizard_tip_teleport_Text"				"Mit der Town Portal Scroll können Sie schnell auf Situationen auf der gesamten Karte reagieren."
 		
 		"scenario_tp_scroll_task_stun_tp"							"Betäuben Sie Dragon Knight, sobald er versucht, sich zu teleportieren."
 		"scenario_tp_scroll_task_stun_tp_Description"				"Greifen Sie Dragon Knight an. Wirken Sie schnell Ihren Wraithfire Blast, nachdem er sich zu teleportieren beginnt, um ihn zu betäuben und die Teleportation abzubrechen."
 		"scenario_tp_scroll_task_stun_tp_Failure"					"Dragon Knight ist entkommen. Benutzen Sie schnell Ihren Wraithfire Blast, sobald Dragon Knight sich zu teleportieren beginnt."
-		"scenario_tp_scroll_wizard_tip_stun_Text"					"Schriftrollen des Stadtportals können nicht kurz nacheinander eingesetzt werden. Wenn du die Kanalisierung deines Gegners unterbrichst, sitzt er für eine Weile fest."
+		"scenario_tp_scroll_wizard_tip_stun_Text"					"Town Portal Scrolls können nicht kurz nacheinander eingesetzt werden. Wenn Sie die Kanalisierung Ihres Gegners unterbrechen, sitzt dieser für eine Weile fest."
 		
 		"scenario_tp_scroll_task_kill_enemy"						"Töten Sie Dragon Knight"
 		"scenario_tp_scroll_task_kill_enemy_Description"			"Greifen Sie Dragon Knight an, bis er stirbt."
@@ -440,7 +423,7 @@
 		"DOTA_NPEDesc_scenario_regen_even_more"				"Grundlegende Verbrauchsgegenstände, um Lebenspunkte und Mana wiederherzustellen."
 
 		"scenario_regen_task_buy_regen"						"Kaufen Sie eine Vielzahl an Regenerationsgegenständen."
-		"scenario_regen_wizard_tip_intro_Text"				"Mit ein paar Regenerationsgegenständen zu Beginn kannst du länger Ressourcen sammeln."
+		"scenario_regen_wizard_tip_intro_Text"				"Mit ein paar Regenerationsgegenständen zu Beginn können Sie länger Ressourcen sammeln."
 		"scenario_regen_task_buy_clarity"					"Kaufen Sie eine Clarity"
 		"scenario_regen_task_buy_clarity_Description"		"Öffnen Sie den Shop und rechtsklicken Sie auf den blauen Trank."
 		"scenario_regen_task_buy_tango"						"Kaufen Sie einen Tango"
@@ -489,10 +472,9 @@
 		"scenario_courier_task_deliver_aghs_with_courier"									"Lassen Sie sich die Gegenstände von Ihrem Kurier liefern."
 		"scenario_courier_task_deliver_aghs_with_courier_Description"				"Klicken Sie auf „Gegenstände liefern“ in den Kurierfähigkeiten."
 		
-		"scenario_courier_wizard_tip_buying_Text"								"Du kannst auch Gegenstände kaufen, wenn du nicht in der Nähe eines Ladens bist."
+		"scenario_courier_wizard_tip_buying_Text"								"Sie können auch Gegenstände kaufen, wenn Sie nicht in der Nähe eines Ladens sind."
 		"scenario_courier_wizard_tip_buying_Annotation"					"Die Gegenstände landen dann in deinem Lager."
 		"scenario_courier_wizard_tip_deliver_items_Text"					"Dein Kurier kann getötet werden."
-		"scenario_courier_wizard_tip_deliver_items_Annotation"			"Dadurch sind auch die von ihm getragenen Gegenstände für kurze Zeit verloren. Pass also gut auf ihn auf!"
 		"scenario_courier_wizard_tip_speed_burst_Text"						"Die Fähigkeit „Geschwindigkeitsschub“ erhöht kurzzeitig das Tempo des Kuriers."
 		"scenario_courier_wizard_tip_speed_burst_Annotation"			"Das kann ihm eventuell das Leben retten."
 		
@@ -541,9 +523,9 @@
 		"scenario_euls_setup_wizard_tip_ice_path_shadow_fiend_2_missed_Annotation"		"Versuche es weiter!"
 		"scenario_euls_setup_wizard_tip_ice_path_shadow_fiend_1_missed_Text"			"Knapp daneben! Lass mich die Abklingzeit dieser Fähigkeit für dich zurücksetzen. Versuche, seine Bewegungen vorherzusehen und ein Gefühl für deine Zauber zu bekommen!"
 		"scenario_euls_setup_wizard_tip_ice_path_shadow_fiend_1_missed_Annotation"		"Versuche es weiter!"
-		"scenario_euls_setup_wizard_tip_item_missed_Text"							"Lass mich die Abklingzeit dieses Gegenstands für dich zurücksetzen. Wenn du deine Gegenstände mit deinen Fähigkeiten kombinierst, profitierst du umso mehr von ihren Effekten!"
+		"scenario_euls_setup_wizard_tip_item_missed_Text"							"Lassen Sie mich die Abklingzeit dieses Gegenstands für Sie zurücksetzen. Wenn Sie Ihre Gegenstände mit Ihren Fähigkeiten kombinieren, profitieren Sie umso mehr von den wechselseitigen Effekten."
 
-		"scenario_euls_setup_wizard_tip_ice_path_generic_missed_Text"			"Lass mich die Abklingzeit dieser Fähigkeit für dich zurücksetzen. Warum bewegst du dich in der Zwischenzeit nicht einfach schon mal zur Markierung?"
+		"scenario_euls_setup_wizard_tip_ice_path_generic_missed_Text"			"Lassen Sie mich die Abklingzeit dieser Fähigkeit für Sie zurücksetzen. Warum bewegen Sie sich in der Zwischenzeit nicht schon mal zur Markierung?"
 		"scenario_euls_setup_wizard_tip_ice_path_generic_missed_Annotation"		"Warten wir doch ab, bis wir ein Ziel haben, in Ordnung?"
 
 
@@ -553,9 +535,6 @@
 		"scenario_euls_setup_wizard_tip_use_euls_Annotation"				"Durch Kombination mit der Fähigkeit „Wirbelwind“ können selbst besonders flinke Gegner nicht entkommen."
 
 		"scenario_euls_setup_wizard_tip_time_your_lsa_Text"					"Stimme Light Strike Array so ab, dass der Gegner getroffen wird, wenn er wieder zu Boden fällt."
-		"scenario_euls_setup_wizard_tip_time_your_lsa_Annotation"			"Es mag etwas Übung brauchen, die Kombo auf die Sekunde genau zu treffen. Wenn du es aber schaffst, kannst du damit Gegner töten, die dir sonst entkommen würden."
-
-
 		// Scenario: Warding
 		"scenario_warding_main_objective"													"Lernen Sie, Observer und Sentry Wards zu platzieren"
 		"scenario_warding_task_buy_observer_ward"										"Kaufen Sie einen Observer Ward."
@@ -632,21 +611,33 @@
 		"scenario_dodging_task_move_to_location_3_Description"				"Rechtsklicken Sie den Boden, um sich zu bewegen."
 		"scenario_dodging_task_dodge_all_arrows"							"Weichen Sie allen Pfeilen von Mirana aus."
 		"scenario_dodging_task_dodge_all_arrows_Description"				"Vermeiden Sie Schaden, indem Sie dem Pfeil ausweichen."
+		"scenario_dodging_task_dodge_all_missiles_1"						"Weichen Sie 3-mal Tinkers Warp Flare aus"
+		"scenario_dodging_task_dodge_all_missiles_1_Description"			"Benutzen Sie Blink Dagger, um der Fähigkeit Warp Flare auszuweichen."
+		"scenario_dodging_task_dodge_all_missiles_2"						"Weichen Sie 3 weitere Male Tinkers Warp Flare aus"
+		"scenario_dodging_task_dodge_all_missiles_2_Description"			"Benutzen Sie Manta Style, Eul’s Scepter und Blink Dagger, um der Fähigkeit Warp Flare auszuweichen."
 		"scenario_dodging_task_outro_delay"									"Sie haben gewonnen!"
-		"scenario_dodging_wizard_tip_intro_Text"							"In Dota gibt es verschiedene Arten von Projektilen, von denen du in der Regel nicht getroffen werden willst. Dieses Szenario stellt dir die beiden Hauptarten vor: lineare und zielsuchende Projektile."
+		"scenario_dodging_task_outro_delay_Description"						"Warp Flare wurde jedes Mal ausgewichen!"
+
+
+		"scenario_dodging_wizard_tip_intro_Text"							"In Dota gibt es verschiedene Arten von Projektilen, von denen Sie nicht getroffen werden möchten. Dieses Szenario stellt Ihnen die beiden Hauptarten vor: lineare und zielsuchende Projektile."
 		"scenario_dodging_wizard_tip_intro_Annotation"						"Der Schlüssel zum Erfolg liegt darin, herauszufinden, wie man vermeidet, getroffen zu werden!"		
 
-		"scenario_dodging_wizard_tip_dodge_all_arrows_Text"					"Miranas Sacred Arrow ist ein lineares Geschoss, er fliegt also in einer geraden Linie. Du kannst einfach seiner Flugbahn ausweichen."
+		"scenario_dodging_wizard_tip_dodge_all_arrows_Text"					"Miranas Sacred Arrow ist ein lineares Projektil. Es fliegt also auf einer geraden Linie zum Ziel. Sie können seiner Flugbahn also einfach ausweichen."
 		"scenario_dodging_wizard_tip_dodge_all_arrows_Annotation"			"In einer echten Partie suchen sich Spieler oft unerwartete Positionen, von denen sie angreifen können!"	
+		"scenario_dodging_wizard_tip_move_to_location_2_Text"				"Gute Arbeit! Für die nächste Aufgabe erhalten Sie einen Blink Dagger, damit Sie üben können, Tinkers Warp Flare auszuweichen. Keine Sorge, die Abklingzeit von Blink Dagger wird vor jedem Fähigkeitseinsatz von Tinker zurückgesetzt."
+		"scenario_dodging_wizard_tip_move_to_location_2_Annotation"			"Keine Sorge, die Abklingzeit von Blink Dagger wird vor jedem Fähigkeitseinsatz von Tinker zurückgesetzt."
+
+		"scenario_dodging_wizard_tip_dodge_all_missiles_1_Text"				"Tinkers Warp Flare ist zielsuchend, d. h., das Projektil verfolgt Ihren Helden. Jedoch kann den Projektilen ausgewichen werden; solange Sie während des Anflugs rechtzeitig blinzeln, werden die Projektile Sie verfehlen."
 		"scenario_dodging_wizard_tip_dodge_all_missiles_1_Annotation"			"Diesen Arten von Zaubern kann auch mit Gegenständen wie Eul's Scepter oder Manta Style ausgewichen werden."
 
-		"scenario_dodging_wizard_tip_move_to_location_3_Text"				"Großartig! Weitere Gegenstände, mit denen du zielsuchenden Geschossen ausweichen kannst, sind Eul's Scepter und Manta Style."
-		"scenario_dodging_wizard_tip_dodge_all_missiles_2_Text"				"Du kannst auch Manta Style, Eul's Scepter und Blink Dagger benutzen, um Fernkampfangriffen auszuweichen!"
-		"scenario_dodging_wizard_tip_dodge_all_missiles_2_Annotation"		"Du kannst diese Gegenstände auch benutzen, um Fernkampfangriffen auszuweichen!"
+		"scenario_dodging_wizard_tip_move_to_location_3_Text"				"Großartig! Weitere Gegenstände, mit denen Sie zielsuchenden Projektilen ausweichen können, sind Eul’s Scepter und Manta Style."
+		"scenario_dodging_wizard_tip_move_to_location_3_Annotation"			"Die Abklingzeiten Ihrer Gegenstände werden nicht zurückgesetzt; Sie müssen jeden einzelnen davon benutzen, um Warp Flare auszuweichen."
 
-		"scenario_euls_setup_wizard_tip_dodge_all_arrows_hit_Text"				"Du wurdest getroffen! Wir setzen deinen Fortschritt dieser Phase zurück. Bleib immer in Bewegung!"
-		"scenario_euls_setup_wizard_tip_dodge_all_missiles_2_hit_Text"			"Du wurdest getroffen! Wir setzen deine Gegenstände und deinen Fortschritt dieser Phase zurück. Du musst alle 3 Gegenstände erfolgreich einsetzen, um dieses Szenario abzuschließen."
+		"scenario_dodging_wizard_tip_dodge_all_missiles_2_Text"				"Sie können auch Manta Style, Eul’s Scepter und Blink Dagger benutzen, um Fernkampfangriffen auszuweichen."
+		"scenario_dodging_wizard_tip_dodge_all_missiles_2_Annotation"		"Sie können diese Gegenstände auch benutzen, um Fernkampfangriffen auszuweichen."
 
+		"scenario_euls_setup_wizard_tip_dodge_all_arrows_hit_Text"				"Sie wurden getroffen, weshalb wir Ihren Fortschritt in dieser Phase zurücksetzen. Bleiben Sie immer in Bewegung!"
+		"scenario_euls_setup_wizard_tip_dodge_all_missiles_1_hit_Text"			"Sie wurden getroffen! Wir setzen Ihren Fortschritt dieser Phase zurück. Denken Sie daran, dass Sie Blinzeln jederzeit einsetzen können, während die Projektile noch im Anflug sind."
 		// Scenario: BKB
 		"scenario_bkb_pa_main_objective"									"Erfahren Sie mehr über Black King Bar und Zauberimmunität"
 		"scenario_bkb_pa_task_root"											"[Root task]"
@@ -685,7 +676,6 @@
 		"scenario_creep_pulling_wizard_tip_intro2_Text"									"Jedes Team möchte, dass die Pfaddiener näher am eigenen Turm aufeinander treffen."
 		"scenario_creep_pulling_wizard_tip_intro_radiant_Text"						"Wenn sich Pfaddiener an diesem Punkt treffen, ist das besser für die Radiant."
 		"scenario_creep_pulling_wizard_tip_intro_dire_Text"							"Wenn sich Pfaddiener an diesem Punkt treffen, ist das besser für die Dire."
-		"scenario_creep_pulling_wizard_tip_reason_Text"								"Wenn du neutrale Einheiten auf den Pfad ziehst, werden dadurch deine Pfaddiener abgelenkt. Das führt dazu, dass sich der Begegnungsort der Dienerwellen ändert."
 		"scenario_creep_pulling_wizard_tip_negative_Text"								"Neutrale Einheiten zu ziehen, ist nicht immer vorteilhaft."
 
 		"scenario_creep_pulling_failure_creeps_did_not_get_pulled"					"Neutrale Einheiten wurden nicht gezogen."
@@ -713,7 +703,6 @@
 		"scenario_creep_stacking_hint_stacking_time"								"Achten Sie auf die Uhr!<br>Greifen Sie zur 54. Sekunde an."
 		
 		"scenario_creep_stacking_wizard_tip_intro_Text"							"Mehrere Gruppen neutraler Einheiten im selben Lager erscheinen zu lassen, bezeichnet man als Stapeln (engl. Stacking)."
-		"scenario_creep_stacking_wizard_tip_chase_Text"							"Neutrale Einheiten verfolgen dich, wenn du sie angreifst."
 		"scenario_creep_stacking_wizard_tip_out_Text"								"Versuche, sie über die Lagergrenze hinaus zu locken."
 		"scenario_creep_stacking_wizard_tip_leash_Text"							"Sie sind an ihr Lager gebunden und kehren nach ein paar Sekunden zurück."
 		"scenario_creep_stacking_wizard_tip_respawn_Text"						"Neutrale Einheiten erscheinen jeweils beim Minutenwechsel wieder, sofern sich zu diesem Zeitpunkt keine andere Einheit innerhalb ihres Lagers befindet."
@@ -750,8 +739,6 @@
 		"scenario_status_effects_wizard_tip_silence_enemy_hero_Annotation"		"Verstummte Helden können keine Zauber wirken."
 
 		"scenario_status_effects_wizard_tip_root_enemy_hero_Text"				"Festgesetzte Helden können sich nicht bewegen. Sehr nützlich gegen agile Gegner."
-		"scenario_status_effects_wizard_tip_root_enemy_hero_Annotation"				"Hilf Sven dabei, zu Dark Seer aufzuschließen, indem du die Fähigkeit „Verkrüppeln“ deines Rod of Atos einsetzt."
-
 		"scenario_status_effects_wizard_tip_disarm_enemy_hero_Text"				"Entwaffnete Helden können nicht angreifen. Sehr nützlich gegen Helden mit mächtigen physischen Angriffen."
 		"scenario_status_effects_wizard_tip_disarm_enemy_hero_Annotation"		"Troll Warlord hält Storm Spirit mit seinen Angriffen gefangen! Entwaffne ihn mit Heaven's Halberd, um Storm Spirit zu retten!"
 		
@@ -788,26 +775,19 @@
 		"scenario_mechanics_task_destroy_tower"										"Zerstören Sie den gegnerischen Turm"
 		"scenario_mechanics_task_destroy_tower_Description"					"Zerstören Sie den Turm, um das Tutorial abzuschließen."
 		
-		"scenario_mechanics_wizard_tip_intro_hero_Text"							"In diesem Tutorial steuerst du Luna. Du wirst für das Radiant-Team und gegen das gegnerische Dire-Team spielen."
-		"scenario_mechanics_wizard_tip_intro_fountain_Text"						"Dein Held beginnt jede Partie am Brunnen deines Teams. Wenn du in der Schlacht fällst, wirst du hier wieder einsteigen. In der Nähe des eigenen Brunnens werden schnell Lebenspunkte und Mana regeneriert."
-		"scenario_mechanics_wizard_tip_intro_movement_Text"					"Mit Rechtsklick kannst du deinem Helden befehlen, sich dahin zu bewegen, wo du ihn haben willst. Die Kamera bewegst du, indem du den Mauszeiger an den Rand des Bildschirms fährst."
+		"scenario_mechanics_wizard_tip_intro_hero_Text"							"In diesem Tutorial steuern Sie Luna. Sie spielt für das Radiant-Team gegen das gegnerische Dire-Team."
+		"scenario_mechanics_wizard_tip_intro_fountain_Text"						"Ihr Held beginnt jede Partie am Brunnen Ihres Teams. Wenn Sie in der Schlacht gefallen sind, steigen Sie hier wieder ein. In der Nähe des Brunnens Ihres Teams werden schnell Lebenspunkte und Mana regeneriert."
 		"scenario_mechanics_wizard_tip_intro_ancient_Text"						"Das ist der Ancient des Radiant-Teams. Um eine Partie zu gewinnen, muss dein Team den gegnerischen Ancient zerstören, bevor der Gegner euren zerstört."
-		"scenario_mechanics_wizard_tip_intro_gold_Text"							"Zu Beginn jeder Partie erhalten alle Spieler eine geringe Menge Startgold. Kaufe mit diesem Gold Gegenstände aus dem Shop, bevor du dich auf den Weg machst. Der Shop befindet sich beim Brunnen deines Teams."
+		"scenario_mechanics_wizard_tip_intro_gold_Text"							"Zu Beginn jeder Partie erhalten alle Spieler eine geringe Menge Startgold. Kaufen Sie mit diesem Gold Gegenstände aus dem Shop, bevor Sie sich auf den Pfad begeben. Der Shop befindet sich beim Brunnen Ihres Teams."
 		"scenario_mechanics_wizard_tip_intro_items_Text"							"Gegenstände sind in Dota vielseitig einsetzbar. Einige können zum Heilen verwendet werden, andere erhöhen passiv die Kraft eines Helden, wieder andere gewähren einzigartige Fähigkeiten. Der Shop listet einige Gegenstände auf, die für deinen Helden empfohlen werden."
 		"scenario_mechanics_wizard_tip_intro_consume_pt1_Text"				"Einige deiner Startgegenstände können verbraucht werden, um Lebenspunkte oder Mana wiederherzustellen."
 		"scenario_mechanics_wizard_tip_intro_consume_pt2_Text"				"Benutze eine Healing Salve oder einen Tango an einem Baum, um dich zu heilen. Um Mana wiederherzustellen, benutze eine Clarity."
 		"scenario_mechanics_wizard_tip_intro_lanes_Text"							"Es verlaufen drei Pfade über das Schlachtfeld, welche die Basen beider Teams verbinden. Die Pfade werden Oben, Mitte und Unten genannt."
 		"scenario_mechanics_wizard_tip_intro_creeps_Text"						"Die Fußsoldaten deines Teams, genannt Diener, erscheinen alle 30 Sekunden am Rande deiner Basis auf jedem Pfad. Diese Diener marschieren selbstständig in Richtung der gegnerischen Basis und greifen alle gegnerischen Einheiten und Gebäude an, auf die sie treffen."
 		"scenario_mechanics_wizard_tip_intro_waves_Text"						"Eine Dienerwelle erscheint jeden Moment. Folge ihnen in die Schlacht. Versuche, dich so zu positionieren, dass nur die Diener gegnerische Angriffe abbekommen. Wenn alle Diener dieser Welle sterben, zieh dich zurück und reihe dich wieder bei der nächsten Dienerwelle mit ein."
-		"scenario_mechanics_wizard_tip_intro_attacking_Text"					"Greife gegnerische Einheiten an, indem du auf sie rechtsklickst. Sobald du einen Gegner angreifst, wird dein Held solange weitermachen, bis der Gegner stirbt oder du einen anderen Befehl gibst."
-		"scenario_mechanics_wizard_tip_intro_last_hitting_Text"				"Immer wenn du den letzten Treffer auf einen Gegner landest, erhältst du dafür eine Goldprämie. Das wird „Last Hit“ genannt. Deshalb solltest du gegnerische Einheiten auch nur dann angreifen, wenn ihre Lebenspunkte niedrig sind."
 		"scenario_mechanics_wizard_tip_intro_experience_Text"					"Wenn ein Gegner stirbt, werden Erfahrungspunkte unter allen in der Nähe befindlichen verbündeten Helden geteilt. Durch das Sammeln von Erfahrungspunkten und Aufstieg im Level können die Fähigkeiten eines Helden angepasst werden."
 		"scenario_mechanics_wizard_tip_intro_abilities_Text"						"Immer wenn ein Held im Level aufsteigt, erhält er einen Fähigkeitspunkt, mit dem er eine neue Fähigkeit erlernen oder eine bereits erlernte verbessern kann. Dabei ist zu beachten, dass die für einen Helden charakteristische ultimative Fähigkeit erst ab Level 6 erlernt werden kann."
-		"scenario_mechanics_wizard_tip_intro_healing_Text"						"Heile deinen Helden mit einer Healing Salve. Aktiviere den Gegenstand mit dem über dem Symbol angezeigten Hotkey und linksklicke dann deinen Helden. Du kannst auch die Healing Salve doppelklicken (oder den Hotkey zweimal drücken), um sie auf deinen Helden anzuwenden."
 		"scenario_mechanics_wizard_tip_intro_casting_Text"						"Um eine Fähigkeit einzusetzen, aktiviere sie mit dem über dem Symbol angezeigten Hotkey und linksklicke dann ein Ziel. Aktive Fähigkeiten verbrauchen in der Regel Mana. Passive Fähigkeiten, etwa Lunas Lunar Blessing, sind immer aktiv und verbrauchen kein Mana."
-		"scenario_mechanics_wizard_tip_intro_towers_Text"						"Türme haben eine Menge Lebenspunkte und verursachen viel Schaden. Normalerweise zielen Türme auf die nächste gegnerische Einheit und greifen diese so lange an, bis sie stirbt oder außer Reichweite ist. Wenn ein Turm deinen Helden angreift, solltest du dich zurückziehen, bevor du zu viel Schaden erleidest."
-		"scenario_mechanics_wizard_tip_intro_complete_Text"					"Gut gemacht! Du hast den Turm zerstört und das Tutorial der Grundmechaniken abgeschlossen. Jetzt bist du bereit, dich den Aufgaben für neue Spieler zu widmen. Viel Glück und viel Spaß!"
-		
 		"scenario_mechanics_ui_tip_shop"											"Hier klicken, um den Shop zu öffnen."
 		"scenario_mechanics_ui_tip_learn_lucent_beam"					"Hier klicken, um Lucent Beam zu erlernen."
 		"scenario_mechanics_ui_tip_use_lucent_beam"						"Hier klicken, um Lucent Beam zu wirken."
@@ -825,10 +805,8 @@
 		
 		"scenario_tower_failure_hero_taking_damage"							"Held erlitt Schaden durch den Turm."
 		
-		"scenario_tower_wizard_tip_intro_Text"								"Türme können nur eine Einheit gleichzeitig angreifen. Du kannst deinen Helden sicher in die Reichweite eines Turms bewegen, solange dieser eine andere Einheit angreift."
+		"scenario_tower_wizard_tip_intro_Text"								"Türme können nur eine Einheit gleichzeitig angreifen. Sie können Ihren Helden sicher in die Reichweite eines Turms bewegen, solange dieser eine andere Einheit angreift."
 		"scenario_tower_wizard_tip_aggro_Text"								"Türme greifen so lange dieselbe Einheit an, bis sie stirbt oder die Reichweite des Turms verlässt."
-		"scenario_tower_wizard_tip_drop_aggro_Text"							"Wenn der Turm deinen Helden angreift, kannst du sein Ziel auf einen deiner verbündeten Diener lenken."
-		
 		// Scenario: Aghanims
 		"scenario_aghanims_main_objective"									"Erfahren Sie mehr über Aghanims Zepter und Aghanims Splitter"
 		"scenario_aghanims_task_move_to_location_1"							"Bewegen Sie Ihren Helden zur Position"
@@ -853,7 +831,6 @@
 		"scenario_aghanims_wizard_tip_intro_1_Text"							"Aghanims Zepter und Aghanims Splitter sind Gegenstände, die die Fähigkeiten eines Helden verändern können."
 		"scenario_aghanims_wizard_tip_intro_2_Text"							"Die Änderungen sind für jeden Helden anders. Halte den Mauszeiger über Aghanims Symbol im HUD, um zu sehen, welche Fähigkeiten verbessert werden."
 		"scenario_aghanims_wizard_tip_scepter_Text"							"Aghanims Zepter gewährt Zeus eine neue Fähigkeit."
-		"scenario_aghanims_wizard_tip_global_Text"							"Nimbus ist eine globale Fähigkeit. Du kannst sie von überall auf der Karte an jeder beliebigen Position aktivieren."
 		"scenario_aghanims_wizard_tip_shard_Text"							"Aghanims Splitter verbessert Zeus' Fähigkeit Static Field. Sie kann jetzt aktiviert werden, um einen Himmlischen Hopser zu machen."
 		
 		"scenario_aghanims_ui_tip_description"								"Aghanims Symbol"
@@ -867,7 +844,6 @@
 		"scenario_orb_walking_task_kill_enemy_hero"							"Töten Sie Undying."
 		"scenario_orb_walking_task_kill_enemy_hero_Description"				"Rechtsklicken Sie auf den Boden, um sich zu bewegen, und auf Ihren Gegner, um ihn mit Frost Arrows anzugreifen."
 		
-		"scenario_orb_walking_wizard_tip_intro_1_Text"						"In diesem Szenario musst du einen gegnerischen Helden jagen und töten. Dein Held hat Frostpfeile, die deinen Gegner verlangsamen."
 		"scenario_orb_walking_wizard_tip_intro_2_Text"						"Rechtsklicke direkt nach dem Abschuss eines Frostpfeils auf den Boden in der Nähe des Gegners, um die Animation abzubrechen und deinen Helden näher an ihn heranzubewegen."
 		
 		"scenario_orb_walking_failure_enemy_escaped"						"Gegnerischen Helden nicht getötet."

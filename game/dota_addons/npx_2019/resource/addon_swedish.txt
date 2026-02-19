@@ -350,6 +350,7 @@
 		"scenario_navigation_wizard_tip_center_camera_Text"					"Centrera kameran på din hjälte genom att klicka på hjältens porträtt."
 		"scenario_navigation_wizard_tip_leap_Text"									"Leap låter dig korsa över barriärer eller mellan olika höjder. När du använder Leap minskas antalet laddningar."
 		"scenario_navigation_wizard_tip_phase_Text"									"Phase Boots har en cooldown efter att stövlarna har aktiverats. Du kan använda Phase Boots så fort de är tillgängliga, men det kan vara praktiskt att spara dem till särskilda situationer. Observera att stövlarna räknas som ett enda föremål."
+		"scenario_navigation_wizard_tip_blink_Text"									"Blink Dagger hjälper dig passera annars oframkomliga hinder."
 		"scenario_navigation_wizard_tip_block_Text"									"Enheter blockerar andra enheter. Genom att använda Phase Boots kan du tillfälligt passera igenom enheter."
 		"scenario_navigation_wizard_tip_force_Text"									"Med Force Staff kan du ta dig igenom barriärer. Dubbelklicka på staven för att automatiskt knuffa din hjälte framåt."
 		
@@ -365,6 +366,7 @@
 		"initiation_teamfight_tip_ravage_primer_Text"		"Ravage bedövar fiender i ett stort område."
 		"initiation_teamfight_task_go_into_trees"				"Göm dig i träden när fiender närmar sig."
 		"initiation_teamfight_task_go_into_trees_Description"	"Gå till nästa vägpunkt."
+		"initiation_teamfight_tip_queenofpain_combo_Text"	"Din allierade använder sin ultimata förmåga efter att du har använt Ravage."
 		"initiation_teamfight_task_win_teamfight"				"Vinn 2 mot 2-kampen"
 		"initiation_teamfight_task_win_teamfight_Description"	"Döda båda fienderna. Håll Queen of Pain och ditt torn vid liv."
 		"initiation_teamfight_task_ravage_and_kill_enemies"	"Använd Ravage på alla fiender"
@@ -468,7 +470,11 @@
 		"scenario_regen_task_regen_lina"					"Återställ Lina till full hälsa och mana"
 		"scenario_regen_task_regen_lina_Description"		"Använd regenerationsföremål på Lina"
 		"scenario_regen_wizard_tip_regen_Text"				"Healing Salve, Clarity och Tango kan alla användas eller delas med allierade."
-"scenario_courier_task_root"																	"Skaffa komponenterna till en Aghanim's Scepter"
+		
+	
+		// Scenario: Courier
+		"scenario_courier_main_objective"															"Använd din kurir för att skapa en Aghanim's Scepter"
+		"scenario_courier_task_root"																	"Skaffa komponenterna till en Aghanim's Scepter"
 		"scenario_courier_task_buy_ogre_club"													"Köp Ogre Axe från butiken"
 		"scenario_courier_task_buy_ogre_club_Description"								"Klicka på butiksknappen. Högerklicka på Ogre Axe."
 		"scenario_courier_task_deliver_ogre_club_with_courier"							"Leverera Ogre Axe med din kurir"
@@ -518,6 +524,8 @@
 		"scenario_euls_setup_task_ice_path_shadow_fiend_3_Description"		"Använd Eul's Scepter och Ice Path för att bedöva Shadow Fiend"
 
 		"scenario_euls_setup_wizard_tip_intro_Text"								"Jakiros Ice Path, liksom många besvärjelser med punktval, kan vara svår att träffa med. I det här scenariot övar vi lite!"
+		"scenario_euls_setup_wizard_tip_intro_Annotation"						"I en match gör spelarna sitt bästa för att undvika dina besvärjelser. Låt oss se till att de inte kan göra det."
+		
 		"scenario_euls_setup_wizard_tip_ice_path_shadow_fiend_1_Text"			"Ice Path träffar inte direkt utan dröjer kvar en kort tid på marken efter användning."
 		"scenario_euls_setup_wizard_tip_ice_path_shadow_fiend_1_Annotation"		"Ice Path träffar inte direkt utan dröjer kvar en kort tid på marken efter användning."
 
@@ -695,6 +703,7 @@
 		"scenario_creep_pulling_wizard_tip_reason_Text"								"Om du drar iväg neutrala creepvågor till vägen kan dina vägcreeps avledas och ändra platsen för var creepvågorna möts."
 		"scenario_creep_pulling_wizard_tip_negative_Text"								"Det är inte alltid fördelaktigt att dra iväg creeps."
 
+		"scenario_creep_pulling_failure_creeps_did_not_get_pulled"					"Creepsen blev inte ivägdragna."
 		"scenario_creep_pulling_failure_did_not_attack_in_time"						"Drog inte iväg creepsen i tid."
 
 		
@@ -723,6 +732,7 @@
 		"scenario_creep_stacking_wizard_tip_out_Text"								"Försök att leda dem utanför deras lägers gränser."
 		"scenario_creep_stacking_wizard_tip_leash_Text"							"De är bundna till sitt läger och återvänder efter några sekunder."
 		"scenario_creep_stacking_wizard_tip_respawn_Text"						"Neutrala creeps återuppstår vid minutstrecket men bara om inga andra enheter finns inuti deras läger."
+		"scenario_creep_stacking_wizard_tip_stacking_time_Text"				"Led hela lägret utanför gränserna så att lägret är tomt när timern når 1 minut."
 		"scenario_creep_stacking_wizard_tip_farming_stacks_Text"				"Läger kan stackas flera gånger. Hjältar som behöver farma kan rensa lägren för att farma mer effektivt."
 
 		// Scenario: Status Effects
@@ -745,6 +755,7 @@
 		"scenario_status_effects_task_disarm_enemy_hero_Description"			"Använd Heaven's Halberds aktiva förmåga för att avväpna Troll Warlord"
 
 
+		"scenario_status_effects_wizard_tip_intro_Text"							"Vi kommer att gå igenom några av de statuseffekter som finns i Dota"
 		"scenario_status_effects_wizard_tip_intro_Annotation"							"Kunskap om vad dina allierade och fiender kan och inte kan göra i varje ögonblick är avgörande när du planerar din strategi."	
 
 		"scenario_status_effects_wizard_tip_stun_enemy_hero_Text"				"Bedövningar hindrar hjältar från att förflytta sig, attackera och kasta besvärjelser. Bedövningar kan även avbryta kanaliserade besvärjelser och teleporteringar."

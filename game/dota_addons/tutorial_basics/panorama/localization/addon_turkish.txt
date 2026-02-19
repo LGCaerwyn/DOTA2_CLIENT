@@ -26,21 +26,19 @@
 		"basics_alert_SecondDeathBody"				"Kahramanınızı gönderdiğiniz yere dikkat edin. Eğer bir kule, kahraman veya düşman yaratığı size saldırıyorsa, geri çekilmek isteyebilirsiniz.\n\nKazanılan her seviye bir kahramanın ne kadar süre ölü kalacağını belirler."
 
 		"basics_alert_RespawnTitle"					"Yakında Canlanılıyor"
-		"basics_alert_RespawnBody"					"Kahramanınız bir süre sonra takımınızın kaynağında canlanacak.\n\nSavaşa hızlıca dönmeyi deneyin!"
-
 		"basics_alert_TangoUsageTitle"				"Tango Kullanımı"
 		"basics_alert_TangoUsageBody"				"Tango sayesinde bir ağacı yiyerek zaman içerisinde sağlığınızın küçük bir kısmını yenilersiniz.\n\nTango'yu, simgesine tıklayarak ya da kısayol tuşuna basarak etkinleştirebilirsiniz. Şimdi bir ağaca sol tıklayarak Tango'yu kullanın."
 
 		"basics_alert_SalveUsageTitle"				"Healing Salve Kullanımı"
-		"basics_alert_SalveUsageBody"				"Healing Salve, hedeflediğiniz (sol tık) kahramanı hızlıca iyileştirir.\n\nHasar görmek iyileştirme etkisini iptal edecektir."
+		"basics_alert_SalveUsageBody"				"Healing Salve, hedeflediğiniz (sol tık) kahramanı hızlıca iyileştirir.\n\nHasar almak iyileştirme etkisini iptal eder."
 
 		"basics_alert_ClarityUsageTitle"			"Clarity Kullanımı"
-		"basics_alert_ClarityUsageBody"				"Clarity iksiri hedeflediğiniz kahramanın manasını yavaşca yeniler.\n\nHasar görmek yenileme etkisini iptal edecektir."
+		"basics_alert_ClarityUsageBody"				"Clarity iksiri hedeflediğiniz kahramanın manasını yavaşca yeniler.\n\nHasar almak yenileme etkisini iptal eder."
 
 		"basics_ExcessiveTowerDamageTitle"			"Kuleler tehlikelidir. Geri çekilin!"
 		"basics_ExcessiveTowerDamageBody"			"Ah! Kuleden çok fazla hasar aldınız!\n\nKule başka bir birime saldırmaya başlayıncaya kadar geri çekilin."
 
-		"basics_objective_CloseShopTitle"			"Dükkânı Kapatmak (sol tık)"
+		"basics_objective_CloseShopTitle"			"Dükkânı kapatın (sol tık)."
 		"basics_objective_CloseShopBody"			"Dükkânı kapatmak için tekrar dükkân tuşuna basın."
 
 		"basics_objective_BackToCombatTitle"		"Orta kulvara geri dönün."
@@ -65,9 +63,11 @@
 		"basics_AncientIntroBody"			"Bu, Radiant takımının yani sizin Kadim Kale'nizdir.\n\nDota'da bir maçı kazanmak için düşman sizin Kadim Kale'nizi yok etmeden, siz onlarınkini yok etmelisiniz."
 		
 		"basics_SpendGoldTitle"				"Başlangıç altınını her zaman harcayın."
-		"basics_SpendGoldBody"				"Her maçın başlangıcında oyunculara az bir miktarda başlangıç altını verilir. Savaş alanına girmeden önce bu altınını dükkândan eşya almak için kullanmayı unutmayın.\n\nDükkân her zaman takımınızın kaynağındadır. Şimdi oraya gidin."
+		"basics_SpendGoldBody"				"Her maçın başlangıcında oyunculara az bir miktarda başlangıç altını verilir. Altınlarınızı savaş alanına girmeden önce dükkândan eşya almak için kullanmayı unutmayın.\n\nDükkân her zaman takımınızın kaynağındadır. Şimdi oraya gidin."
 
 		"basics_objective_MoveToShopTitle"	"Kaynağa geri dönün."
+		"basics_objective_MoveToShopBody"	"Kaynağın yanındaki dükkâna geri dönün (sağ tık)."
+
 		"basics_objective_OpenShopTitle"	"Dükkânı açın."
 		"basics_objective_OpenShopBody"		"Ekranın sol altında yer alan altın dükkân butonuna sol tıklayın."
 
@@ -90,7 +90,7 @@
 		"basics_objective_BuySlippersBody"			"Dükkândan Slippers of Agility'ye sağ tıklayarak satın alın."
 		
 		"basics_BoughtStartingTitle"			"Başlangıç Eşyaları: Savaşta Hayatta Kalmak"
-		"basics_BoughtStartingBody"				"Başlangıç eşyalarından bazıları iyileşmek veya mananızı geri kazanmak için kullanılabilir:\n- Tango: Bir ağaç yutup yavaşça iyileşmek için kullanın.\n- Healing Salve: Yaşam enerjinizin büyük bir bölümünü yavaşça iyileştirir\n- Clarity: Mananızın büyük bir bölümünü yavaşça yeniler.\n\nNOT: Eğer bir düşman kahramandan hasar alırsanız Healing Salve ve Clarity'nin etkileri bozulur."
+		"basics_BoughtStartingBody"				"Başlangıç eşyalarından bazıları iyileşmek veya mananızı geri kazanmak için kullanılabilir:\n- Tango: Bir ağaç yutup yavaşça iyileşmek için kullanın.\n- Healing Salve: Yaşam enerjinizin büyük bir bölümünü yavaşça iyileştirir.\n- Clarity: Mananızın büyük bir bölümünü yavaşça yeniler.\n\nNOT: Eğer bir düşman kahramandan hasar alırsanız Healing Salve ve Clarity'nin etkileri bozulur."
 		
 		"basics_LaneIntroTitle"				"Kulvarlar: Saldırıya Giden Üç Yol"
 		"basics_LaneIntroBody"				"Savaş alanında kesişen üç adet kulvar vardır ve bunlar her iki takımın da üssüne bağlanır. Bu kulvarlar üst, orta ve alt olarak adlandırılır."
@@ -99,10 +99,8 @@
 		"basics_objective_MoveToMidLaneBody"		"Orta kulvara ilerleyin (sağ tık)."
 
 		"basics_CreepsIntroTitle"			"Yaratıklar: Savaşın Yaya Askerleri"
-		"basics_CreepsIntroBody"			"Takımınızın yaya askerlerine yaratık denir. Bunlar her 30 saniyede bir her bir kulvarda üssünüzün dış sınırında doğarlar.\n\nYaratıklar otomatik olarak düşman üssüne doğru harekete geçerek karşılaştıkları düşman birimlerine veya binalarına saldırırlar."
-		
 		"basics_LaningIntroTitle"			"Savaş Başlıyor: Yaratıklarınızı Takip Edin"
-		"basics_LaningIntroBody"			"Bir yaratık dalgası doğmak üzere. Onları savaşın içine doğru takip edin.\n\nHerhangi bir düşman saldırısını yaratıkların karşılayacağı bir pozisyonda konumlanmaya çalışın. Yaratık dalgası öldüğükten sonra geri çekilin ve sıradaki yaratık dalgasını takip edin."
+		"basics_LaningIntroBody"			"Bir yaratık dalgası doğmak üzere. Onları savaşın içine doğru takip edin.\n\nHerhangi bir düşman saldırısını yaratıkların karşılayacağı bir pozisyonda konumlanmaya çalışın. Yaratık dalgası öldükten sonra geri çekilin ve sıradaki yaratık dalgasını takip edin."
 		
 		"basics_objective_FollowCreepsTitle"		"Yaratıklarınızı savaşa doğru takip edin."
 		"basics_objective_FollowCreepsBody"			"Orta kulvara ilerleyin (sağ tık)."
@@ -113,7 +111,7 @@
 		"basics_BountiesIntroTitle"			"Son Vuruşlar: Hızlıca Altın Kazanın"
 		"basics_BountiesIntroBody"			"Bir düşmana öldürücü darbeyi siz vurduğunuzda fazladan altın ödülü kazanırsınız. Bu son vuruş olarak adlandırılır.\n\nŞimdi, son vuruş yapabilmek için düşük sağlığa sahip düşman birimlerine saldırın."
 		
-		"basics_objective_LastHitCreepsTitle"		"Ödül kazanın."
+		"basics_objective_LastHitCreepsTitle"		"Son vuruş elde edin."
 		"basics_objective_LastHitCreepsBody"		"Bir düşmana son vuruş yapın (sağ tık)."
 
 		"basics_ExpIntroTitle"				"Yakındaki Savaşlardan Tecrübe Kazanmak"
@@ -150,8 +148,6 @@
 		"basics_RazorIntroBody"				"Yeni bir kahraman savaşa katıldı!\n\nRazor düşman Dire takımına katıldı ve yıldırım yeteneğini kullanarak takımının kulesini savunmaya çalışacak.\n\nRazor'a hasar vererek onu geri çekilmeye zorlayabilirsiniz."
 
 		"basics_WinningIntroTitle"			"Zafer!"
-		"basics_WinningIntroBody"			"Tebrikler! Kuleyi yıkarak Temel Mekanikler eğitimini tamamladınız.\n\nArtık yeni oyuncu görevleriyle devam etmeye hazırsınız. Bol şans, iyi eğlenceler!"
-		
 		"basics_QuestSuccessTitle"			"Kazandınız!"
 		"basics_QuestSuccessBody"			"Görevi başarıyla tamamladınız."
 

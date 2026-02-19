@@ -7750,23 +7750,24 @@
 19sndopvarlatchdata_t
 1:1: Tokens : ( T__39 | T__40 | T__41 | T__42 | T__43 | T__44 | T__45 | T__46 | T__47 | T__48 | T__49 | T__50 | T__51 | TOK_COLON | OPEN_BRACE | CLOSE_BRACE | OPEN_PAREN | CLOSE_PAREN | OPEN_BRACKET | CLOSE_BRACKET | SEMICOLON | OP_EQUAL | COMMA | DOUBLE_AND | NEGATIVE_TOK | DOUBLE_OR | LITERAL_TRUE | LITERAL_FALSE | POS_INTLITERAL | POS_FLOATLITERAL | ID | DOUBLE_QUOTED_STRING | SINGLE_QUOTED_STRING | SINGLE_LINE_COMMENT | ML_COMMENT | WS | UNRECOGNIZED
 1HcV\bH
-1I\r!%s
-1I\r!x
 1I\r"w
-1I\r%Mq
-1I\r%\bp
-1I\r%zp
 1I\r1
 1I\r1(C
 1I\r2C\r
 1I\r4\vE
 1I\r5Dp
-1I\r5h
+1I\r9Lt
+1I\rA[\t
 1I\rAw\e
 1I\rBZh
-1I\rBe
+1I\rI%s
+1I\rIx
+1I\rMMq
 1I\rM[o
+1I\rM\bp
+1I\rMzp
 1I\rO\vE
+1I\rQ\aY
 1I\rZWK
 1I\rZp
 1I\r\ezc
@@ -7774,22 +7775,18 @@
 1I\r\n\eR
 1I\r\n\tG
 1I\r\r#p
-1I\r\t
 1I\r\t\vk
+1I\r]h
 1I\r]|o
 1I\rbJS
 1I\rbjS
+1I\re\e
 1I\riAi
-1I\riLt
+1I\rje
 1I\rq
 1I\rqJ\r
-1I\rq[\t
-1I\ry%s
-1I\ryx
+1I\ru
 1I\rzw
-1I\r}Mq
-1I\r}\bp
-1I\r}zp
 1Ic<$9
 1Lc#I
 1\bC*[A
@@ -11393,7 +11390,6 @@
 2L.CMsgClientToGCMonsterHunterRequestMaterialsNeededByFriendResponse.EResponse
 2Mc'A9
 2Mc\aIc
-2YA1誳v
 2\a.EEvent
 2\e.CMsgBotWorldState.UnitType
 2\e.CMsgGCMsgSetOptions.Option
@@ -17606,7 +17602,8 @@
 4Lfff
 4P(8<@DH\b
 4T\nT\nT\nT\nT\nT\nT\nZ\n
-4YA1辬s
+4YA1莬s
+4YA1袯y
 4\a\aP5\a
 4\a\b@8\a
 4\n CUserMessageLagCompensationError
@@ -18328,7 +18325,7 @@
 5Vec2DIfE
 5Vec3DIfE
 5Vec4DIfE
-5YA1蓭Y
+5YA1賋N
 5\n0kKillEaterEventType_ArcWarden_TempestDoubleKills
 5\n0kKillEaterEventType_ChaosKnight_RealityRiftKills
 5\n0kKillEaterEventType_Earthshaker_AftershockHits10
@@ -18524,6 +18521,7 @@
 64CMsgDOTAClaimEventActionResponse_MonsterHunterMaterialRewardData
 64CMsgServerToGCCompendiumInGamePredictionResults_PredictionResult
 64CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription
+64\t\nv5\t
 65535
 65535"j\n
 65535B
@@ -18570,11 +18568,13 @@
 6Bp\bp
 6CCoJob
 6CWorld
-6D\f\vfD\f
 6Lc;E
 6Mc\aIcU
+6P\f\n&Q\f
 6QAngle
+6T\f\a&U\f
 6YA1蔙H
+6\b\t\af\t\t
 6\n.ultimate_scepter_consumed_alchemist_bonus_mana
 6\n1kKillEaterEventType_Earthshaker_FissureMultiStuns
 6\n1kKillEaterEventType_Gyrocopter_HomingMissileKills
@@ -18683,11 +18683,11 @@
 7INotify
 7IScorer
 7Lc:E
-7YA1芗t
-7YA1蔴Z
-7YA1薅\v
-7YA1蚙A
+7YA1蚼U
 7YA1袎k
+7YA1袮A
+7YA1褓o
+7YA1贤Q
 7\e u\r
 7\n!CMsgClientToGCGetBattleReportInfo
 7\n2kKillEaterEventType_Batrider_TripleHeroFlamebreaks
@@ -18899,7 +18899,7 @@
 8\n\textension
 8\n\vdescriptors
 8\nt͋S\\H
-8\v\tV?\v
+8\v\t6?\v
 8basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
 8fB94#tOJ
 8fB;L+0t-K
@@ -18984,7 +18984,6 @@
 9X\b~+D
 9Y0u\vE1
 9YA1蝍V
-9YA1蠭y
 9\\\bDt*H
 9\\\bTt(H
 9\\\bTt\vH
@@ -19007,7 +19006,6 @@
 9\n5STEAMLEARN_SNAPSHOT_PROJECT_ERROR_UNKNOWN_DATA_SOURCE
 9\n5k_EDOTATriviaQuestionCategory_DYNAMIC_QUESTIONS_START
 9\n5k_RemoveItemAttribute_Failed_AttributeCannotBeRemoved
-9\n\aF;\n
 9\n\aplayers
 9\n\arecords
 9\n\aupdates
@@ -19024,6 +19022,7 @@
 9\n\vdamage_type
 9\n\vdiagnostics
 9\n\vplayer_info
+9\rg|K
 9_\bt6H
 9basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
 9ffff
@@ -21409,7 +21408,6 @@ A\n!NETWORK_DISCONNECT_REJECT_NOLOBBY
 A\n!secondary_advancing_node_group_id
 A\n<k_EMsgClientToGCOverworldRequestTokensNeededByFriendResponse
 A\n=STEAMLEARN_INFERENCE_METADATA_ERROR_INVALID_PUBLISHED_VERSION
-A\n\a6C\n
 A\n\aoutputs
 A\n\aresults
 A\n\baccounts
@@ -34915,20 +34913,20 @@ D94%`\t
 D942t\rH
 D94\btt
 D94\v}\vH
-D95"\ri
-D954C
-D95B\bi
-D95J$i
-D95Tp
-D95\n\ai
-D95z\ti
+D95$p
+D95J\ti
+D95R%i
+D95TX
+D95r i
 D98t\vH
 D98u\nH
 D99u4ffffff
 D9;tBH
 D9;t\rH
 D9<2t\rH
-D9=etS
+D9=5tS
+D9=ktS
+D9=o}l
 D9B\bsy
 D9G\f|K
 D9L>@u
@@ -34959,17 +34957,15 @@ D9{4t
 D9|9\ftc
 D9|\b0u
 D9|\bTt\vH
-D;%aZV
+D;%1ZV
 D;(u4A
-D;-Q5
 D;0}5H
 D;4\b~b
-D;5$\ri
-D;5D\bi
-D;5L$i
-D;5\f\ai
+D;5L\ti
+D;5T%i
 D;5hSV
-D;5|\ti
+D;5i4b
+D;5t i
 D;8}3H
 D;9uC;Y
 D;F\b~1H
@@ -37094,6 +37090,7 @@ DROWNRECOVER
 D\b8]ÐUH
 D\b\b]ÐUH
 D\b\t H\b
+D\f\vFD\f
 D\n#CMsgGCToClientFightingGameChallenge
 D\n\arecipes
 D\n\baccounts
@@ -38204,7 +38201,6 @@ EXPLOSION_TYPE_TRIPMINE
 EXPONENT
 EXPORTSYSTEM_INTERFACE_VERSION_001
 EXTERNALLY_CREATED
-EZc7:ء\b
 E\bA9D
 E\bA:G\btAH
 E\bA;D$\b
@@ -38783,8 +38779,6 @@ ÈzX"u
 EΉL$PH
 EЀ8%u6A
 EЀ=GI
-EЀ=Gpp
-EЀ=WH
 EЉC\bH
 EЉp f
 EЉp$f
@@ -39024,6 +39018,7 @@ FAVORITE_TYPE_ALL
 FAVORITE_TYPE_LEAGUE
 FAVORITE_TYPE_PLAYER
 FAVORITE_TYPE_TEAM
+FA\f\vvA\f
 FCVAR_ARCHIVE
 FCVAR_CHEAT
 FCVAR_DEMO
@@ -46463,8 +46458,8 @@ LaunchSpear
 LayoutAndAllocateConstantStorage
 Lc E9eH
 Lc/A9
-Lc5t.P
-Lc5w5f
+Lc5D.P
+Lc5G5f
 Lc:F;|3
 Lc@(Ii
 LcCPE9
@@ -48002,6 +47997,7 @@ MЋt\b,L
 MЋt\b0L
 MЋt\b4L
 M؉L0$D
+M؋5xN8
 N HcV
 N is not supported in a class
 N(A;L
@@ -57704,6 +57700,7 @@ UԉT\b@H
 V fff
 V ffff
 V( fD
+V4\n\a66\n
 V4fffff
 V<fffff
 V@HcL1
@@ -57765,7 +57762,6 @@ VOTE_FAILED_WAITINGFORPLAYERS
 VOTE_FAILED_YES_MUST_EXCEED_NO
 VP4003
 VPMc~hH
-VP\f\nFQ\f
 VPhysics2_Handle_Interface_001
 VPhysics2_Interface_001
 VPhysicsCollisionAttribute_t
@@ -57776,6 +57772,7 @@ VProcessUtils002
 VProfService_001
 VProf_AssignNextTimespanId
 VProf_FindOrCreateCounter
+VQ\v\avR\v
 VR_HAND_HAPTIC_PULSE_LIGHT
 VR_HAND_HAPTIC_PULSE_MEDIUM
 VR_HAND_HAPTIC_PULSE_STRONG
@@ -57797,7 +57794,6 @@ VScriptScripts
 VScript_CreateItemOnPositionForLaunch
 VScript_CreateItemOnPositionSync
 VStringTokenSystem001
-VT\f\aFU\f
 VTfffff
 VWebm001
 VXfffff
@@ -58422,6 +58418,7 @@ X`\\abcdHP0
 X`dhlp
 X`dhlptx
 Xbox VDP is not supported on this platform
+XfD9-T
 Xffff
 Xfffff
 Xffffff
@@ -58431,29 +58428,34 @@ Y0;Z0s
 Y0A;X0s7L
 Y?33s
 Y?@T\tJa\v
-YA1胱j
-YA1膲j
-YA1臰j
-YA1與c
-YA1艗j
-YA1芈u
-YA1芯j
+YA1耰e
+YA1聞j
+YA1脕k
+YA1莀c
+YA1莤G
 YA1莿\a
-YA1葩G
-YA1葪j
-YA1蒟j
-YA1蔃u
-YA1螭j
-YA1蠣u
-YA1衻p
-YA1裮j
-YA1襡j
-YA1詬j
-YA1谰e
-YA1豞j
-YA1贕k
-YA1辀c
-YA1辤G
+YA1萖j
+YA1萠j
+YA1萫j
+YA1蚺p
+YA1蜜j
+YA1蟼p
+YA1袍t
+YA1袓j
+YA1襟j
+YA1襨K
+YA1觇c
+YA1許j
+YA1詰j
+YA1誛e
+YA1諗j
+YA1譆u
+YA1误j
+YA1豥G
+YA1貇u
+YA1躭j
+YA1辮j
+YA1违j
 YDiF\f
 YYYY-MM-DD
 YYYY-MM-DD hh:mm
@@ -59385,6 +59387,7 @@ aD9s8t
 aE1ɀx
 aGeneral
 aH9=Y]\f
+aH9=cUM
 aH9F\bv
 aH;G\bt
 aH;G\bt\bH
@@ -66279,7 +66282,6 @@ f$u%fAǅ\f
 f)IcL\r\bN
 f*t\n ESteamLearnGetAccessTokensResult
 f, %f, %f
-f-3[f
 f0IcF(M
 f0K3L
 f0K3L,\fB
@@ -66391,15 +66393,14 @@ fValue
 fWeight
 f[A^A
 f\\f9\fZ
+f\bFa\f\b
 f\bH9L
 f\bLc{\bE
 f\bRARBWA
 f\bSASA
 f\b\bfA
 f\b\ff
-f\bfa\f\b
 f\nE1䀹i
-f\nF(\f\a
 f\n\bAncients
 f\n\bBARRACKS
 f\n\bBUILDING
@@ -66425,7 +66426,6 @@ f\n\bnet_Tick
 f\n\bsvc_Menu
 f\n\fTeleportInfo
 f\n\rCMsgAddSocket
-f\r6"5
 f\rTT
 f\rjW
 f\tr\rI
@@ -68122,7 +68122,7 @@ h\n"unlocked_ping_wheel_message_ranges
 h\n,NETWORK_DISCONNECT_REMOTE_TIMEOUT_CONNECTING
 h\n\vDIALOG_TYPE
 h\t\bpj\t
-h\t\tfi\t
+h\t\tFi\t
 hairball
 half_bonus_aoe
 half_extent_xy
@@ -96272,6 +96272,7 @@ r\bffff
 r\bfffff
 r\bw.D;G\bs(H9\nr\bw
 r\fIM̋F(D
+r\f\bfs\f
 r\f\v\n\t\bSHA512 block transform for x86_64, CRYPTOGAMS by <appro@openssl.org
 r\n\nHuntReward
 r\n\tCODE_SIZE
@@ -100974,7 +100975,7 @@ t#fffff
 t#ffffff
 t$ E;t$$u
 t$ H;5
-t$ H;5i
+t$ H;5I
 t$ IcT
 t$(ffffff
 t$0LcC0E
@@ -101152,6 +101153,7 @@ tEJc<3L
 tEffff
 tEfffff
 tE~8E1
+tFD;%e2
 tFfff
 tFffffff
 tFound %s\n
@@ -101177,7 +101179,6 @@ tJE;eLtDH
 tJHcH H
 tJHc\bH
 tJIcN`;\b}B
-tKD;%I
 tKHc\bH
 tKLc M
 tKLc8M
@@ -101349,7 +101350,7 @@ t\t[A
 t\t\npv\t
 t\t\tResponse %d: %s\n
 t\tif g_reloadState == nil then \t\t\tg_reloadState = {} \t\t\tfor k, v in pairs( package.loaded ) do \t\t\t\tg_reloadState[k] = v \t\t\tend \t\telse \t\t\tfor k, v in pairs( package.loaded ) do \t\t\t\tif g_reloadState[k] == nil then \t\t\t\t\tpackage.loaded[k] = nil \t\t\t\tend \t\t\tend \t\tend
-t\tv>\t
+t\tv@\t
 t\vHǃ(F
 t\vO0
 t\v[A^A
@@ -101363,7 +101364,7 @@ t]fff
 t]ffff
 t^I96
 t^fffff
-t_D;5kE
+t_D;5;E
 t_E1\rp
 t_I96
 t_IcE I
@@ -101664,7 +101665,6 @@ tgL93
 tgM94
 tgM97
 tgM9u
-thD95H
 thI96
 thI96vVI
 thM94
@@ -103204,11 +103204,9 @@ v2\v.CMsgVector"a\n
 v2\v.CMsgVector"l\n
 v2\v.CMsgVector"o\n)CDOTAUserMsg_UpdateLinearProjectileCPData
 v2\v.CMsg_CVars
-v4\n\aV6\n
 v8A+D
 v8D;s<t
 v8D;s<u
-v8H;5\n
 v8IcV0H
 v8Ic\f$I
 v8array
@@ -103287,9 +103285,9 @@ vTargetZ
 vTrees
 vValue
 vVelocity
+vW\v\afX\v
 vXA9v
 vXIcVPH
-v\aF^\v
 v\aHcЉE
 v\aP;\v
 v\a\aP\f\a

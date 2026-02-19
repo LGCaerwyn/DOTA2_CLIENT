@@ -1678,6 +1678,8 @@
 		"DOTA_TutorialBody_Train_Pudge"		"Lernen Sie Pudge zu spielen. Töten Sie ein paar Bots auf dem unteren Pfad."
 
 		"DOTA_TutorialTitle_Pudge_Goal"		"Töten Sie ein paar Helden!"
+		"DOTA_TutorialBody_Pudge_Goal"		"Ganken Sie die zwei gegnerischen Helden auf dem unteren Pfad (Bottom Lane). Versuchen Sie, 5 Helden zu töten, ohne mehr als 3 Mal zu sterben."
+
 		////////////////////////////////////////
 		// Last Hit / Deny Training
 		////////////////////////////////////////
@@ -20017,7 +20019,7 @@ Spezieller Spott für Techies"
 	"DOTA_JoinChatChannel_NewPlayerUserNotEligible" "Neue Spieler müssen die Einführungsquests der Stufe 1 abschließen, bevor sie dem Chat für neue Spieler beitreten können. Erfahrene Spieler müssen mindestens {d:new_player_req_games_played} Partien gespielt und eine Kommunikationswertung von mindestens {d:new_player_req_behavior_score} haben, um beitreten zu können."
 	"DOTA_JoinChatChannel_NewPlayerBanned" "Sie dürfen bis zum {t:s:ban_until_timestamp} um {t:t:ban_until_timestamp} nicht am Chat für neue Spieler teilnehmen."
 
-	"DOTA_JoinChatChannel_NewPlayer_Description" "Der Kanal für neue Spieler ist ein moderierter Chatkanal, indem neue Spieler nach dem Abschließen der Einführungsquests Fragen an erfahrenere Spieler stellen können.
+	"DOTA_JoinChatChannel_NewPlayer_Description" "Der Kanal für neue Spieler ist ein moderierter Chatkanal, in dem neue Spieler nach dem Abschließen der Aufgaben für neue Spieler Fragen an erfahrenere Spieler stellen können.
 
 Um als erfahrener Spieler beitreten zu können, müssen Sie mindestens {d:new_player_req_games_played} Partien gespielt und eine Verhaltenswertung von mindestens {d:new_player_req_behavior_score} aufweisen können."
 

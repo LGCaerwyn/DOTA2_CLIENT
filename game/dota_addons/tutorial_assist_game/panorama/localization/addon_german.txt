@@ -15,8 +15,6 @@
 		"ag_info_PreGamePrepBody"				"In Dota ist Planung genauso wichtig wie Fertigkeiten. Die besten Teams wählen Helden, die sich ergänzen, einander bei Angriffen unterstützen und zusammen Ziele erreichen. Diese Dinge lernen Sie mit der Zeit. Fürs Erste konzentrieren wir uns darauf, mit einer Rolle gut zurechtzukommen."
 
 		"ag_info_YourRoleTitle"					"Ihre Rolle: Kraft sammeln, dann den Gegner zerstören"
-		"ag_info_YourRoleBody"					"In dieser Partie konzentrieren Sie sich darauf, Kräfte für den späteren Spielverlauf zu sammeln.\n\nMit ein paar Leveln und Gegenständen werden Sie in Kämpfen stark sein und Türme schnell zerstören können.\n\nDie Bots, die Ihre Teamkameraden steuern, werden versuchen, sich Ihrem Spiel anzupassen."
-
 		"ag_info_GamePlanTitle"					"Spielplan"
 		"ag_info_GamePlanBody"					"1) Bereiten Sie sich vor, indem Sie Ihre Startgegenstände kaufen\n2) Überleben Sie auf Ihrem Pfad, um Gold und Erfahrung zu sammeln\n3) Landen Sie letzte Treffer auf Pfaddienern, um zusätzliches Gold zu erhalten\n4) Kaufen Sie Gegenstände für die Anfangsphase, die Ihren Helden stärker machen\n5) Zerstören Sie zusammen mit Teammitgliedern die gegnerischen Türme\n6) Zerstören Sie die gegnerischen Kasernen\n7) Zerstören Sie den gegnerischen Ancient, um die Partie zu gewinnen"
 				
@@ -31,47 +29,27 @@
 		
 // Luna
 		"ag_info_AbilityItemBuildLunaTitle"		"Fähigkeiten- und Gegenstandschemata: Schaden und Überleben"
-		"ag_info_AbilityItemBuildLunaBody"		"Für diese Partie haben Sie eine vorgeschriebene Reihenfolge für Ihre Fähigkeiten und Gegenstände.\n\nIm Laufe des Spiels werden Sie mit Ihren Gegenstände in der Lage sein, mächtige Angriffe auszuführen, die Sie außerdem heilen, während sie zwischen den Zielen herumspringen. Dies hilft ihnen zu überleben, während Sie Ihre Gegner stürmen und Ihre mächtige ultimative Fähigkeit einsetzen, die Gegner in der Nähe zerstören kann."
-
-// Sven
+		// Sven
 		"ag_info_AbilityItemBuildSvenTitle"		"Fähigkeiten- und Gegenstandschemata: Ausdauer und Schaden"
-		"ag_info_AbilityItemBuildSvenBody"		"Für diese Partie haben Sie eine vorgeschriebene Reihenfolge für Ihre Fähigkeiten und Gegenstände.\n\nIm Laufe des Spiels werden Ihnen die Gegenstände, die Sie kaufen werden, Ihre Rüstung und Ihren Angriffsschaden erhöhen, damit Sie Angriffen widerstehen können, während Sie den Abstand zu ihren Gegnern überwinden und diese zerschlitzen."
-
-// Lina
+		// Lina
 		"ag_info_AbilityItemBuildLinaTitle"		"Fähigkeiten- und Gegenstandschemata: Mana, um Fähigkeiten öfter anzuwenden"
-		"ag_info_AbilityItemBuildLinaBody"		"Für diese Partie haben Sie eine vorgeschriebene Reihenfolge für Ihre Fähigkeiten und Gegenstände.\n\nIm Laufe des Spiels werden Ihnen die Gegenstände, die Sie kaufen werden, eine Menge Mana und Manaregeneration geben, damit Sie Linas unglaublich mächtigen und kostspieligen Fähigkeiten öfter einsetzen können."
-
 		"ag_objective_BuyItemsTitle"			"Kampfvorbereitungen"
-		"ag_objective_BuyItemsBody"				"Kaufen Sie Ihre Startgegenstände. (Öffnen Sie den Shop und rechtsklicken Sie auf Symbole)"
-
 		"ag_info_LaningTitle"					"Anfangsphase: Überleben und Gold durch Pfaddiener sammeln"
 		"ag_info_LaningIntroTitle"				"Anfangsphase: Der Kampf beginnt"
-		"ag_info_LaningIntroBody"				"Eine Welle Creeps wird gleich spawnen. Folgen Sie ihnen in den Kampf und unterstützen Sie sie mit Ihren Angriffen.\n\nCreeps marschieren automatisch in Richtung der gegnerischen Basis und greifen unterwegs gegnerische Einheiten oder Gebäude an, denen Sie begegnen.\n\nWenn eine Welle Creeps stirbt, sollten Sie sich zurückziehen und mit der nächsten Welle Creeps neu formieren."
-
 		"ag_objective_GetLastHitsTitle"			"Anfangsphase: Gold verdienen"
 		"ag_info_CoreItemsTitle"				"Anfangsphase: Gegenstände kaufen"
 		"ag_objective_BuyEarlyItemsTitle"		"Anfangsphase: Gegenstände kaufen"
 		"ag_objective_BuyEarlyItemsBody"		"Verdienen Sie Gold und kaufen Sie Ihre Gegenstände für die Anfangsphase."
 
-		"ag_info_TakeObjectivesTitle"			"Mittelphase: Türme zerstören und zum Sieg pushen"
 		"ag_objective_TakeTowersTitle"			"Mittelphase: Türme und Helden zerstören"
-		"ag_info_HighgroundTitle"				"Endphase: In die gegnerische Basis eindringen"
-		"ag_objective_DestroyAncientTitle"		"Endphase: Ancient zerstören"
 		"ag_objective_DestroyAncientBody"		"Zerstören Sie den gegnerischen Ancient, um die Partie zu gewinnen."
 		
 		"ag_info_FoundARuneTitle"				"Runen: Diverse Boni alle zwei Minuten"
-		"ag_info_RoshanBody"					"Roshan ist ein extrem mächtiges neutrales Monster. Wenn ein Team sich versammelt und ihn tötet, hinterlässt er die Aegis of the Immortal.\n\nWenn der Held, der das Aegis hält, stirbt, wird er fünf Sekunden nach seinem Tod am selben Ort wiederbelebt. Wenn Roshan getötet wird, erscheint er nach acht bis elf Minuten wieder in seiner Grube."
-		
 		"ag_info_VictoryTitle"					"Sieg!"
-		"ag_info_VictoryBody"					"Glückwunsch! Sie sind jetzt bereit, eine richtige Partie zu spielen.\n\nWenn Sie mehr über andere Helden lernen möchten oder mit diesem weiter üben möchten, benutzen Sie im Menüpunkt \"Helden\" die \"Held-Demo\"-Funktion.\n\nDota macht mit Freunden am meisten Spaß, also gründen Sie eine Gruppe. Viel Spaß!"
-
-
 		// Alerts
 
 		"ag_alert_TooManyTowerHitsTitle"		"Viel Turmschaden"
 		"ag_alert_CanPurchaseItemsTitle"		"Geben Sie Ihr Gold aus"
-		"ag_alert_CanPurchaseItemsBody"			"Drücken Sie {g:dota_key:keyname}, um einen Schnellkauf-Gegenstand zu kaufen."
-"ag_alert_FirstPurchaseBody"			"Wir haben die Gegenstände, die Sie brauchen werden, im Schnellkauf-Feld am unteren Ende des Bildschirms platziert. Sie können Gegenstände kaufen, indem Sie dort auf sie rechtsklicken oder indem Sie {g:dota_key:keyname} drücken.\n\nGegenstände, die Sie aus dem Shop Ihrer Basis kaufen, während Sie sich auf dem Feld befinden, landen in Ihrem Lager. Sie können sich die Gegenstände aus Ihrem Lager vom Kurier Ihres Teams liefern lassen, indem Sie {g:dota_key:keyname2} drücken."
 //		%dota_purchase_quickbuy%
 //		%dota_courier_deliver%
 
@@ -91,106 +69,14 @@
 
 		"ag_alert_BehindOnGoldTitle"			"Zu wenig Gold"
 		"ag_alert_BehindOnExpTitle"				"Zu wenig Erfahrung"
-		"ag_alert_BehindOnExpBody"				"Der Gegner hat mehr Erfahrung als Sie. Bleiben Sie in der Nähe des Gefechts, um Erfahrung zu erhalten."
-
 		"ag_alert_UseSalveTitle"				"Sie sind verletzt"
 		"ag_alert_UseClarityTitle"				"Mana wiederherstellen"
 //
 "ag_alert_SalveUsageTitle"				"Healing Salve"
 		"ag_alert_ClarityUsageTitle"			"Clarity"
-		"ag_alert_DeathBody"					"Wenn Sie sterben, verlieren Sie einen Teil Ihres Goldes und der Held oder die Helden, die für Ihren Tod verantwortlich sind, erhalten Erfahrung und werden damit stärker.\n\nSie werden beim Brunnen Ihres Teams respawnen, wenn Ihre Todeszeit abgelaufen ist. Sie können Ihre Todeszeit oben am Bildschirm neben dem Porträt Ihres Helden sehen.\n\nMit jedem Level erhöht sich die Zeit, die ein Held tot bleibt."
-		
 		"ag_alert_FountainTitle"				"Der Brunnen: Eine Heilungsquelle"
-		"ag_alert_ScrollBody"					"Es ist sehr wichtig, sich schnell auf dem Schlachtfeld zu bewegen.\n\nTown Portal Scrolls können im Shop gekauft werden. Mit denen können Sie sich zu einem verbündeten Turm oder anderen Gebäude teleportieren.\n\nUm die Scroll zu benutzen, klicken Sie zunächst auf den Gegenstand und anschließend auf der Minikarte auf ein verbündetes Gebäude, zu dem Sie sich teleportieren möchten."
-		
 		"ag_alert_ScrollUsageTitle"			"Town Portal Scroll"
 		"ag_alert_SecretShopTitle"				"Geheimladen: Gegenstände, die es sonst nirgends gibt"
-		"ag_alert_SecretShopBody"				"Manche Gegenstände können nur in einem Geheimladen gekauft werden. Wenn Sie versuchen, einen dieser Gegenstände zu kaufen, während Sie sich nicht in der Reichweite eines Geheimladens befinden, erscheint eine Markierung, die Ihnen sagt, wo Sie hingehen müssen."
-
 		"ag_alert_SecretShopFoundTitle"			"Der Geheimladen: Eigentlich nicht geheim"
-		"ag_alert_SecretShopFoundBody"			"Willkommen im Geheimladen.\n\nAuf beiden Seiten des Flüsses gibt es einen Geheimladen und beide verkaufen die gleichen Gegenstände. Jedes Team kann jeden Geheimladen verwenden."
-
-		"ag_detail_BaseStatsTitle"				"Fähigkeit: Attribute - Erhöhen Sie Ihre Primärattribute"
-		"ag_detail_BaseStatsBody"				"Levelpunkte können auch eingesetzt werden, um dauerthaft alle drei Ihrer Attribute zu erhöhen. Jedes Attribut tut etwas anderes:\n- Stärke erhöht die Lebenspunkte sowie den Angriffsschaden bei Stärkehelden wie Sven.\n- Agilität erhöht Rüstung und Angriffstempo sowie den Angriffsschaden bei Agilitäthelden wie Luna.\n- Intelligenz erhöht maximales Mana und Manaregeneration sowie den Angriffsschaden bei Intelligenzhelden wie Lina."
-		
 		"ag_detail_InventoryTitle"				"Verwaltung Ihres Inventars"
-		"ag_detail_InventoryBody"				"Manchmal haben Sie nicht genug Platz im Inventar für neue Gegenstände. Die beste Möglichkeit, um Platz zu schaffen, ist der Kauf von Gegenständen, die kombiniert werden können, um stärkere Gegenstände zu erschaffen.\n\nWenn Ihre Gegenstände nicht kombiniert werden können, können Sie sie in einem Shop verkaufen, indem Sie auf den Gegenstand rechtsklicken und \"Verkaufen\" auswählen."
-
-		// Item details Luna
-
-		"ag_detail_ItemLunaTreadsTitle"				"Gegenstands-Info: Power Treads - Schnellere Bewegung und stärkere Angriffe"
-		"ag_detail_ItemLunaTreadsBody"				"Stiefel sind einer der wichtigsten Gegenstände des Spiels. Bewegungstempo ist äußerst wichtig, um vor Gegnern zu fliehen oder Gegner zu jagen.\n\nPower Treads ergänzen Lunas hohen Angriffsschaden mit hohem Angriffstempo und können aktiviert werden, um zu ändern, welches Primärattribut erhöht wird."
-
-		"ag_detail_ItemLunaLifestealBody"			"Ihre Lebenspunkte zu behalten ist sehr wichtig. Morbid Mask heilt Sie passiv um einen Teil des Schadens, den Sie mit jedem Angriff zufügen."
-
-		"ag_detail_ItemLunaHelmBody"				"Diese Aufwertung der Morbid Mask versorgt Sie mit zusätzlichem Schaden und Rüstung.\n\nWenn Sie den Helm aktivieren, können Sie außerdem einen gegnerischen Creep dominieren, wodurch Sie die volle Kontrolle über den Creep erlangen."
-
-		"ag_detail_ItemLunaMantaBody"				"Manta Style gewährt größere Boni als Yasha.\n\nWenn Sie Manta Style aktivieren, werden zwei Illusionen (d. h. Kopien) Ihres Helden erstellt. Diesen können Sie befehlen, Gegner anzugreifen. Illusionen sind Schwächer als der originale Held."
-
-		"ag_detail_ItemLunaBKBBody"					"Wenn Sie Black King Bar aktivieren, wird Ihr Held komplett immun gegen Effekte und Schaden von den meisten gegnerischen Fähigkeiten. Die Dauer der Immunität lässt jedoch mit jedem Einsatz der Fähigkeit nach."
-
-		"ag_detail_ItemLunaButterflyBody"			"Butterfly gewährt einen großen Bonus für Schaden, Angriffstempo und Agilität, während die Ausweichchance Sie schwerer zu treffen macht.\n\nDie aktive Fähigkeit, Flutter, tauscht die Ausweichchance gegen einen schnellen zusätzlichen Bewegungstemposchub ein."
-
-		"ag_detail_ItemLunaSatanicBody"				"Satanic gewährt eine Menge Stärke, was für Luna mehr Lebenspunkte bedeutet.\n\nWenn Sie Satanic aktivieren, erhöht sich sein Lebensraub zu einem höheren Wert als Ihr Schaden, wodurch Sie in einem Teamkampf Ihre Lebenspunkte wieder auffüllen können."
-"ag_detail_ItemSvenTreadsBody"				"Stiefel sind einer der wichtigsten Gegenstände des Spiels. Bewegungstempo ist äußerst wichtig, um vor Gegnern zu fliehen oder Gegner zu jagen.\n\nPower Treads ergänzen Svens hohen Angriffsschaden mit hohem Angriffstempo und können aktiviert werden, um zu ändern, welches Primärattribut erhöht wird."
-
-		"ag_detail_ItemSvenDrumsTitle"				"Gegenstands-Info: Drum of Endurance - Hilfreiche Boosts"
-		"ag_detail_ItemSvenDrumsBody"				"Drum of Endurance erhöht Svens Stärke, Agilität und Intelligenz sowie das Angriffs- und Bewegungstempo von Sven und in der Nähe befindliche verbündete Helden. Dadurch wird dieser Gegenstand in Teamkämpfen besonders nützlich.\n\nWenn Sie Drum of the Endurance aktivieren, erhöhen sich die Tempoboni vorübergehend."
-
-		"ag_detail_ItemSvenLifestealTitle"			"Gegenstands-Info: Morbid Mask - Heilung mit jedem Angriff"
-		"ag_detail_ItemSvenLifestealBody"			"Ihre Lebenspunkte zu behalten ist sehr wichtig. Morbid Mask heilt Sie passiv um einen Teil des Schadens, den Sie mit jedem Angriff zufügen. Dadurch wird es leichter, Ihre Lebenspunkte oben zu halten."
-
-		"ag_detail_ItemSvenCritTitle"				"Gegenstands-Info: Crystalys - Zusätzlicher Schaden & kritische Treffer"
-		"ag_detail_ItemSvenCritBody"				"Crystalys gewährt Ihnen einen großen Angriffsschadensbonus. Außerdem gibt es jedem Ihrer Angriffe die Chance, ein kritischer Treffer zu werden, der doppelten Schaden zufügt. Im Kampf kann ein kritischer Treffer in Kombination mit Svens Fähigkeit \"Cleave\" schnell das Blatt wenden.\n\nIm Allgemeinen wird Crystalys gekauft, um das noch stärkere Daedalus zu bauen."
-
-		"ag_detail_ItemSvenMaskTitle"				"Gegenstands-Info: Mask of Madness - Angriffsschaden zu einem Preis"
-		"ag_detail_ItemSvenMaskBody"				"Zusätzlich zu einer kleinen Erhöhung der Fähigkeit von Morbid Mask, durch die Sie jeder Angriff heilt, hat Mask of Madness eine mächtige aktive Fähigkeit: Berserk.\n\nWenn Sie Berserk aktivieren, erhöht sich Ihr Angriffs- und Bewegungstempo deutlich. Solange Berserk aktiv ist, erleiden Sie jedoch auch zusätzlichen Schaden."
-		
-		"ag_detail_ItemSvenPlatemailBody"			"Jeder Rüstungspunkt verringert den Schaden, den ein Held durch gegnerische Angriffe erleidet, um 6 %. Die Rüstung von Platemail wird passiv zu Svens eigener Rüstung hinzugefügt und kann ihn in Kombination mit seiner Rüstung-verleihenden Fähigkeit \"Warcry\" extrem widerstandsfähig machen."
-
-		"ag_detail_ItemSvenHyperstoneBody"			"Hyperstone gewährt einem Helden einen großen Angriffstempobonus.\n\nDas Angriffstempo eines Helden zu erhöhen, der bereits eine Menge Schaden austeilt, ist hervorragend, um Gegner zu zerstören. Hyperstone ist außerdem ein Bestandteil einiger anderer mächtiger Gegenstände."
-
-		"ag_detail_ItemSvenAssaultBody"				"Assault Cuirass gewährt einen starken Angriffstempobonus und eine Menge Rüstung,\n\nAußerdem erhöht er die Rüstung und das Angriffstempo von in der Nähe befindlichen Verbündeten und verringert die Rüstung von Gegnern in der Nähe, wodurch er ein ausgezeichneter Gegenstand für die Schlacht ist."
-
-		"ag_detail_ItemSvenGreaterCritBody"			"Daedalus verbessert Crystalys in jeder Hinsicht: Es gibt einen viel größeren Angriffsschadensbonus und gibt jedem Angriff die Chance, ein noch stärkerer kritischer Treffer zu werden als mit Crystalys.\n\nMit ein bisschen Glück und Svens Fähigkeit \"Great Cleave\" können Sie einen Teamkampf mit einem einzigen Angriff beenden."
-		
-
-		// Item details Lina
-
-		"ag_detail_ItemLinaPhaseTitle"				"Gegenstands-Info: Phase Boots - Erschwinglicher Angriffsschaden"
-		"ag_detail_ItemLinaPhaseBody"				"Das zusätzliche Bewegungstempo durch Stiefel ist äußerst wichtig, um vor Gegnern zu fliehen oder Gegner zu jagen.\n\nPhase Boots gewähren Linas einen beträchtlichen Angriffsschadensbonus, wodurch sie Last Hits leichter treffen kann. Außerdem können Sie mit der aktiven Fähigkeit von Phase Boots durch Creeps und Helden hindurch laufen."
-
-		"ag_detail_ItemLinaDrumsTitle"				"Gegenstands-Info: Drum of Endurance - Hilfreiche Boosts"
-		"ag_detail_ItemLinaDrumsBody"				"Drum of Endurance erhöht Linas Stärke, Agilität und Intelligenz, wodurch sie in der Schlacht widerstandsfähiger wird und zusätzlichen Angriffsschaden erhält. Außerdem erhöht Drum of endurance das Angriffs- und Bewegungstempo von Lina und in der Nähe befindlichen verbündeten Helden.\n\nWenn Sie Drum of the Endurance aktivieren, erhöhen sich die Tempoboni vorübergehend."	
-
-		"ag_detail_ItemLinaSoulBoosterBody"			"Durch Soul Booster erhalten Sie eine Menge zusätzliche Lebenspunkte und Lebensregeneration, was für einen gebrechlichen Helden wie Lina sehr hilfreich ist. Außerdem gewährt Soul Booster Mana und Manaregeneration, wodurch Lina ihre Fähigkeiten öfters zaubern kann."
-
-		"ag_detail_ItemLinaOctarineBody"			"Octarine Core verbessert Soul Booster in jeder Hinsicht und gewährt mehr Lebenspunkte, Mana und Regeneration. Zudem gewährt er eine Menge Intelligenz, wodurch Lina noch mehr Mana erhält und ihr Angriffsschaden erhöht wird.\n\nAußerdem heilt er passiv den Anwender um einen Teil des Schadens, der durch Fähigkeiten zugefügt wird, und verringert die Abklingzeiten."
-
-		"ag_detail_ItemLinaMKBBody"					"Monkey King Bar enthält einen massiven Schadensbonus sowie zwei zusätzliche Effekte: Bash gibt jedem Angriff eine Chance, zusätzlichen Schaden zu verursachen und den Gegner kurz zu betäuben, und True Strike stellt sicher, dass jeder Angriff gegen einen gegnerischen Helden oder Creep sein Ziel trifft."
-"ag_detail_BuildLunarBlessingBody"		"\"Lunar Blessing\" erhöht passiv den Angriffsschaden von Luna und allen verbündeten Helden in der Nähe.\n\nDiese Fähigkeit erleichtert es Luna die Last Hits auf Creeps zu treffen und stärkt ihre Verbündeten, um Gegner und ihre Strukturen zu zerstören. Außerdem kann Luna durch sie nachts weiter sehen."
-
-		"ag_detail_BuildLucentBeamBody"			"\"Lucent Beam\" hat eine große Reichweite, kurze Abklingkeit und betäubt sein Ziel für eine sehr kurze Zeit.\n\nAm Anfang ist der Schaden gering. Der Schaden wird jedoch mit steigendem Level schnell tödlich.\n\nUm Mana zu sparen, sollten Sie warten, bis Sie diese Fähigkeit auf Level 2 haben, und sie dann benutzen, um einen gegnerischen Helden anzugreifen und zum Rückzug zu zwingen."
-
-		"ag_detail_BuildEclipseBody"			"Lunas ultimative Fähigkeit \"Eclipse\" wendet automatisch mehrere Ihrer \"Lucent Beam\"-Angriffe auf Ziele in der Nähe an.\n\nDies kann zwar eine der stärksten Fähigkeiten des Spiels sein, aber die Strahlen treffen zufällige Ziele. Versuchen Sie die Fähigkeit zu benutzen, wenn keine gegnerischen Creeps in der Nähe sind, damit alle Strahlen gegnerische Helden treffen."
-
-		"ag_detail_BuildMoonGlaiveBody"			"Durch die Fähigkeit \"Moon Glaives\" springen Lunas Angriffe zwischen nahe stehenden Einheiten hin und her.\n\nIn Kämpfen und beim Zerstören gegnerischer Türme kann der zusätzliche Schaden durch diese Sprünge sehr hilfreich sein."
-"ag_detail_BuildStormHammerBody"		"\"Storm Hammer\" fügt Gruppen von Gegnern Schaden zu und betäubt diese. Die Fähigkeit eignet sich gut, um einen Angriff zu starten oder den Rückzug eines Gegners aufzuhalten. Versuchen Sie die Fähigkeit auf Gegner anzuwenden, die weit von ihren Türmen entfernt sind oder sich in der Nähe Ihrer Türme befinden.\n\nSven hat nicht viel Mana, daher sollten Sie diese Fähigkeit nur auf gegnerischen Helden anwenden."
-
-		"ag_detail_BuildWarCryBody"				"\"Warcry\" erhöht Bewegungstempo und Rüsung von Sven und allen verbündeten Einheiten in der Nähe und eignet sich ausgezeichnet dafür, mitten Im Gewühl eines Kampfes zu überleben.\n\nBei maximalem Level macht die durch \"Warcry\" erlangte Rüstung Sven und seine Verbündeten extrem resistent gegenüber gegnerischen Angriffen."
-
-		"ag_detail_BuildGreatCleaveBody"		"Durch \"Great Cleave\" treffen Svens Angriffe passiv alle Gegner vor ihm, wodurch er schnell ganze Wellen gegnerischer Creeps neutralisieren oder eng versammelte gegnerische Helden bestrafen kann.\n\nWenn Sie diese Fähigkeit zu früh lernen, könnte es passieren, dass Sie Ihre Creeps in die Reichweite eines gegnerischen Turms pushen, wodurch Sie in eine gefährliche Position geraten."
-
-		"ag_detail_BuildGodsStrengthTitle"		"Fähigkeit: God's Strength - Unglaublicher Angriffsschaden"
-		"ag_detail_BuildGodsStrengthBody"		"Svens ultimative Fähigkeit \"God's Strength\" erhöht seinen Angriffsschaden drastisch, wodurch er zu einem Furcht einflößenden Kämpfer wird.\n\nBenutzen Sie diese Fähigkeit bevor Sie einen Kampf beginnen oder wenn Sie ein gegnerisches Gebäude schnell zerstören müssen."
-
-		// Ability details Lina
-
-		"ag_detail_BuildDragonSlaveTitle"		"Fähigkeit: Dragon Slave - Flammenwellen ausstoßen"
-		"ag_detail_BuildDragonSlaveBody"		"\"Dragon Slave\" verbrennt alle Gegner in einer langen, breiten Linie vor Lina. Die Fähigkeit hat eine kurze Abklingzeit und fügt genug Schaden zu, um gegnerische Gruppen schnell zu töten.\n\nIn der Anfangsphase sollten Sie versuchen mit einem einzigen Zauber sowohl Creeps als auch gegnerische Helden zu treffen, wodurch Sie Last Hits treffen und gegnerische Helden verscheuchen können."
-
-		"ag_detail_BuildLightStrikeBody"		"Nach einer kurzen Verzögerung explodiert \"Light Strike Array\", wobei alle Gegner in der Nähe Schaden erleiden und betäubt werden.\n\nWenn Sie sowohl den Level dieser Fähigkeit als auch den von \"Dragon Slave\" erhöht haben, können Sie \"Light Strike Array\" gefolgt von \"Dragon Slave\" anwenden, um eine Welle Creeps schnell zu vernichten oder einem gegnerischen Helden signifikanten Schaden zuzufügen."
-
-		"ag_detail_BuildFireySoulBody"			"\"Fiery Soul\" erhöht Linas Bewegungs- und Angriffstempo jedes Mal, wenn sie einen Ihrer Zauber wirkt, für eine kurze Zeit.\n\nVersuchen Sie einen Kampf mit einer Kombination aus \"Light Strike Array\" und \"Dragon Slave\" zu eröffnen, um Ihr Angriffstempo am Anfang des Kampfs zu erhöhen."
-
-		}
+}

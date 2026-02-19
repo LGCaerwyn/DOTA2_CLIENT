@@ -9,8 +9,12 @@
 	"InstructionsObjective"							"遊戲目標"
 	"InstructionsObjectiveText"						"勇猛殺敵！率先達成目標擊殺數或在遊戲時間到時得分最高的那方將獲得勝利。"
 	"InstructionsHowToPlay"							"怎麼玩"
+	"Scoreboard_Goal"								"目標"
+
 	"ItemWillSpawn"									"即將開始運送！"
 	"ItemHasSpawned"								"會飛的寶箱正在遞送道具！"
+
+	"RecentScore"									"+{d:score}"
 
 	"Unassigned"      								"尚未選隊"
 	"Spectator"       								"旁觀者"
@@ -28,12 +32,16 @@
 	"DOTA_Custom7"    								"橄欖綠蛇"
 	"DOTA_Custom8"    								"紫馬"
 	
+	"OverthrowHeroPickup"							"{s:hero_id}"
 	"OverthrowTextPickup"							"已從寶箱拿到"
+	"OverthrowItemPickup"							"{s:item_id}！"
+
 	"Remaining"										"剩餘"
 
 	"Overtime"										"延長時間！"
 	"OvertimeInstructions"							"獲勝倒數"
 
+	"KillMessageHero"								"{s:hero_id}"
 	"KillMessageText"								"已擊殺領先者"
 	"KillMessageBounty"								"並額外獲得 500 賞金！"
 	

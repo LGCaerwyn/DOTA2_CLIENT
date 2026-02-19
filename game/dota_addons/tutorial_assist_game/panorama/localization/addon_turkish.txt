@@ -32,6 +32,9 @@
 // Luna
 		"ag_info_AbilityItemBuildLunaTitle"		"Yetenek & Eşya Yapısı: Hasar ve Hayatta Kalma"
 		"ag_info_AbilityItemBuildLunaBody"		"Bu maç için önceden tanımlı yetenek ve eşya düzenini kullanacaksın.\n\nİlerledikçe eşyaların, hedeflerin arasında sekerek seni aynı zamanda iyileştirecek olan daha fazla hasar veren saldırılar yapmana imkân sağlayacak. Bu, düşmanlara saldırırken hayatta kalmana yardımcı olacak ve düşmanlarını darmaduman etmeni sağlayacak kuvvetli son yeteneğini kullanabilmeni sağlayacak."
+
+// Sven
+		"ag_info_AbilityItemBuildSvenTitle"		"Yetenek & Eşya Yapısı: Dayanıklılık ve Hasar"
 "ag_objective_BuyItemsTitle"			"Mücadele İçin Hazırlanılıyor"
 		"ag_objective_BuyItemsBody"				"Başlangıç eşyalarını satın al. (Dükkanı aç ve ikonlara sağ tıkla)"
 
@@ -60,12 +63,20 @@
 		"ag_alert_TooManyCreepHitsTitle"		"Aşırı Yaratık Hasarı"
 		"ag_alert_TooManyCreepHitsBody"			"Yaratıklardan çok fazla hasar alıyorsun!\n\nYaratıklar, ilk karşılaştıkları düşmana saldırmalarına rağmen eğer karşı takımın kahramanlarından birine saldırırsan sana saldırmaya başlayacaklardır."
 
+		"ag_alert_CanPurchaseItemsTitle"		"Altınınızı harcayın"
 		"ag_alert_CanPurchaseItemsBody"			"{g:dota_key:keyname} tuşuna basarak eşyayı Hızlı Al."
 //		%dota_purchase_quickbuy%
 
 		"ag_alert_LowHealthTitle"				"Düşük Sağlık"
 		"ag_alert_LowHealthBody"				"Sağlığın az.\n\nİyileşmek için bir Tango veya Healing Salve kullan."
-"ag_alert_NeedDeliverItemsBody"	"Zulandaki eşyaların sana, takımının kuryesi tarafından teslim edilmesi için {g:dota_key:keyname} tuşuna bas."
+
+		//		%dota_purchase_quickbuy%
+//		%dota_courier_deliver%
+
+		"ag_alert_ForcePurchaseItemsTitle"		"Altınınızı harcayın!"
+		"ag_alert_ForcePurchaseItemsBody"		"Harcanmamış bir sürü altınınız var. Bir şeyler satın alın. Öldüğünüzde altın kaybettiğinizi unutmayın!"
+
+		"ag_alert_NeedDeliverItemsBody"	"Zulandaki eşyaların sana, takımının kuryesi tarafından teslim edilmesi için {g:dota_key:keyname} tuşuna bas."
 "ag_alert_BehindOnTowersTitle"			"Kuleleri Yok Et"
 		"ag_alert_BehindOnExpBody"				"Tecrübe kazanmak için çarpışmaya yakın dur."
 
@@ -87,8 +98,6 @@
 		"ag_ExcessiveTowerDamageBody"			"Ah! Kuleden çok fazla hasar alıyorsun!\n\nKule başka bir şeye saldırana kadar geri çekil."
 
 		"ag_alert_DeathTitle"					"Ölüm & Canlanma"
-		"ag_alert_DeathBody"					"Öldüğünde altınının küçük bir bölümünü kaybedersin ve ölümünden sorumlu kahraman veya kahramanlar tecrübe kazanarak daha güçlü olurlar.\n\nÖlüm sayacın bittiği zaman takımının Kaynağında yeniden canlanırsın. Ekranın üstündeki kahraman portrenin altında ölüm sayacını görebilirsin.\n\nAtlanan her seviye, kahramanın ölü kalacağı süreyi uzatır."
-		
 		"ag_alert_FountainTitle"				"Kaynak: Bir İyileşme Kaynağı"
 		"ag_alert_FountainBody"					"Öldükten sonra kahramanın, takımının kaynağında canlanır. Kaynağa geri dönmek canını ve mananı oldukça hızlı bir biçimde dolduracaktır."
 		
