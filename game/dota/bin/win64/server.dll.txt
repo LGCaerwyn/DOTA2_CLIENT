@@ -233,6 +233,7 @@
 1KeyValues@@QEAA@XZ
 1LEAGUE_AUDIT_ACTION_LEAGUE_REMOVE_PRIZE_POOL_ITEM
 1Lcf8D;fH
+1Np4Nx
 1O\,n
 1] -> empty
 1] -> gsn(empty
@@ -684,7 +685,7 @@
 26.CUserMsg_ParticleManager.ChangeControlPointAttachment
 26.CUserMsg_ParticleManager.SetParticleNamedValueContext
 26.google.protobuf.EnumDescriptorProto.EnumReservedRange
-260219004212Z0
+260219213443Z0
 27.CMsgClientToGCGetInFlightItemChargesResponse.EResponse
 27.CMsgSteamLearn_InferenceMetadata_Response.AppInfoEntry
 27.CMsgSteamLearn_InferenceMetadata_Response.CompactTable
@@ -48398,6 +48399,7 @@ Items: %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d
 Iterations: %d
 Iw,e=2-b
 J09H0r
+J2ض8K>b
 J8Lcs D;s0
 J94	t
 J<0"0i3
@@ -49253,7 +49255,6 @@ LwH'LwH'LwH'LwH'LwH'LwH'LwH'LwH
 M 5gem
 M Hc}(Lce
 M Lc} E3
-M%[8ks
 M08E0t
 M0L;mH
 M9 u3I
@@ -58096,6 +58097,7 @@ TargetReference
 TargetScale
 TargetTeams
 TargetTypes
+Td8\ec
 Team %d Player %d m_unAccountID = %lld
 Team %d isn't radiant or dire
 Team %d stat %u ( %s ) increment: %d -> %d
@@ -60336,7 +60338,6 @@ a:typeparam
 aECDSA
 aGOST01
 aGOST94
-aMzY}s
 aOpenSSL
 aRecord
 aaControls
@@ -63673,7 +63674,6 @@ chrono_cube
 chronotargets
 chunk >= 0
 chunks
-ciP9G
 cipher
 cipher code wrong length
 cipher has no object identifier
@@ -70821,6 +70821,7 @@ iStockCount
 iTeamAssignment
 iTeamNum
 iTeamNumber
+iU[*N
 iUnitTargetFlags
 iUnitTargetTeam
 iUnitTargetType
@@ -103254,7 +103255,6 @@ ursa_enrage
 ursa_fury_swipes
 ursa_maul
 ursa_overpower
-usI.3
 usLc9E3
 usable
 usable_gc

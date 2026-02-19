@@ -204,7 +204,6 @@
 0Lce(I
 0LcypE3
 0M9>t\f
-0M\vG@ej
 0Mc|\a
 0S2SVt
 0T48<@DXHP
@@ -403,6 +402,7 @@
 1KeyValues@@QEAA@XZ
 1Lc\rG
 1Lcf8D;fH
+1Np4Nx
 1YA1I
 1\n)series_current_selection_priority_team_id
 1\n,DOTA_UM_MonsterHunter_InvestigationGameState
@@ -41626,6 +41626,7 @@ DynamicLightThink
 DynamicVolumeDef_t
 DǉD$PH
 DȋD$T+D$dH
+Dɰ\ef
 DʈL$8I
 Dωt$8D
 D։t$ H
@@ -51203,6 +51204,7 @@ I{i3|G
 J#}QU^uO ~N
 J*hb\n
 J09H0r
+J2ض8K>b
 J8Lcs D;s0
 J94\tt\r
 J9A2O
@@ -53173,7 +53175,6 @@ M Hc}(Lce
 M Lc} E3
 M u\rfA
 M z,u*H
-M%[8ks
 M(E3ۋU0L
 M(H;M0
 M(HcE H
@@ -62528,6 +62529,7 @@ TargetReference
 TargetScale
 TargetTeams
 TargetTypes
+Td8\\ec
 Team %d Player %d m_unAccountID = %lld
 Team %d isn't radiant or dire
 Team %d stat %u ( %s ) increment: %d -> %d\n
@@ -64849,6 +64851,7 @@ Xt\vH
 Xx\bIc
 XÈD$0H
 X醑U[D
+Y"`\rtQjh
 Y&\f -aY
 Y0HcR\bM
 Y0LcyHA
@@ -65019,7 +65022,6 @@ aLcM\f@B
 aM+ى\aI
 aMax GPM
 aMax XPM
-aMzY}s
 aOpenSSL
 aPlat_GetTime
 aPlat_IsInDebugSession
@@ -68715,7 +68717,6 @@ chrono_cube
 chronotargets
 chunk >= 0
 chunks
-ciP9G
 cipher
 cipher code wrong length
 cipher has no object identifier
@@ -75953,6 +75954,7 @@ iStockCount
 iTeamAssignment
 iTeamNum
 iTeamNumber
+iU[*N
 iUnitTargetFlags
 iUnitTargetTeam
 iUnitTargetType
@@ -104386,7 +104388,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260219004212Z0
+r260219213443Z0
 r271008235959Z0a1\v0\t
 r2\t0!\n
 r311109235959Z0b1\v0\t
@@ -113027,7 +113029,6 @@ ursa_fury_swipes
 ursa_maul
 ursa_overpower
 usD#T$xI
-usI.3
 usLc9E3
 usLc|$pH
 usMc~\bI
