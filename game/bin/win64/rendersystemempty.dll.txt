@@ -43,7 +43,7 @@
 241012000000Z
 250507000000Z
 250604000000Z
-260128183946Z0
+260220184527Z0
 271008235959Z0a1
 2DigiCert SHA256 RSA4096 Timestamp Responder 2025 10
 2KeyValues@@SAPEAX_K@Z
@@ -58,7 +58,6 @@
 3;CScs
 3>N;kU
 3KeyValues@@SAXPEAX@Z
-3R:6sEg
 3d %3d %3d %3d %3d %3d %3d %3d
 4fffffffffffffff
 4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
@@ -2850,6 +2849,7 @@ t/D96}*H
 t3D82t
 t4D9#u
 t@McO4
+tAexxF
 tBMcO<McW@Lc
 tQfD9 tK
 tSf91tNH

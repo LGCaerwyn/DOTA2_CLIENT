@@ -680,6 +680,7 @@
 1closeAllSubWindows
 1deleteLater
 1dropDraggedColorSet
+1f4Jv
 1reject
 1setFilterWildcard(QString
 1tileSubWindows
@@ -7850,6 +7851,7 @@ Less R%d <- R%d < R%d
 Less Than
 LessEq R%d <- R%d <= R%d
 Lexer encountered %d error(s
+LgN\f
 Library for interacting with pulse cursors
 Lifetime Random (Init Float
 LightRigType_t
@@ -8898,7 +8900,6 @@ OriginalRawFileData
 OriginalRawFileName
 Other Tools
 Other functions write to the same attribute(s
-Otjv6vV
 Out Default
 Out of memory allocating %d byte temp buffer
 OutDefault
@@ -9652,6 +9653,7 @@ R?mimeData@QClipboard@@QEBAPEBVQMimeData@@W4Mode@1@@Z
 R?mimeData@QStandardItemModel@@UEBAPEAVQMimeData@@AEBV?$QList@VQModelIndex@@@@@Z
 R?mimeTypes@QStandardItemModel@@UEBA?AVQStringList@@XZ
 R?modifiers@QKeyEvent@@QEBA?AV?$QFlags@W4KeyboardModifier@Qt@@@@XZ
+RC7d}CR
 READ ONLY
 READ_ONLY
 RECURSED!!\n
@@ -9971,6 +9973,7 @@ RtlUnwind
 RtlUnwindEx
 RtlVirtualUnwind
 Rx9n0~>H
+Rі\f3ju
 S?name@QColor@@QEBA?AVQString@@XZ
 S?name@QScreen@@QEBA?AVQString@@XZ
 S?openUrl@QDesktopServices@@SA_NAEBVQUrl@@@Z
@@ -15767,7 +15770,6 @@ qBadAlloc@@YAXXZ
 qPHcAHH
 qQ?lineTo@QPainterPath@@QEAAXAEBVQPointF@@@Z
 q\n?dragLeaveEvent@QAbstractScrollArea@@MEAAXPEAVQDragLeaveEvent@@@Z
-q\tWZ7*~_Uh
 q\v?event@QWidgetAction@@MEAA_NPEAVQEvent@@@Z
 qangle
 qhHcA`H
@@ -15897,7 +15899,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260218194344Z0
+r260220184850Z0
 r271008235959Z0a1\v0\t
 r2\t0!\n
 r311109235959Z0b1\v0\t
@@ -17209,6 +17211,7 @@ tJD80tBH
 tKD8 tFH
 tKD88tBH
 tKD88tFH
+tKOtH`X
 tL$,H
 tL@80tBH
 tLD88tBH

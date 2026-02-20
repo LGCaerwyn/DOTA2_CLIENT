@@ -6879,7 +6879,6 @@ Text Viewer
 TextLayout_001
 TextureFormat
 TextureWrapModes
-TfvgI((P
 The following libraries have changed:<pre>%1</pre>You need to close and restart VConsole to update.<br>(You will only be prompted to restart once per session
 The preceding flow should have branched away from this
 The system ran out of memory while loading the game
@@ -7982,6 +7981,7 @@ bz@u>H
 bz\vtC
 b|7Hc
 b}b*XhUu
+bӅ\f"Uu
 c [1>H
 c4Je4M
 c:\\SomeNotPresentFilename.tga
@@ -8677,6 +8677,7 @@ fЋAlA
 gC\bru&o
 gE3\t]o
 gYvg>o
+gZxmi
 g\eM%$6
 g\r?enumerator@QMetaObject@@QEBA?AVQMetaEnum@@H@Z
 g\r?horizontalScrollbarAction@QTableView@@MEAAXH@Z
@@ -10326,7 +10327,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260218194301Z0
+r260220184610Z0
 r271008235959Z0a1\v0\t
 r2\t`!M
 r311109235959Z0b1\v0\t
@@ -12080,6 +12081,7 @@ viewportSizeHint@QListView@@MEBA?AVQSize@@XZ
 viewportSizeHint@QScrollArea@@MEBA?AVQSize@@XZ
 viewportSizeHint@QTableView@@MEBA?AVQSize@@XZ
 viewportSizeHint@QTreeView@@MEBA?AVQSize@@XZ
+vin!ty
 virtual displacement map
 visibleRegion@QWidget@@QEBA?AVQRegion@@XZ
 visible_scopes
@@ -12219,6 +12221,7 @@ z\bWEBP
 z\e?setRange@QSpinBox@@QEAAXHH@Z
 z\f?generatedIconPixmap@QProxyStyle@@UEBA?AVQPixmap@@W4Mode@QIcon@@AEBV2@PEBVQStyleOption@@@Z
 z\n?dragLeaveEvent@QTextEdit@@MEAAXPEAVQDragLeaveEvent@@@Z
+z\rF@=3
 z\t1~\r
 z\tV_tand
 z\tj8

@@ -20143,7 +20143,6 @@ Digital Signature
 DirName
 Directory
 Domain
-Dx\r
 E-mail Protection
 EC PARAMETERS
 EC PRIVATE KEY
@@ -21602,7 +21601,6 @@ X9_62_CURVE
 X9_62_FIELDID
 X9_62_PENTANOMIAL
 X9cm
-Xr4
 You must type in
 You need to read the OpenSSL FAQ, http://www.openssl.org/support/faq.html
 ZI\r\v

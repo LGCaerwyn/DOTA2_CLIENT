@@ -1131,7 +1131,6 @@ AOMedia Project AV1 Encoder v3.8.3
 APPP#2
 APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!\n
 APq=A
-AR8i}Qr
 ARGB8888
 ATAUAVAW
 ATAUAVAWD
@@ -1985,6 +1984,7 @@ D\n w
 D\n08C0w
 D\n49C4r\vB
 D\vL$@I
+D]GvÔ~B
 D_WEBVTT/CAPTIONS
 D_WEBVTT/DESCRIPTIONS
 D_WEBVTT/METADATA
@@ -5126,7 +5126,6 @@ W\tD$(I
 W\tD$8I
 W\vD$8H
 W^elsz
-WaW4м(u5
 Wait@CThreadSyncObject@@QEAA_NI@Z
 WaitForSingleObjectEx
 WakeAllConditionVariable
@@ -6053,7 +6052,6 @@ fz@\e
 fʉT$dD
 g IcG\fH
 g2<kJt@M
-g6U^\v`]i
 g=)RK
 g>\f0k>l
 g?@Og?v^g
@@ -6906,7 +6904,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260128183830Z0
+r260220184531Z0
 r271008235959Z0a1\v0\t
 r311109235959Z0b1\v0\t
 r360428235959Z0i1\v0\t

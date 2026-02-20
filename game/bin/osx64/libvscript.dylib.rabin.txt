@@ -173,7 +173,6 @@ B [A^A
 BSR_ANYCRLF
 BSR_UNICODE
 BTBVB`1Ap
-B\a\tPC\a
 BakedLODBuilderMgr001
 Balinese
 BenchmarkService001
@@ -580,6 +579,7 @@ IsBitSet
 IsNull
 IsNull called without an object - did you call obj.IsNull() instead of obj:IsNull
 JIT compiler disabled
+J\a\t L\a
 J]l)Jv
 Javanese
 JsVersion
@@ -612,7 +612,6 @@ L+l$0I
 L9(tTI
 L9T$@u
 L9_DvGH
-L;=Bi\r
 L;T$XuIA
 L;t$Hs+H
 LIMIT_MATCH
@@ -669,6 +668,7 @@ M;x\bsiA
 MARK) must have an argument
 MATCHFRAMEWORK_001
 MODEL_PROCESSING_SERVICES_INTERFACE_001
+M\a\r@N\aJpN\aI
 Malayalam
 Malformed VMDbg Runtime.getProperties for '%s'\n
 Mandaic
@@ -702,7 +702,6 @@ NO_START_OPT
 NSt3__110__function6__baseIFbiiEEE
 NSt3__110__function6__funcIZN10KeyValues323SortTableMembersToMatchENS_4spanI14CKV3MemberNameLm18446744073709551615EEEE3$_5NS_9allocatorIS6_EEFbiiEEE
 NULLI
-N\aIpO\aH
 NavGameTest001
 Network
 NetworkClientService_001
@@ -729,6 +728,8 @@ O@IcGlH
 OP]ÐUH
 OPslH
 O\aA\bM\aA
+O\aH@O\a
+O\a\tPP\a
 O\bA+G$H
 O\bA\bM\bA
 O\fA\bM\fA
@@ -756,8 +757,6 @@ PPP@0 0@00
 PPPPPPP
 PRELOAD
 PRNG state must be an array with up to 8 integers or an integer
-P\a\rPP\a\t
-Pa\a\n b\a
 PanoramaTextServices001
 PanoramaUIClient001
 PanoramaUIEngine001
@@ -869,6 +868,7 @@ SchemaSystem_001
 SchemaTestExternal_One_001
 SchemaTestExternal_Two_001
 Script Runtime Error: %s\n
+Script instance being removed with corrupted internal table state. Bailing to avoid memory corruption
 Script load error for script:\n %s\n
 Script load error for script\n %s: \n%s\n
 Script_Msg
@@ -928,6 +928,7 @@ T$\ft1H
 TD_OFFSET_NORMAL
 TD_OFFSET_PACKED
 TQSQQRQQ
+T\b\bLcu
 Tagalog
 Tagbanwa
 Tai_Le
@@ -1305,17 +1306,17 @@ ZnwmRKSt9nothrow_t
 ZnwmSt11align_val_t
 ZnwmSt11align_val_tRKSt9nothrow_t
 a numbered reference must not be zero
-a(Y1z
 a<Wu)H
 a<\at2
 a=ERCPuED
 aD)p I
 aD\a$\ad\a
+aG \\\a
 aI;^(u\aH
 aP\a0\ap\a\b\aH\a(\ah\a
 aT\a4\at\a
 aX\a8\ax\a
-a\n _\a
+a\t A\a
 a\v6;a\v6
 abcdefghijklmnopqrstuvwxyz
 abuffinit
@@ -1365,7 +1366,7 @@ b[A\\A^A_ÐUAWAVAUATSPH
 b[A^A
 b[A^ÐAWAVSH
 b[A^ÐSH
-b\a)0c\a\n@c\a1
+b\a1pc\a
 b\fu"E
 b\fu'A
 b\fu\b9k8w
@@ -1492,6 +1493,7 @@ d$ t&H
 d$(tW1
 d$@~ E1
 d$\bH9i
+d\a\n0d\a\b
 d\n ~mA
 data error
 debug command
@@ -1527,7 +1529,7 @@ e(E)u M)g(L
 e(E)} H
 e1A26b
 eZ\eZ\e
-e\a\e0f\a
+e\a\n0e\aFPe\a\n
 efffff
 effffff
 eh_frame
@@ -1571,6 +1573,7 @@ f <fuz
 f"Ic6H
 fA9D$H
 fOVERRIDE_MMAP
+f\a%pg\a
 f\bH9L
 failed to get memory
 fatpanic
@@ -1665,6 +1668,7 @@ goto %s> jumps into the scope of local '%s
 group name must start with a non-digit
 gxx_personality_v0
 h[A^A
+h\a\bpi\a\r
 handle
 handle_lightbinding
 hash_dense
@@ -1681,7 +1685,6 @@ hscript_lightbinding
 ht(<XuF
 http://vscript/lua/%s
 i8P/\f
-i\a\r0j\aE`j\a
 idekey
 ightuserdata
 in function '%s
@@ -1749,6 +1752,7 @@ is an invalid data character in JavaScript compatibility mode
 isarray
 isempty
 isvararg
+j\a\n k\a
 j_alloc_f_VALVE_OVERRIDEN
 js_array
 js_object
@@ -1959,6 +1963,7 @@ luaopen_package
 luaopen_string
 luaopen_string_buffer
 luaopen_table
+m\a\r r\a
 main function has more than %d %s
 malformed \\P or \\p sequence
 malformed number
@@ -2321,6 +2326,7 @@ syntax error
 syntax error in subpattern name (missing terminator
 t L) H
 t [A^A
+t!fffff
 t"H91t#H
 t"IcGdH
 t#fff
@@ -2501,7 +2507,7 @@ vI;\f$u
 vIcN\bH
 vTH;S0r
 vXA9v
-v\a\tpw\aC
+v\aD`v\a\t
 v\r[A
 value expected
 var/srcds/shared/dota
@@ -2540,7 +2546,8 @@ w:ffff
 wPs5H
 wPs;H
 wXA9w
-w\aB0x\a\t
+w\aC@w\aB
+w\a\tPx\a
 w\tfǃ4\v
 w\tfǃD\v
 w\tfǃL\v
@@ -2561,12 +2568,12 @@ x86_64
 xEA9Ƌt$\\uBH
 xVUAVS
 x[A^A
+x\aA0y\a
 x\nE9~h}\b1
 xdigit
 xhfffff
 xml version="1.0" encoding="UTF-8"?>\n
 xpcall\bloadfile
 y!HcW\bH
-y\a@ z\a
 yieldable
 z\rYu9fD9B\bu2H

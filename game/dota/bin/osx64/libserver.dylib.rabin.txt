@@ -85,6 +85,8 @@
 0124J36
 016llx
 0246AFKPUZ_dddddd
+02\a\bp6\a
+02\t\b@3\t\a04\t
 02d. %-30s  %s\n
 02i:  %i %s\n
 02i:  nullptr link\n
@@ -186,6 +188,7 @@
 0P0000
 0P0`P
 0PPPPP
+0P\b\a Q\b
 0T48<@DXHP
 0Xi\\`djlkpqrH
 0[A^A
@@ -322,7 +325,6 @@
 0x%08X
 0x8000'0000p0f <= flTicks && flTicks < +0x8000'0000p0f
 0y\t\a z\t
-0z\b\bp{\b
 1 255
 1 == client, 2 == server
 1 to enable graph data networking for all clients
@@ -7750,45 +7752,42 @@
 19sndopvarlatchdata_t
 1:1: Tokens : ( T__39 | T__40 | T__41 | T__42 | T__43 | T__44 | T__45 | T__46 | T__47 | T__48 | T__49 | T__50 | T__51 | TOK_COLON | OPEN_BRACE | CLOSE_BRACE | OPEN_PAREN | CLOSE_PAREN | OPEN_BRACKET | CLOSE_BRACKET | SEMICOLON | OP_EQUAL | COMMA | DOUBLE_AND | NEGATIVE_TOK | DOUBLE_OR | LITERAL_TRUE | LITERAL_FALSE | POS_INTLITERAL | POS_FLOATLITERAL | ID | DOUBLE_QUOTED_STRING | SINGLE_QUOTED_STRING | SINGLE_LINE_COMMENT | ML_COMMENT | WS | UNRECOGNIZED
 1HcV\bH
-1I\r"w
-1I\r1
-1I\r1(C
+1I\r)\aY
+1I\r*w
+1I\r10k
+1I\r2'W
 1I\r2C\r
-1I\r4\vE
 1I\r5Dp
-1I\r9Lt
-1I\rA[\t
-1I\rAw\e
+1I\r9
+1I\r9(C
+1I\r=\e
 1I\rBZh
-1I\rI%s
-1I\rIx
-1I\rMMq
+1I\rM
 1I\rM[o
-1I\rM\bp
-1I\rMzp
-1I\rO\vE
-1I\rQ\aY
-1I\rZWK
-1I\rZp
+1I\rY
 1I\r\ezc
 1I\r\n)Y
+1I\r\nWK
 1I\r\n\eR
-1I\r\n\tG
+1I\r\np
 1I\r\r#p
 1I\r\t\vk
-1I\r]h
 1I\r]|o
+1I\raKt
 1I\rbJS
-1I\rbjS
-1I\re\e
-1I\riAi
-1I\rje
-1I\rq
+1I\rb\bG
+1I\ri
+1I\rjjS
+1I\rq$s
 1I\rqJ\r
-1I\ru
-1I\rzw
+1I\rqw
+1I\ruLq
+1I\ru\ap
+1I\ruyp
+1I\ry
 1Ic<$9
 1Lc#I
+1YA1衛V
 1\bC*[A
 1\bC1[A
 1\n)series_current_selection_priority_team_id
@@ -11390,7 +11389,9 @@
 2L.CMsgClientToGCMonsterHunterRequestMaterialsNeededByFriendResponse.EResponse
 2Mc'A9
 2Mc\aIc
+2YA1芷u
 2\a.EEvent
+2\b\v`2\b
 2\e.CMsgBotWorldState.UnitType
 2\e.CMsgGCMsgSetOptions.Option
 2\e.DOTASelectionPriorityRules
@@ -15333,6 +15334,8 @@
 3T$4D1
 3T$8D
 3T$<D
+3YA1脯U
+3\b\a07\b\t
 3\n!CDOTAUserMsg_TE_DestroyProjectile
 3\n!CMsgGCStorePurchaseCancelResponse
 3\n"CDOTAUserMsg_GamerulesStateChanged
@@ -17602,10 +17605,11 @@
 4Lfff
 4P(8<@DH\b
 4T\nT\nT\nT\nT\nT\nT\nZ\n
-4YA1莬s
-4YA1袯y
+4YA1蔻U
+4YA1螒o
+4YA1讣Q
+4YA1踂3
 4\a\aP5\a
-4\a\b@8\a
 4\n CUserMessageLagCompensationError
 4\n/DOTA_UM_MuertaReleaseEvent_AssignedTargetKilled
 4\n/kKillEaterEventType_Doom_InfernalBladeBurnKills
@@ -18325,7 +18329,10 @@
 5Vec2DIfE
 5Vec3DIfE
 5Vec4DIfE
-5YA1賋N
+5YA1葉N
+5YA1褛N
+5YA1觙N
+5YA1轀N
 5\n0kKillEaterEventType_ArcWarden_TempestDoubleKills
 5\n0kKillEaterEventType_ChaosKnight_RealityRiftKills
 5\n0kKillEaterEventType_Earthshaker_AftershockHits10
@@ -18521,7 +18528,6 @@
 64CMsgDOTAClaimEventActionResponse_MonsterHunterMaterialRewardData
 64CMsgServerToGCCompendiumInGamePredictionResults_PredictionResult
 64CWorkshop_PopulateItemDescriptions_Request_SingleItemDescription
-64\t\nv5\t
 65535
 65535"j\n
 65535B
@@ -18570,11 +18576,10 @@
 6CWorld
 6Lc;E
 6Mc\aIcU
-6P\f\n&Q\f
 6QAngle
-6T\f\a&U\f
-6YA1蔙H
-6\b\t\af\t\t
+6YA1誚z
+6YA1试H
+6\b\a`7\b
 6\n.ultimate_scepter_consumed_alchemist_bonus_mana
 6\n1kKillEaterEventType_Earthshaker_FissureMultiStuns
 6\n1kKillEaterEventType_Gyrocopter_HomingMissileKills
@@ -18683,11 +18688,10 @@
 7INotify
 7IScorer
 7Lc:E
-7YA1蚼U
-7YA1袎k
-7YA1袮A
-7YA1褓o
-7YA1贤Q
+7YA1舮y
+7YA1蔬s
+7YA1藱A
+7YA1踩Y
 7\e u\r
 7\n!CMsgClientToGCGetBattleReportInfo
 7\n2kKillEaterEventType_Batrider_TripleHeroFlamebreaks
@@ -18899,7 +18903,6 @@
 8\n\textension
 8\n\vdescriptors
 8\nt͋S\\H
-8\v\t6?\v
 8basic_stringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
 8fB94#tOJ
 8fB;L+0t-K
@@ -18983,7 +18986,7 @@
 9X0tщX0A
 9X\b~+D
 9Y0u\vE1
-9YA1蝍V
+9YA1蒘F
 9\\\bDt*H
 9\\\bTt(H
 9\\\bTt\vH
@@ -19022,7 +19025,8 @@
 9\n\vdamage_type
 9\n\vdiagnostics
 9\n\vplayer_info
-9\rg|K
+9\r'\tO
+9\r7MM
 9_\bt6H
 9basic_ostringstreamIcNS_11char_traitsIcEENS_9allocatorIcEEEE
 9ffff
@@ -21122,7 +21126,7 @@ ASBZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\b
 ASBZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\b
 ASBZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bp
 ASBp\bp\bp
-ASEZARBRASARB
+ASEZBWA
 ASSEMBLE
 ASSEMBLE_WITH_HUMANS
 ASYNC_FIRE_AND_FORGET
@@ -21185,12 +21189,13 @@ AUTOMATED_BOT_ONLY_MATCH
 AVARA
 AVARARA
 AVARARARA
-AVARARAp\bp
 AVARARBRA
 AVARARBWA
 AVARARBp\bRA
+AVARARCWA
 AVARAWA
 AVARAWARA
+AVARAWARBWARAp\bp
 AVARAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bTARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARA
 AVARAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bTARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARA
 AVARAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bTARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARA
@@ -21216,7 +21221,7 @@ AVARAp\bSAp\bRAWA
 AVARB
 AVARBRA
 AVARBRARARA
-AVARBp\bRAp
+AVARBRBSARAWA
 AVASARAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bTARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARA
 AVASASARAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bTARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARB
 AVASAp\bp\bp
@@ -21312,6 +21317,7 @@ AWAVAUATSPLcw I
 AWAVAUATSPLcw(K
 AWAVAUATSPM
 AWAVAUATSPf
+AWAVAUATSP蝌d
 AWAVAUATSf
 AWAVS
 AWAVSD
@@ -21349,7 +21355,7 @@ AYAXATASA`'A`]C
 AYAYAYA` AYAYAYA` A` AYAYAYA` AYAYAYAYA` AYAYA` A` AYAYAYAYA` AYAYAYA` AYAYAYA` AYAYAYA` A` AYAYA` A` AYAYAYA` A` AYAYA` AYAYAYAYA` A` AYAYAYAYA` AYAYAYAYA` AYA` A` AYAYAYAYA
 AZARASARAp\bRA
 AZARASAp\bRARA
-AZARAUAp\bTBVAp\bRARBSARARA`@BRATAp\bRASAp\bRAVASBSBp\bSASA
+AZARAUAp\bTAp\bRAVAp\bRARBSARARA`@BRATAp\bRASAp\bRAVASBSBp\bSASA
 AZARAVARAWA
 AZARAWA
 AZARAXARAWA
@@ -21361,6 +21367,7 @@ AZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZA
 AZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bTARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATARATAUASB[BSC
 AZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\b[BRA[ARA
 AZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bp
+AZARBRASARB
 AZARB`@ARAZARARBWBRA\\0
 AZARBp\bSA
 AZASAp\bSA
@@ -21429,9 +21436,9 @@ A`$BRAp\bRAp\bp\bp
 A`%ARA`JAXATA
 A`+A`!AWA`AASA
 A`0A`@A
-A`@ARBSCp\bRARAUARAUARAUASAp\bUASASBWARASAp\bRASARB
-A`@A` A`@AXBXB`TA
-A`@Ap\bRA
+A`@ARA
+A`@ARBSCp\bRARAUARAUARASAp\bUASASBWARASAp\bRASARB
+A`@A` A`@AXBXB`UA
 A`AATA`DATAVA
 A`AAUASCp
 A`BAUAp
@@ -21443,7 +21450,7 @@ A`bAYARARA
 A`bAYARARARA
 A`bAYARARATARA
 A`bAYARARBRA
-A`bAYARAp\bRA`TA
+A`bAYARAp\bRA`UA
 A`bAYARB
 A`bAYARBp\bp\bp
 A`bAYASASASASASARA
@@ -22590,7 +22597,7 @@ BULLET
 BVAVAVBUA
 BVB<F
 BWARB`@AUARAp\bRARARARARARBRB`@ARA`AATBp\bp\bp
-BWAWAWARAp
+BWAWAWAp\bRAp
 BWAp\bRAp\bRAWAp\bUASASASBYAp\bUASBWARAVAp\bRARAp\bp\bp
 BWCSAZA`(A`(A`(A`(Ap
 BX<"t
@@ -34897,7 +34904,6 @@ D7xHǄ7
 D81u\vH
 D9 ~wI
 D9$\btu
-D9%v\n
 D9*tFH
 D9*tbH
 D9*tkH
@@ -34913,20 +34919,19 @@ D94%`\t
 D942t\rH
 D94\btt
 D94\v}\vH
-D95$p
-D95J\ti
-D95R%i
-D95TX
-D95r i
+D95*!i
+D95:\vi
+D95\n&i
+D95b"i
+D95r\fi
 D98t\vH
 D98u\nH
 D99u4ffffff
 D9;tBH
 D9;t\rH
 D9<2t\rH
-D9=5tS
-D9=ktS
-D9=o}l
+D9= sS
+D9=\asS
 D9B\bsy
 D9G\f|K
 D9L>@u
@@ -34957,15 +34962,16 @@ D9{4t
 D9|9\ftc
 D9|\b0u
 D9|\bTt\vH
-D;%1ZV
 D;(u4A
 D;0}5H
 D;4\b~b
-D;5L\ti
-D;5T%i
+D;5<\vi
+D;5R\nB
+D;5\f&i
+D;5d"i
 D;5hSV
-D;5i4b
-D;5t i
+D;5t\fi
+D;5x\vp
 D;8}3H
 D;9uC;Y
 D;F\b~1H
@@ -37089,8 +37095,6 @@ DPS: %.2f\n
 DROWNRECOVER
 D\b8]ÐUH
 D\b\b]ÐUH
-D\b\t H\b
-D\f\vFD\f
 D\n#CMsgGCToClientFightingGameChallenge
 D\n\arecipes
 D\n\baccounts
@@ -37735,6 +37739,7 @@ Dʨ t"Hc
 DΊC8<"t
 DЊC8<"t
 Dԋv\bH
+DՋ\rG
 E C;D> t"I
 E r4L
 E#D$XI
@@ -37758,6 +37763,7 @@ E+~XE
 E0HcˋD
 E0ffff
 E1ɋKDA
+E1ɋ\r-i
 E1ҐD9
 E3T$\bA
 E3]\bE3U\fD1
@@ -38238,10 +38244,8 @@ E\vM̉\bHkE
 E\vN\bA
 E\vP\bA
 E\vQ\bA
-E\v\r=L
-E\v\rD0\n
-E\v\rY@\t
-E\v\r^xF
+E\v\r,DH
+E\v\ru\rO
 E\vp\bHc
 E`IcD$xI
 E`IcEXH
@@ -38773,12 +38777,12 @@ EȊBX<"t
 EȊC8<"t\f
 EȋCHD9
 EȋC\bLc
+Eȋ\rck
 Eȍ\f0Ic\a9
 ÈzX"t
 ÈzX"u
 EΉL$PH
 EЀ8%u6A
-EЀ=GI
 EЉC\bH
 EЉp f
 EЉp$f
@@ -38792,8 +38796,6 @@ EЋE\tE؋EĉE
 EЋE\vT1
 EЋG\bLc
 EЋU\vD1\b
-EЋ\r-6G
-EЋ\r-BG
 EԀtiM9
 EԊCX<"t
 EԊCX<"u
@@ -39018,7 +39020,6 @@ FAVORITE_TYPE_ALL
 FAVORITE_TYPE_LEAGUE
 FAVORITE_TYPE_PLAYER
 FAVORITE_TYPE_TEAM
-FA\f\vvA\f
 FCVAR_ARCHIVE
 FCVAR_CHEAT
 FCVAR_DEMO
@@ -39175,6 +39176,7 @@ FP]ÐUH
 FPct Games With Roshan Advantage (Player team killed Roshan more times
 FTr+L
 FXIndex
+F\a\aPG\a
 F\b9C\b
 F\b;C\bt
 F\b;G\bs H9\nsl
@@ -39194,6 +39196,7 @@ F\bLc{\bA
 F\bMc&I
 F\bNc\f(I
 F\b[A
+F\b\npH\b
 F\b]ÐUH
 F\bfF9
 F\bfffff
@@ -39424,7 +39427,7 @@ FastRetrigger
 FastRetrigger: %s
 FdA;F4
 FeaturedGamemodeProgress
-Feb 18 2026
+Feb 20 2026
 FeetSettings
 Fetching info about latest revision
 Fffff
@@ -40078,7 +40081,6 @@ G\bLc0M
 G\bNc4(I
 G\bNct
 G\b[A
-G\b\n@J\b
 G\b]ËW\bH
 G\b]ÐUH
 G\bf;F\bt M
@@ -42241,6 +42243,7 @@ Have we received the post match signout message that includes reward information
 HaveAllPlayersJoined
 Hc0A;u\f
 Hc2;s\f
+Hc5n)i
 Hc6Lc2Lc
 Hc@ I9
 Hc@$I9
@@ -46457,9 +46460,11 @@ LaunchLootRequiredHeight
 LaunchSpear
 LayoutAndAllocateConstantStorage
 Lc E9eH
+Lc%(GA
+Lc%?HA
 Lc/A9
-Lc5D.P
-Lc5G5f
+Lc5_Iw
+Lc5o\a
 Lc:F;|3
 Lc@(Ii
 LcCPE9
@@ -47406,6 +47411,7 @@ M\bC;L%\b
 M\bH;K\b
 M\bI9](tAH
 M\bI;O\br
+M\b\aPN\b
 M\n"NETWORK_DISCONNECT_SERVER_SHUTDOWN
 M\n"NETWORK_DISCONNECT_STEAM_DENY_MISC
 M\n"NETWORK_DISCONNECT_STEAM_OWNERSHIP
@@ -47415,6 +47421,7 @@ M\n$NETWORK_DISCONNECT_STEAM_VACBANSTATE
 M\n&NETWORK_DISCONNECT_STEAM_AUTHCANCELLED
 M\n'NETWORK_DISCONNECT_REJECT_SINGLE_PLAYER
 M\n(NETWORK_DISCONNECT_SERVER_REQUIRES_STEAM
+M\n\avO\n
 M\n\bkeyvalue
 M\n\bresponse
 M\n\eENetworkDisconnectionReason
@@ -47997,7 +48004,6 @@ MЋt\b,L
 MЋt\b0L
 MЋt\b4L
 M؉L0$D
-M؋5xN8
 N HcV
 N is not supported in a class
 N(A;L
@@ -51173,7 +51179,6 @@ PP  p
 PP0PPP
 PP@0P
 PPA;FHu
-PPLc%u
 PPLcm
 PPP0pp
 PPPP@P@0000
@@ -51330,6 +51335,7 @@ P\n\bvariable
 P\n\nregression
 P\n\vPlayerScore
 P\n\vitem_equips
+P\t\tpQ\t
 P`000
 P`P00
 P`PPPPPPPPPPP`PPp
@@ -51425,6 +51431,7 @@ PayGoldCost
 PayGoldCostForUpgrade
 PayHealthCost
 PayManaCost
+Pb\b\a c\b\nPh\b\a0l\b\bpm\b
 Pct Games With Enemy Lane T1 Taken First
 Pct Games With Roshan Advantage (Player team killed Roshan more times
 Peak Iterations: %d\n
@@ -51969,6 +51976,7 @@ Q\\fff
 Q\a\tPT\a\b
 Q\bE9T$\bs\t
 Q\bH;P\b
+Q\f\a6R\f
 Q\n!CClientMsg_ListenForResponseFound
 Q\n"cavern_crawl_preferred_map_variant
 Q\n&NETWORK_DISCONNECT_REJECT_BADCHALLENGE
@@ -52112,7 +52120,7 @@ RARBRAp\bp
 RARBRBRBWA
 RARBRBSAp\bWA
 RARBRBWA
-RARBRBXBWA
+RARBRBWARBXBWA
 RARBRB`@ARA`@A
 RARBUASASB[ARAZAp\bRAp
 RARBWA
@@ -52263,6 +52271,7 @@ RBp p p8p\b
 RBp p@RDp p p(p
 RBp(p RGp(p
 RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBp@RBppp
+RBp\bRASAp
 RBp\bRAp
 RBp\bWAp\bVAp
 RCp p RDp\bp
@@ -53123,7 +53132,6 @@ SAFELANE
 SARARBR0xR0
 SARASARASARASARASARASARASARARAVASB
 SARASARASARASARAp\bp
-SARAWA
 SARAWARAWARA`@ARA`DA`@ASA
 SARA`@ARA
 SARAp\bSASBWA
@@ -53144,7 +53152,6 @@ SAUASASBVARAp\bp\bp
 SAVASj
 SAVE\\animgraph
 SAVE_HEADER
-SAWARBWASARA
 SAWASAR
 SAp p TAUBp
 SAp@p p
@@ -53160,6 +53167,7 @@ SAp\bp TAp\bp TAp\bp TAp\bp TA
 SAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TAp\bp TA
 SAp\bp TAp\bp\bp
 SAp\bp\bp
+SBRASARA
 SBRBRBRBRBRCp p
 SBRBRBRCp
 SBRDRFp p
@@ -53568,7 +53576,6 @@ S\n,NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE
 S\n\eentity_handle_for_modifiers
 S\n\fHeroBanEntry
 S\n\fPlayerGrants
-S\t\b`V\t
 Safe Lane
 Safe To Auto-Switch Away From
 Safe To Auto-Switch To
@@ -56340,7 +56347,7 @@ TBRASA
 TBRASAp
 TBRATARAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\b[BRA`@ARA[ARA`@ARBWARAZAp\bRAp\bZARAp
 TBRB`@AUAWA
-TBTARAp\bRBRAp\bRAp\bRAWA
+TBTARAp\bRBRARAp\bRAWA
 TBYARAYARAp\bZBYBRAYARAYARARBYBRAZBYBRARAYARAYARAYARAYAXBYARARARAYARAYASCp
 TBYBRA
 TBYBRARBYBRARBYBRAVBYARARAYARAYARATBYBRAYASC
@@ -57132,6 +57139,7 @@ U%08x
 U0VWX
 U<E3M E3E$E3](E3U,D1
 U@IcL\b
+UARAUARAUARAUARAVA
 UARA^A
 UAWAVATS1
 UAWAVATSI
@@ -57144,14 +57152,12 @@ UA`UAVB`PA`PA
 UAp\bRA
 UAp\bRASAp
 UAp\bRAUA
-UAp\bRAUARAUARAUARAVA
 UAp\bRAUAUARAp\bTAp\bp\bp
 UAp\bRAp\bRARBp\bp\bp
 UAp\bRBWARAWA
 UAp\bp p\bp
 UAp\bp\bp
 UBSAUBSARA[ARA[ARA[ARA
-UBSAp\bWARBp\bRBWA
 UBYARAYARATARAWARBVAp\b
 UBp\bRAp\bRHTB
 UF_FAIL_ANCIENT
@@ -57700,7 +57706,6 @@ UԉT\b@H
 V fff
 V ffff
 V( fD
-V4\n\a66\n
 V4fffff
 V<fffff
 V@HcL1
@@ -57715,6 +57720,7 @@ VAp\bTAp\bp
 VApplication001
 VAsyncFileSystem2_001
 VAvi001
+VBTARBRATBRASBSAp\bSAp\bSARARATAp\bRAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\b[BUASBTARATARASB[AUB[ARA[ARAZAp\bRASARAp\bp\bp
 VBYARAYARAYAXBYBRA
 VBYARAYBRAYARARBp\bZB[Ap
 VBik001
@@ -57772,7 +57778,6 @@ VProcessUtils002
 VProfService_001
 VProf_AssignNextTimespanId
 VProf_FindOrCreateCounter
-VQ\v\avR\v
 VR_HAND_HAPTIC_PULSE_LIGHT
 VR_HAND_HAPTIC_PULSE_MEDIUM
 VR_HAND_HAPTIC_PULSE_STRONG
@@ -57806,6 +57811,8 @@ V\bH;Y\b
 V\bHc
 V\bHcJ\bH
 V\bIc
+V\b\b@W\b
+V\b\t W\b
 V\n&NETWORK_DISCONNECT_KICKED_NOSTEAMLOGIN
 V\n&NETWORK_DISCONNECT_PURESERVER_MISMATCH
 V\n'NETWORK_DISCONNECT_CREATE_SERVER_FAILED
@@ -58157,7 +58164,6 @@ W\b9S\bsPA
 W\bA9T$\b
 W\bA;V\br
 W\bH;V\bu
-W\b\tp_\b
 W\b]ÐUH
 W\bffffff
 W\n,NETWORK_DISCONNECT_REJECT_CONNECT_FROM_LOBBY
@@ -58370,9 +58376,9 @@ XA:GXt~H
 XA;FH
 XA;^\\tBI
 XARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXARAXAUA
+XASBWA
 XA[ASB
 XA[Ap\bRA`\eCRDSAp
-XAp\bUBWA
 XAp\bp\bp
 XBYARAYBRAYBRAYARA
 XBYARAYBRAYBRAYBTBYATBYBRA
@@ -58404,6 +58410,7 @@ X\a\t0Y\a
 X\bH;J\b
 X\bKct&`H
 X\bLc M
+X\b\apZ\b
 X\bfD94sv
 X\bffffff
 X\n'CMsgGCToClientStoreTransactionCompleted
@@ -58418,7 +58425,6 @@ X`\\abcdHP0
 X`dhlp
 X`dhlptx
 Xbox VDP is not supported on this platform
-XfD9-T
 Xffff
 Xfffff
 Xffffff
@@ -58428,34 +58434,20 @@ Y0;Z0s
 Y0A;X0s7L
 Y?33s
 Y?@T\tJa\v
-YA1耰e
-YA1聞j
-YA1脕k
-YA1莀c
-YA1莤G
-YA1莿\a
-YA1萖j
-YA1萠j
-YA1萫j
-YA1蚺p
-YA1蜜j
-YA1蟼p
-YA1袍t
-YA1袓j
-YA1襟j
-YA1襨K
-YA1觇c
-YA1許j
-YA1詰j
-YA1誛e
-YA1諗j
-YA1譆u
-YA1误j
-YA1豥G
-YA1貇u
-YA1躭j
-YA1辮j
-YA1违j
+YA1脱j
+YA1腮j
+YA1膝j
+YA1芯j
+YA1芻p
+YA1薬j
+YA1藭j
+YA1蛞j
+YA1蜩j
+YA1螛e
+YA1觕k
+YA1諔k
+YA1諫j
+YA1豠j
 YDiF\f
 YYYY-MM-DD
 YYYY-MM-DD hh:mm
@@ -59387,7 +59379,6 @@ aD9s8t
 aE1ɀx
 aGeneral
 aH9=Y]\f
-aH9=cUM
 aH9F\bv
 aH;G\bt
 aH;G\bt\bH
@@ -59406,12 +59397,12 @@ aXffffff
 a[A^A
 a\a b\a
 a\a0.\a
+a\a00\a\t
 a\aP(\a
+a\aP+\a
 a\a\tp\b\a\a
-a\a\tpb\a
 a\ap"\a
-a\ap,\a
-a\ap2\a
+a\ap~\a
 a\bP,\a
 a\bP@\a
 a\bSASASA
@@ -59426,6 +59417,8 @@ a\n\eEDOTATriviaQuestionCategory
 a\n\nEBadgeType
 a\n\nInputError
 a\n\nPrediction
+a\np>\a
+a\t a\a
 a\t0%\a
 a\t0+\a
 a\tP#\a
@@ -61069,7 +61062,6 @@ bUseOnStrongestAlly
 bUseOnTrees
 bUseProjectile
 bUseSelfishly
-bVBTARBRATBRASBSAp\bSAp\bSARARATAp\bRAZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\b[BUASBTARATARASB[AUB[ARA[ARAZAp\bRASARAp\bp\bp
 bValue
 bVisible
 bVisibleToEnemies
@@ -61083,12 +61075,12 @@ bYashaAndKayaApplied
 bZARAp\bZARATASBZARATASBZAp\bRAp\bZAp\bRAp\bRA
 b[ARA[ARAWARA[ARBTAp\bp
 b[A^A
-b\aP,\b
+b\a0)\b
+b\aP?\b
 b\ap-\b\n00\b\t
-b\ap.\b
-b\ap?\b
 b\b9w8w
 b\bP1\b
+b\bPa\b
 b\bSASASASASASAp
 b\bSASASASASAWAUAUAUA]ASASA
 b\bSAUAp\bYA
@@ -61108,6 +61100,7 @@ b\n\fdescriptor_t
 b\n\rDOTAMatchVote
 b\n\rEHeroStatType
 b\n\tEventData
+b\t 0\b
 b\t\n\vSHA256 block transform for x86_64, CRYPTOGAMS by <appro@openssl.org
 b\tp+\b
 b]ÐUH
@@ -62176,7 +62169,6 @@ c must be followed by an ASCII character
 c(D;c,u4A
 cColor
 c\bKcL, H
-c\b\apd\b\n
 c\n%CMsgGCRequestSubGCSessionInfoResponse
 c\n(CWorkshop_GetPackageDailyRevenue_Request
 c\n\rCMsgTransform
@@ -66393,13 +66385,15 @@ fValue
 fWeight
 f[A^A
 f\\f9\fZ
-f\bFa\f\b
+f\av)\f
 f\bH9L
 f\bLc{\bE
 f\bRARBWA
 f\bSASA
+f\b\aP\r\b
 f\b\bfA
 f\b\ff
+f\bf}\f
 f\nE1䀹i
 f\n\bAncients
 f\n\bBARRACKS
@@ -66426,6 +66420,7 @@ f\n\bnet_Tick
 f\n\bsvc_Menu
 f\n\fTeleportInfo
 f\n\rCMsgAddSocket
+f\rQ}d
 f\rTT
 f\rjW
 f\tr\rI
@@ -66567,6 +66562,7 @@ fast_tick
 favorite_page_num
 favorite_team_packed
 favorite_team_quality
+fc\t\aVd\t
 fdfD94
 fear_aoe
 fear_away
@@ -67313,6 +67309,7 @@ fwrite
 fxD;f|u
 fxIndex
 fxMc<$A
+fx\t\t&y\t
 fx_halo_height
 fx_index
 fxindex
@@ -67336,7 +67333,6 @@ g\n\eCScenarioGame_RoshanSpawner
 g\tD8g%t
 g\tE8g%t
 g\tE8g%u
-g\t\a0h\t
 g_BitBuf_BitWriteMasks
 g_CustomGameCache.IsBusy
 g_VProfSignalSpike
@@ -68121,8 +68117,7 @@ h\n"unlocked_chat_wheel_message_ranges
 h\n"unlocked_ping_wheel_message_ranges
 h\n,NETWORK_DISCONNECT_REMOTE_TIMEOUT_CONNECTING
 h\n\vDIALOG_TYPE
-h\t\bpj\t
-h\t\tFi\t
+h\t\tph\t\bPj\t
 hairball
 half_bonus_aoe
 half_extent_xy
@@ -68771,6 +68766,8 @@ iVisionTeamNumber
 iW=:`TC
 iXPBounty
 i\\0\bQ
+i\a\apj\a
+i\f\bVj\f
 i\n CDOTAClientMsg_RerollNeutralItem
 i\n%CDOTAUserMsg_DodgeTrackingProjectiles
 ice_edge_linger_duration
@@ -70609,7 +70606,7 @@ kRenderTransAlpha
 k\bHcs,H
 k\n summary_description_embed_values
 k\n+CMsgServerToGCWarningInvalidBotAbilityUsage
-k\t\bpm\t
+k\t\bPm\t
 k_AddGem_Failed_FailedToAddGem
 k_AddGem_Failed_GemIsInvalid
 k_AddGem_Failed_ItemIsInvalid
@@ -72689,6 +72686,8 @@ l94\vt\v
 lHcW H
 lOctree
 lZrNlZrN
+l\a\b p\a
+l\a\bPm\a
 l\fLIct\fHD
 l\n\vPreviewItem
 la_symbol_ptr
@@ -73270,7 +73269,6 @@ lycan_summon_wolves_hightail
 lycan_summon_wolves_invisibility
 lycan_wolf_bite
 m$`< uMH
-m\a\b o\a
 m\a\b@n\a
 m\b\t n\b\a
 m\n,CMsgClientToGCMonsterHunterDevGrantMaterials
@@ -89623,6 +89621,7 @@ n\tTE_FizzId
 n\tTeamState
 n\tTypeCache
 n\tUpdateFan
+n\t\a6\v\t
 n\tabilities
 n\taccountid
 n\taction_id
@@ -91496,7 +91495,6 @@ oWȉL$ L
 oXD;o\\u
 o\\$0fA
 o\a\a0r\a
-o\a\b@s\a
 o\bHcËM
 o\n\bCMvpData
 o\n\bMvpDatum
@@ -92178,14 +92176,13 @@ pTagName
 pTarget
 pTargetName
 pTargettingSource
-pU\b\n W\b
 pValue
 pWhitelistKeyValues
 pWorldObject
 pXSBUBp
 pXp p(p
 pXp(pXp
-p\a\b`r\a
+p\a\tPv\a
 p\bMcwPM
 p\bRARARAWA
 p\bRARARAp\b` A`AA`AASB`@A`@ARAp\b
@@ -96272,7 +96269,6 @@ r\bffff
 r\bfffff
 r\bw.D;G\bs(H9\nr\bw
 r\fIM̋F(D
-r\f\bfs\f
 r\f\v\n\t\bSHA512 block transform for x86_64, CRYPTOGAMS by <appro@openssl.org
 r\n\nHuntReward
 r\n\tCODE_SIZE
@@ -100975,7 +100971,6 @@ t#fffff
 t#ffffff
 t$ E;t$$u
 t$ H;5
-t$ H;5I
 t$ IcT
 t$(ffffff
 t$0LcC0E
@@ -101134,6 +101129,7 @@ t@ffffff
 tA8_%t
 tAfD9u
 tAƄ$X
+tBD9=\a}l
 tBD;8uM
 tBy default, additional arguments are of the form [{ "key1" "value1" "key2" "value2" }]\n
 tBƄ;PB
@@ -101153,7 +101149,6 @@ tEJc<3L
 tEffff
 tEfffff
 tE~8E1
-tFD;%e2
 tFfff
 tFffffff
 tFound %s\n
@@ -101269,16 +101264,17 @@ t\\Ic\f$H
 t\\M94
 t\\fff
 t\\ffffff
-t\a0.\t
 t\aD9)u
 t\aD90t
-t\aPa\t
+t\a\n w\a
+t\aж\t\t0
 t\bHcN ;\b
 t\bHcN8;\b
 t\bHcNh;\b
 t\bHcW
 t\bIcM ;\b
 t\bIcO ;\b
+t\bP@\t
 t\bSAp\bSA
 t\bSBSARBWA
 t\b[A^A
@@ -101325,6 +101321,7 @@ t\n\bBuilding
 t\n\eCDOTAModifierBuffTableEntry
 t\n\tCacheData
 t\n\v\f\r
+t\nf}\t\tV~\t\aF
 t\r<Ot\t
 t\rA9T9\bu
 t\rB9
@@ -101350,7 +101347,6 @@ t\t[A
 t\t\npv\t
 t\t\tResponse %d: %s\n
 t\tif g_reloadState == nil then \t\t\tg_reloadState = {} \t\t\tfor k, v in pairs( package.loaded ) do \t\t\t\tg_reloadState[k] = v \t\t\tend \t\telse \t\t\tfor k, v in pairs( package.loaded ) do \t\t\t\tif g_reloadState[k] == nil then \t\t\t\t\tpackage.loaded[k] = nil \t\t\t\tend \t\t\tend \t\tend
-t\tv@\t
 t\vHǃ(F
 t\vO0
 t\v[A^A
@@ -101364,7 +101360,6 @@ t]fff
 t]ffff
 t^I96
 t^fffff
-t_D;5;E
 t_E1\rp
 t_I96
 t_IcE I
@@ -102321,7 +102316,6 @@ t~rLc
 tǁx\b
 tщK@Ic
 tщ\vA
-tы5"Em
 t։uԉE
 u %u %u
 u E;u$t
@@ -102399,7 +102393,6 @@ u\bAƅl\t
 u\bAƆe\t
 u\bI\t]xM!}pM
 u\bLcc\bE
-u\b\tPw\b
 u\eE9u u
 u\eI9
 u\e[A
@@ -103207,6 +103200,8 @@ v2\v.CMsg_CVars
 v8A+D
 v8D;s<t
 v8D;s<u
+v8H;5j
+v8H;5x
 v8IcV0H
 v8Ic\f$I
 v8array
@@ -103285,12 +103280,10 @@ vTargetZ
 vTrees
 vValue
 vVelocity
-vW\v\afX\v
 vXA9v
 vXIcVPH
 v\aHcЉE
 v\aP;\v
-v\a\aP\f\a
 v\bA;w\br
 v\bD9w\b
 v\bH+3t1I
@@ -103298,8 +103291,7 @@ v\bIc\f$I
 v\bSASA
 v\bSASASA
 v\bSASASASASASASAp\bSASASASASASASASASASA
-v\bUAp\bSA`\eASASASASAUAUARARASCZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAWA
-v\b\t0x\b
+v\bUAp\bSA`\eASASASASAUAUARARASASCZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAp\bZARAWA
 v\bp VH`?BTATATA
 v\n%CMsgClientToGCOverworldVisitEncounter
 v\n,associated_workshop_file_for_direct_payments
@@ -103833,10 +103825,10 @@ wXIcWPH
 w\aA;t\r
 w\a\a0x\a
 w\a\aPx\a
-w\a\n@z\a
 w\bH+7H
 w\bH97t
 w\bKcD
+w\bL;5"4
 w\b]ËO\bD
 w\bffff
 w\eIc\f$I9
@@ -104302,7 +104294,6 @@ x\bHc\bH
 x\bI;4$r\tw
 x\bLc H
 x\b[A
-x\b\bPy\b
 x\eD93
 x\nD9G
 x]t\rf
@@ -104336,8 +104327,8 @@ y\bA9\au
 y\bA9\aueA
 y\bL9g u
 y\eIcFLH
-y\n\a0{\n
 y\v[A
+y\v\af{\v
 y_offset
 yasha_bonus_agility
 yasha_bonus_attack_speed

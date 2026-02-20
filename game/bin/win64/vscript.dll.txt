@@ -1,5 +1,6 @@
 0 0 0 0
 0 0 0 255
+0#NzV
 000112234
 008@HPX
 00cfg
@@ -42,7 +43,7 @@
 250507000000Z
 250604000000Z
 258EAFA5-E914-47DA-95CA-C5AB0DC85B11
-260212213637Z0
+260220184537Z0
 271008235959Z0a1
 2DigiCert SHA256 RSA4096 Timestamp Responder 2025 10
 2KeyValues@@SAPEAX_K@Z
@@ -557,7 +558,6 @@ K H9K0u
 K0H+K(H
 K0LcC
 K2K2K2
-K49K<u
 K4H9B t
 KERNEL32.dll
 K]taM
@@ -580,7 +580,6 @@ L$ VWAVH
 L$ fff
 L$4+L$8
 L$4+L$H
-L$8E+L
 L$8t8E
 L$@A9MP
 L9t$0L
@@ -711,6 +710,7 @@ Old_Turkic
 Operation not permitted
 Osmanya
 Overlay
+P'AF=B
 PACKAGE
 PANIC: unprotected error in call to Lua API
 PA_A^A]A
@@ -862,6 +862,7 @@ SchemaSystem_001
 SchemaTestExternal_One_001
 SchemaTestExternal_Two_001
 Script Runtime Error: %s
+Script instance being removed with corrupted internal table state. Bailing to avoid memory corruption
 Script load error for script
 Script_Msg
 Script_Warning
@@ -1615,7 +1616,6 @@ isrunning
 isvararg
 isyieldable
 it|<nto<otb<ptU<st
-iu|2_5
 jj@0HK4
 js_array
 js_object
@@ -1771,6 +1771,7 @@ p%w+q4
 p(H+p H
 p0R^G
 pA_A^A]A
+package
 package.%s' must be a string
 package.loaders' must be a table
 package.preload' must be a table
@@ -2376,6 +2377,7 @@ x AUAVAWH
 x UAVAWH
 x%llx_%s
 x86_64
+x:u2L
 x<H9{0
 xA_A^A]A
 xWI96tRI

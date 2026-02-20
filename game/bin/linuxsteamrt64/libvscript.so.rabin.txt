@@ -202,6 +202,7 @@ D$D)D
 D$HE9
 D$X9D$H
 D$\bD9`0
+D$\bLce
 D$\bt"L
 D$\bw;D
 D$\ft~A
@@ -234,6 +235,7 @@ DemoUpconverterVersion001
 Deseret
 Devanagari
 DynASM 1.5.0
+E uԋ=v
 E(I+E
 E0H+E(D
 E0w1D
@@ -341,7 +343,6 @@ H9S(vY
 H9S(vtH
 H9\\$\brUL
 H9\atNUH
-H9\btRH
 H9s(vFH
 H;E(syH
 H;E0w?H
@@ -475,6 +476,7 @@ L$Ht\tH
 L$XLcSlH
 L$\b1
 L$`LcKlH
+L98tQH
 L98t`A
 L9?t8H
 L9|$HJ
@@ -687,6 +689,7 @@ SchemaSystem_001
 SchemaTestExternal_One_001
 SchemaTestExternal_Two_001
 Script Runtime Error: %s\n
+Script instance being removed with corrupted internal table state. Bailing to avoid memory corruption
 Script load error for script:\n %s\n
 Script load error for script\n %s: \n%s\n
 Script_Msg
@@ -2753,6 +2756,7 @@ n\f\a\bA\vr\n\f\a\bE\v
 n\f\a\bA\vw\n\f\a\bA\v
 n\f\a\bB\v
 n\f\a\bB\ve\n\f\a\bK\v
+n\f\a\bB\vp\f\a\b
 n\f\a\bB\v|\n\f\a\bE\vJ\f\a\b
 n\f\a\bC\v
 n\f\a\bC\v0
@@ -2768,6 +2772,7 @@ n\f\a\bE\vS\n\f\a\bB\v
 n\f\a\bE\vY\n\f\a\bA\v
 n\f\a\bE\v\\\n\f\a\bL\vM\n\f\a\bK\vL\n\f\a\bD\v
 n\f\a\bE\ve\n\f\a\bK\vE\f\a\b
+n\f\a\bE\vq\n\f\a\bA\v
 n\f\a\bF\v
 n\f\a\bF\v0
 n\f\a\bF\vQ\n\f\a\bG\vT\n\f\a\bD\v^\f\a\b
@@ -2779,7 +2784,6 @@ n\f\a\bF\vr\n\f\a\bF\v
 n\f\a\bG\v
 n\f\a\bG\v0
 n\f\a\bG\vL\n\f\a\bB\v
-n\f\a\bG\vY\n\f\a\bA\v
 n\f\a\bG\vc\n\f\a\bA\v
 n\f\a\bH\v
 n\f\a\bH\vL\n\f\a\bA\v

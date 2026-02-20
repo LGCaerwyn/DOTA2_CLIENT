@@ -2133,7 +2133,6 @@ Z?setPen@QPainter@@QEAAXAEBVQColor@@@Z
 Z?setPen@QPainter@@QEAAXAEBVQPen@@@Z
 Z?setPlainText@QTextDocument@@QEAAXAEBVQString@@@Z
 Z?setPointSize@QFont@@QEAAXH@Z
-ZB3{RXVQl
 ZX?setBackground@QTextFormat@@QEAAXAEBVQBrush@@@Z
 a)l0μqn
 a-zA-Z0-9][a-zA-Z0-9
@@ -2455,6 +2454,7 @@ eAay^g>s
 eDigiCert Assured ID Root CA0
 eG\r.4qO
 e\bA_A^A]A
+e\fi"mN
 e\n?dragEnterEvent@QAbstractItemView@@MEAAXPEAVQDragEnterEvent@@@Z
 e\tV_fprintf
 ea/=xt\b
@@ -2770,6 +2770,7 @@ l$HA_A^A]A
 l$X3ɐH
 l$hIcm\bH
 l$pt\vH
+l5Q6|vWq\n
 lU|\b5
 l\a\bA
 l\n?dragEnterEvent@QLineEdit@@MEAAXPEAVQDragEnterEvent@@@Z
@@ -2796,7 +2797,6 @@ lock.png
 lod_level
 looks like this:\n\t\t%.*s\n
 m?14q\n
-mHVtPD
 m\e?split@QString@@QEBA?AVQStringList@@AEBV1@V?$QFlags@W4SplitBehaviorFlags@Qt@@@@W4CaseSensitivity@Qt@@@Z
 m\n?dragEnterEvent@QPlainTextEdit@@MEAAXPEAVQDragEnterEvent@@@Z
 m_Items
@@ -3192,7 +3192,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260218194122Z0
+r260220184800Z0
 r271008235959Z0a1\v0\t
 r2SSu
 r311109235959Z0b1\v0\t

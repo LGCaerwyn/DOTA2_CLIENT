@@ -1,5 +1,6 @@
 0 0 0 0
 0 0 0 255
+0#NzV
 000112234
 00cfg
 01/01/01
@@ -425,7 +426,7 @@ D$HHcK H
 D$HL9gXt
 D$HtOH
 D$P9C\bu1D9C
-D$PL;\r
+D$PL;\r s
 D$Pfff
 D$Pz\eH
 D$T3\tD$P
@@ -467,6 +468,7 @@ D8|$pu
 D8|$xu
 D8}/t\vH
 D8}?t\tH
+D9%&P\a
 D9C\ft-;G8r\eD
 D9T$xt8
 D9\vucL
@@ -704,7 +706,6 @@ H9K(v\nH
 H9Z\bt\nH;B\bv
 H9\\$0H
 H9\ar?H
-H9\au\r3
 H9\btVH
 H9^\bt\fH;F\bv
 H9^\bt\vH;F\bv
@@ -790,9 +791,9 @@ H;Y(sxH
 H;Y(syH
 H;Y(szH
 H;\nt\bH
-H;\rC\f
-H;\rI\r\b
-H;\rYf
+H;\rc\a
+H;\ri\b\b
+H;\rya
 H;^\bsL
 H;s(s#H
 H;xXu5
@@ -932,17 +933,14 @@ Javanese
 JsVersion
 K H9K0u
 K H;K(s\f
-K H;\rz
 K(3\tD$4H
 K(3\tD$4I
 K(H;K0r
 K(H;K0r\bH
 K(H;K0r\vH
-K(H;\rp
 K0+KX
 K0H+K
 K0H+K(H
-K0H;\rf
 K0HcQ\fD
 K0LcC
 K2K2K2
@@ -950,9 +948,9 @@ K49K<u
 K4H9B t
 K8H;\r
 K@D;KD
-K@H;\rR
+K@H;\rr
 KERNEL32.dll
-KHH;\rH
+KHH;\rh
 K\bH;\r
 K\bLc@\b
 K\fu\tH
@@ -965,10 +963,10 @@ Kayah_Li
 KeyValueCache001
 KeyValues3: pre-allocated array memory is too small for %u elements (%u bytes available, %u bytes needed)\n
 KeyValues3: pre-allocated table memory is too small for %u members (%u bytes available, %u bytes needed)\n
-KhH;\rV
+KhH;\rv
 Kharoshthi
-KpH;\rL
-KxH;\rB
+KpH;\rl
+KxH;\rb
 L$ SAVH
 L$ SUAWH
 L$ SUVWATAUAVAWH
@@ -1014,7 +1012,6 @@ L$\bUWATAVAWH
 L$\bVWAVH
 L$\bWAVAWH
 L+{ I
-L9%e7
 L9B\bt\vH;B\bv
 L9C\bt\fH;C\bv
 L9G u
@@ -1041,7 +1038,7 @@ L9{\bt\vH;C\bv
 L;I(s\nI
 L;I(s}I
 L;Y(s,I
-L;\r4l
+L;\rTg
 L<\ru\fD
 L?UUUUUUU
 L?n(Zy
@@ -1108,6 +1105,7 @@ M9Z\bu?I
 MARK) must have an argument
 MATCHFRAMEWORK_001
 MD;BDs@D
+ML;\r.g
 MM/dd/yy
 MODEL_PROCESSING_SERVICES_INTERFACE_001
 MP;H(s\bD
@@ -1184,6 +1182,7 @@ Old_Turkic
 Operation not permitted
 Osmanya
 Overlay
+P'AF=B
 P;_0s\rH
 P>q_Y
 PACKAGE
@@ -1344,6 +1343,7 @@ SchemaSystem_001
 SchemaTestExternal_One_001
 SchemaTestExternal_Two_001
 Script Runtime Error: %s\n
+Script instance being removed with corrupted internal table state. Bailing to avoid memory corruption
 Script load error for script:\n %s\n
 Script load error for script\n %s: \n%s\n
 Script_Msg
@@ -2039,6 +2039,7 @@ for' step must be a number
 format
 fp\v`\n0
 fp\v`\nP
+fp\v`ps
 fprintf
 fprintf_l
 fprintf_p
@@ -2116,7 +2117,6 @@ http://vscript/lua/%s
 hypot
 i8P/\f
 i?0@I
-iJ\a{\r
 i\bI;I
 idata$2
 idata$3
@@ -2182,7 +2182,6 @@ isarray
 isempty
 isvararg
 it|<nto<otb<ptU<st
-iu|2_5
 jj@0HK4
 js_array
 js_object
@@ -2366,7 +2365,6 @@ p(H)S
 p(H+p H
 p0R^G
 pA_A^A]A
-p\r`\f08
 p\r`\f0\vP
 p\r`\f0\vP!1
 p\r`\fP\v0
@@ -2433,7 +2431,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260212213637Z0
+r260220184537Z0
 r271008235959Z0a1\v0\t
 r311109235959Z0b1\v0\t
 r360428235959Z0i1\v0\t
@@ -2810,9 +2808,9 @@ t\nH;C\bv
 t\nf9)t\bH
 t\r98t H
 t\rH;C\bv\a
-t\rL#\rKq
-t\rL#\r\vg
-t\rL#\r\vq
+t\rL#\r+b
+t\rL#\r+l
+t\rL#\rkl
 t\rfD9"u\aB\bL
 t\rтN>P
 t\tD9A
@@ -2968,7 +2966,7 @@ userdata length overflow
 userdata_metatable
 ut\b@2
 utlstringtoken
-uxHc\rDl
+uxHc\rdg
 uz-UZ-Cyrl
 uz-UZ-Latn
 uz-uz-cyrl

@@ -370,6 +370,7 @@ Kharoshthi
 L$89L$0
 L$Ht	H
 L$`LcKlH
+L98tQH
 L98t`A
 L9?t8H
 LIMIT_MATCH
@@ -552,6 +553,7 @@ SchemaSystem_001
 SchemaTestExternal_One_001
 SchemaTestExternal_Two_001
 Script Runtime Error: %s
+Script instance being removed with corrupted internal table state. Bailing to avoid memory corruption
 Script load error for script
 Script_Msg
 Script_Warning

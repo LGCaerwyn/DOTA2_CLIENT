@@ -492,7 +492,6 @@ L+l$0I
 L9(tTI
 L9T$@u
 L9_DvGH
-L;=Bi
 L;T$XuIA
 L;t$Hs+H
 LIMIT_MATCH
@@ -734,6 +733,7 @@ SchemaSystem_001
 SchemaTestExternal_One_001
 SchemaTestExternal_Two_001
 Script Runtime Error: %s
+Script instance being removed with corrupted internal table state. Bailing to avoid memory corruption
 Script load error for script
 Script_Msg
 Script_Warning
@@ -1047,7 +1047,6 @@ Warning
 WebSocket
 WebSocket URL
 WorldRendererMgr001
-W　W。X。Y
 X[A\A]A^A
 Xbox VDP is not supported on this platform
 Y>t$7?H
@@ -2112,6 +2111,7 @@ t	L9+u
 t	L93u
 t L) H
 t [A^A
+t!fffff
 t"H91t#H
 t"IcGdH
 t#fff
