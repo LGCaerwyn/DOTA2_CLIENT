@@ -14,7 +14,6 @@
 0 to disable graph data networking for perf comparisons
 0 to max
 0" does not declare $1 as an extension number
-0"r$4
 0#0)070;0U0Y0[0g0q0y0}0
 0$1 = $2
 0$1$2 $3 = $4
@@ -49,7 +48,6 @@
 04d_%02d_%02d_%02d_%02d_%02d
 04i_%02i_%02i_%02i%02i%02i
 08@HPX`hpx
-08@HPX`j
 08@HPXb
 08@HR
 09^8u7H
@@ -681,7 +679,7 @@
 26.CUserMsg_ParticleManager.ChangeControlPointAttachment
 26.CUserMsg_ParticleManager.SetParticleNamedValueContext
 26.google.protobuf.EnumDescriptorProto.EnumReservedRange
-260220184921Z0
+260220233846Z0
 27.CMsgClientToGCGetInFlightItemChargesResponse.EResponse
 27.CMsgSteamLearn_InferenceMetadata_Response.AppInfoEntry
 27.CMsgSteamLearn_InferenceMetadata_Response.CompactTable
@@ -1200,10 +1198,8 @@
 9{,uBH9
 9{0u	9s4
 9|$0u.H
-9|$0|LH
 9|$H~43
 9|$p|QH
-9搐8合7
 A	V_log10f
 A Dota Bot Team Commander
 A Dota Custom Game Announcer
@@ -24032,6 +24028,7 @@ C Hck8;kH
 C rSH
 C!FReQ
 C$HcK(Hc
+C$fD!-pz
 C%C'C3C7C9COCWCiC
 C(HcK
 C(Lcp E
@@ -37141,7 +37138,6 @@ D$P9D$PuMD
 D$P9D$PuTD
 D$P@8p
 D$PD;w
-D$PE3
 D$PH;H s
 D$PHcF
 D$PNc
@@ -37204,7 +37200,7 @@ D8 t	D8
 D8 t%H
 D8 t_H
 D8#u7
-D8- ce
+D8- ee
 D8.t H
 D8.uBH
 D8/t H
@@ -37214,6 +37210,7 @@ D80tIA
 D80tTI
 D81t&H
 D81uUL9r
+D85u{1
 D89t-H
 D8D$8t6
 D8L$0u`A
@@ -37229,6 +37226,7 @@ D8d(Eu
 D8d; t
 D8g,t
 D8i*t9I
+D8m(t
 D8t$(t6H
 D8t$Hu
 D8t$ht
@@ -37251,14 +37249,14 @@ D91~/H
 D91~;H
 D93~/A
 D93~/H
-D95  x
-D950zu
-D95RBE
+D952BE
+D95RAE
+D95p,x
+D95t=x
 D98t/H
 D98~2H
 D9;u@H
 D9<0u
-D9=h;x
 D9C0tQA
 D9D$<u
 D9H u
@@ -37290,12 +37288,12 @@ D9t$P|LH
 D9t$P|OH
 D9t$`u
 D9t$pu
-D9t$xu
 D9t$x~5A
 D9v0u
 D9w0t2
 D9{X|AH
 D9|$8}O
+D9|$hu
 D9|$p~a
 D9|(<tDHk
 D9}XtW3
@@ -41847,7 +41845,6 @@ FRIENDSGRIP
 FV|FgUV
 FXHcVhH
 FXIndex
-F\xъ>I6
 Face %s
 Face Actor
 Face Entity
@@ -42500,6 +42497,7 @@ G49C4t
 G89C8t
 G8D8(tRI
 G8H9C8t
+G8v1H
 G<8C<t
 G@9o8t
 G@D;GD
@@ -44596,19 +44594,19 @@ G|$8H
 H 8YKt
 H ATAWH
 H D8yK
-H H9-3
+H H9--x
 H H9-4
-H H9-41
 H H9-6
-H H9-Fbn
-H H9-Mx
+H H9-`r
+H H9-`y
 H H9-c
 H H9-y
+H H95G
 H H95M
 H H95Q
-H H95g
 H H95q
 H H9=V
+H H9=o
 H L9-6
 H L9-9
 H L95
@@ -44632,16 +44630,15 @@ H0uKL
 H1GHM
 H5gRR
 H8Lcs D;s0
-H9+t	H
 H9+uYH
 H9+ueH
 H90tSI
 H90t\A
 H92tBA
 H93t	H
-H95>o
-H95_~B
-H95tr
+H95?~B
+H95Tr
+H95xr
 H97t"A
 H97t#A
 H97u+A
@@ -44685,7 +44682,6 @@ H9t$@t
 H9t$Ht
 H9t$Pt
 H9t$Xt
-H9t$`t
 H9t$pt
 H9upt
 H9uwt
@@ -44815,7 +44811,6 @@ HHc:A
 HHcA H
 HHcA I
 HHcB$;B(u
-HHcD$@H
 HHcL$XA
 HIERARCHY
 HIERARCHY_ABSORIGIN
@@ -44860,6 +44855,7 @@ HOOKSHOT
 HP Regen: %f - MP Regen: %f
 HP to set when damaged below zero in Buddha Mode
 HPGain
+HPHcPHH
 HPRegenGain
 HParticleSystemDefinition
 HParticleSystemDefinitionStrong
@@ -44957,7 +44953,7 @@ HaveAllPlayersJoined
 HaveWriteLock_BlockReadsNow@CThreadRWLock_FastRead@@QEAAX_N@Z
 Hc+Ic0
 Hc+Lc7H
-Hc-O3
+Hc-/3
 Hc9E3
 Hc>Hc
 HcA E3
@@ -44978,7 +44974,6 @@ HcD$0L
 HcD$4D
 HcD$8D
 HcD$8L
-HcD$@D
 HcD$@E
 HcD$@H
 HcD$@L
@@ -45049,7 +45044,6 @@ Hco ;o0
 HcqXH
 Hct$ Lc7H
 Hct$4D
-Hct$8H
 Hct$HD
 Hct$pA
 Hct$pH
@@ -48637,6 +48631,7 @@ L9 uAH
 L9#t	H
 L9't	H
 L9'uEH
+L9-}D
 L90t^D
 L90tzA
 L90u{H
@@ -48684,6 +48679,7 @@ L9t$ t
 L9t$(t
 L9u u
 L9u't
+L9u/t
 L9u0t
 L9x(u
 L9{@H
@@ -48696,7 +48692,8 @@ L9}0t
 L9}gt
 L9}ot
 L9~0ufH9n(u`H
-L;5ds
+L;5Ds
+L;5so
 L;d$PA
 L;l$8
 L;l$PA
@@ -49263,8 +49260,6 @@ M08E0t
 M0L;mH
 M9 u3I
 M9 uRI
-M9$6t
-M9(utI
 M9.u#D
 M90u@I
 M90uMI
@@ -54895,6 +54890,7 @@ SVATAUH
 SVATAVAWH
 SVATAVH
 SVATAWH
+SVATH
 SVAUH
 SVAVAWH
 SVAVH
@@ -57758,7 +57754,6 @@ T$0H;T$8t
 T$0Hi
 T$0fff
 T$0|OH
-T$8D9d$0
 T$8H;T$H
 T$8SUATAUAVAWH
 T$8SUATAUAVAWL
@@ -60103,6 +60098,7 @@ Wrong arg type for 'stat' function. Expected string literal but got %d
 WsDirection
 WsPosition
 X	V_roundd
+X @8u/t
 X UATAUAVAWH
 X UATAWH
 X USVATAWH
@@ -60262,7 +60258,6 @@ X9_62_CHARACTERISTIC_TWO
 X9_62_CURVE
 X9_62_FIELDID
 X9_62_PENTANOMIAL
-X9sP|AH
 X9|$h|LH
 X;D$hu
 XA^A]A
@@ -60294,7 +60289,6 @@ Y	V_roundf
 Y0LcyHA
 Y;C;8V
 YA1u"I
-YA1荒Q
 YCUtlString@@QEAAAEAV0@AEBV0@@Z
 YCUtlString@@QEAAAEAV0@D@Z
 YCUtlString@@QEAAAEAV0@PEBD@Z
@@ -63150,7 +63144,6 @@ c [%2.2f] Adding buff '%s' index: %d to '%s' (stack %d
 c [%2.2f] Refreshing buff '%s' to '%s'. - Stack Count: %d
 c [%2.2f] Removing buff '%s' index: %d to '%s
 c [1>H
-c fD9
 c/c_ variants
 c2i_ASN1_BIT_STRING
 c2i_ASN1_INTEGER
@@ -68377,7 +68370,6 @@ f, %f, %f
 f33Uf33U
 f5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5Jx
 f9)u:H
-f9-=57
 f9D$&t
 f9D$*t
 f9D$bt
@@ -68407,8 +68399,6 @@ fB9<Hu
 fB9<{u
 fB;,pJ
 fC94wu
-fD	5147
-fD	=0f2
 fD!c*H
 fD!d$*H
 fD!d$*L
@@ -68418,7 +68408,6 @@ fD!o"I
 fD!w"3
 fD!w"H
 fD9$Hu
-fD9%<g2
 fD9,pu
 fD94Au
 fD94H}aD
@@ -68436,7 +68425,6 @@ fDelay
 fDistance
 fDuration
 fE9 t%H
-fE9!fA
 fE9,Fu
 fEndRadius
 fExpireTime
@@ -69395,7 +69383,6 @@ g HcG8
 g:l4d2
 gXD9cXt
 gXtZIcoxH
-g\#ULm
 g_BitBuf_BitWriteMasks
 g_CustomGameCache.IsBusy
 g_VProfSignalSpike
@@ -70000,7 +69987,6 @@ h89klt
 h8Lcs D;s0
 hA;}T
 hA^A]A
-hA^]Ðz4
 hA_A]A
 hA_A^A
 hA_A^A]A
@@ -72922,6 +72908,7 @@ iv too large
 i~wKVA
 j <= (int)sizeof(ctx->key
 j <= sizeof(c->iv
+j3kbO
 j55_j55
 j8Lcs D;s0
 j_̛j_̛T~FbT~Fb
@@ -73002,7 +72989,7 @@ justify_vertical
 k L9w t
 k VWATAVAWH
 k VWAVH
-k f9-v47
+k f9-V47
 k(HcL
 kAreaOfEffectRadius
 kBEAMCLIPSTYLE_NUMBITS
@@ -75549,6 +75536,7 @@ l$0L9i
 l$0L9l$8t
 l$0fD
 l$0fff
+l$0t	H
 l$0v f
 l$0~TH
 l$8D;s0
@@ -91624,7 +91612,6 @@ pEntity
 pF94	uY
 pField
 pFilter
-pH9_PH
 pH9t$ t
 pHc@hLk
 pHcD$hD
@@ -97134,7 +97121,7 @@ s(%d): OpenSSL internal error, assertion failed: %s
 s(%s) could not find scene %d, named %s
 s(%s) found an entity that wasn't a logic_choreographed_scene or logic_scene_list_manager in slot %d, named %s
 s(%s,%s) doesn't match type from %s(%s
-s(f95if2
+s(f95If2
 s-%d] Change: %s	[RAW]: %s
 s-%d] Hold
 s-%d] Input states:	Prev %s	+ UCmd %s	= Next %s	Prs %s	Rel %s	Dbl %s
@@ -101381,6 +101368,7 @@ t$ fD9k
 t$ fD;I
 t$ fD;y
 t$ fff
+t$ t	3
 t$ t6
 t$ u9H
 t$ uGH
@@ -101407,7 +101395,6 @@ t$0v!I
 t$0vUA
 t$0v]H
 t$0x.Hc
-t$0荫9
 t$83҉t$0
 t$83҉t$0H
 t$8@8w
@@ -101424,8 +101411,6 @@ t$@81t
 t$@D9t$P|LH
 t$@H98u
 t$@H9kpt
-t$@Hc3
-t$@Ic7
 t$@Lc1A
 t$@fA
 t$@fD
@@ -101449,8 +101434,8 @@ t$Hfff
 t$Jt H
 t$LD;5
 t$P9t$`|N
-t$P@8
 t$PD9
+t$PD9|$0
 t$PD;s0
 t$PE3
 t$PHc1H
@@ -101507,6 +101492,7 @@ t&D82t!H
 t&H9)t
 t&H90t
 t&HcVh
+t'A81t"H
 t(A;EX
 t(E8&t#H
 t(L9(t#I
@@ -101524,6 +101510,7 @@ t,M98u
 t-9_8u
 t-D8 t(H
 t-H9)t
+t-L9-e
 t-L90t
 t/HcA`3
 t/I9(u
@@ -101536,21 +101523,21 @@ t1D8 t,H
 t1HcA`E3
 t2L9-o
 t2L95
+t3H9-3bn
+t3H9-:x
 t3H9-A
-t3H9-Sbn
-t3H9-Zx
+t3H9-my
 t3H99u&H
 t3HcCD
 t3HcK`A
 t3I90u
-t3L9%0
 t3L9-F
 t3M98u
 t4I92u/M
 t6H90t1
 t6H95
+t6H95T
 t6H95Z
-t6H95t
 t6M90u
 t7H99t2H
 t7M9(u
@@ -101570,6 +101557,7 @@ t=%8.2f name=%-16s %s
 t=9ndt8
 t=D8bhu7D
 t=H98t8H
+t>D8-8
 t>H;Q(t8H;Q0t2H;Q8
 t?H95
 t?L95K
@@ -101587,6 +101575,7 @@ tF~DfD
 tGL9 tB
 tGL9'tBH
 tI8]puDE3
+tIH9-x
 tIH91tDM
 tIHcX H
 tJH90tEM
@@ -102249,13 +102238,14 @@ tivgI
 tj<jtV
 tjD8f$t@H
 tjL90te
+tkD8-e
 tkD8c$t@H
 tkD8}(ueE3
 tkH90tfH
 tkL90tfH
 tk~iI
-tl@85U
-tl@85t
+tl@855
+tl@85T
 tls client cert req with anon cipher
 tls illegal exporter label
 tls invalid ecpointformat list
@@ -102293,7 +102283,6 @@ tmE80thH
 tmE8>thH
 tmIc>L
 tmL9 thM
-tnL95A
 tnL99tiH
 to SUSPEND_FOR
 to start from the outermost scope
@@ -102709,7 +102698,6 @@ trusted_servers_only
 ts datasign
 tsHc3A
 tsI90u
-tsL95
 tsa name mismatch
 tsa untrusted
 tst info setup error
@@ -102821,6 +102809,7 @@ typeof
 typesafe_float
 typesafe_int
 t{Hc/H
+t{L9-g
 t|H90twH
 t~H9}Pt_H9
 t~L9 tyH
@@ -103800,6 +103789,7 @@ vulnerableoncreepspawn
 vv == NULL
 vΐwΠwюw
 w @8w!t
+w H91t
 w IcG8
 w LcfP
 w!@8w"t
@@ -104282,7 +104272,6 @@ xdata$x
 xdigit
 xfriction
 xg-9Ja
-xm;Fh}h
 xnormal
 xp_amount
 xp_bonus

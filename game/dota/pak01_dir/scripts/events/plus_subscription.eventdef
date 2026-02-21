@@ -447,7 +447,7 @@
   			"season_id"				"24"
   			"season_loc_name"		"#DOTA_PlusSeason_SeasonWinter2025_Name"
  			"season_start_time"		"2025-12-11 11:00 AM"
-			"season_end_time"		"2026-03-12 04:00 PM"
+			"season_end_time"		"2026-03-05 04:00 PM"
 			"season_quests"
 			{
 				"season_quests_action_prefix"	"season_winter_2025_"

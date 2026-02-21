@@ -943,7 +943,6 @@
 3ɋt$P
 3ЉT$PH
 3Ҁ9_u\rH
-3Ҁ=Odn
 3҈D$ H
 3҈D$ I
 3҈D$ 茭g
@@ -1292,8 +1291,8 @@
 8)t"H
 8)u&I
 8,04 <9
-8-Afn
-8-Hfn
+8-!fn
+8-(fn
 8.3f[%d] %s:  %s
 8.8s: %-5d entries, '%s
 8.t!H
@@ -1340,10 +1339,11 @@
 8<@DHLPTX
 8<@DHLPTX\\`dhlptx
 8<\bt&A
-8=Jjd
+8=*jd
+8=<jd
+8=Pgl
+8=Wgl
 8=h#J
-8=pgl
-8=wgl
 8>c\eքBC?>6t9^\tc
 8>uKL
 8?u$H
@@ -23197,7 +23197,6 @@ A\v։T$p
 A^A]A
 A^ËW0H
 A^Ð\bBx
-A^Ðxw
 A_A]A
 A_A^A
 A_A^A]A
@@ -24917,7 +24916,7 @@ C$9C w
 C$9G$t
 C$A9F
 C$HcK(Hc
-C$fD!-N
+C$fD!-pz
 C%8G%t\e
 C%C'C3C7C9COCWCiC
 C(9F(t\r
@@ -24950,7 +24949,7 @@ C1$ɉs(H
 C49G4t
 C4;C8
 C4A\t?L
-C4fD!-Dz
+C4fD!-$z
 C69C,v
 C89G8t
 C8H9G8t
@@ -36476,8 +36475,9 @@ C\b9C\bs+A
 C\b9G\bt
 C\b9G\bt1A
 C\b9{\bu
-C\b@8-c
-C\b@8-o
+C\b@8
+C\b@8-C
+C\b@8-O
 C\bA9,\a
 C\bA94\a
 C\bA9@\b
@@ -37691,7 +37691,7 @@ D$ |:N\vL
 D$ }I͌L
 D$ Ͻ)YL
 D$ 肂O
-D$ 辕s
+D$ 螕s
 D$"fE
 D$$D9s8
 D$$D9s8u\t
@@ -37803,6 +37803,7 @@ D$0|:N\vH
 D$0~\rH
 D$0̄\bD
 D$0Ͻ)YL
+D$0覻9
 D$18F(u\bH
 D$28D$3
 D$49D$Tt\eA
@@ -37964,7 +37965,6 @@ D$PHcL$PH
 D$PHi
 D$PIi
 D$PJc\f
-D$PL;\r
 D$PLc9D
 D$PM`J
 D$PNc
@@ -38217,7 +38217,6 @@ D8!uwA
 D8"t\tH
 D8#u7
 D8$2u1H
-D8%9\al
 D8%AiW
 D8(t4H
 D8(tLH
@@ -38230,19 +38229,15 @@ D8+t)H
 D8+t\bH
 D8+u@H
 D8+u\nD8k
-D8- ce
-D8-8r\f
+D8- ee
+D8- s\f
+D8-(WG
+D8-/ k
+D8-6UG
 D8-<aQ
-D8-@ee
-D8-@s\f
-D8-HWG
-D8-O k
 D8-PTQ
 D8-P]K
-D8-VUG
 D8-\a!O
-D8-\baY
-D8-\t{e
 D8-`ep
 D8-aRQ
 D8-qcp
@@ -38261,14 +38256,14 @@ D83t$A
 D83uJH
 D83u\aH
 D848u\t
+D85u{1
 D88t$菫N
 D88tS3
 D89t-H
 D89u\aD
 D8<(t4
 D8<\avGf
-D8='ul
-D8=/ul
+D8=\aul
 D8>u\tD8
 D8?tgH
 D8D$8t6
@@ -38379,18 +38374,18 @@ D9#t&H
 D9#u"H
 D9#uXM
 D9$;ur
-D9%0,u
-D9%i\ru
+D9%I\ru
+D9%i,u
 D9&u\aE
 D9(~PH
 D9+uAH
 D9,)u5
 D9,>us
-D9-,tu
-D9-Vuu
-D9-[Y\r
+D9-6uu
+D9-;Y\r
+D9-Etu
 D9-\fcs
-D9-etu
+D9-\ftu
 D9.u\n
 D9/u\bH
 D9/~iM
@@ -38406,14 +38401,13 @@ D93t6
 D93wkH
 D93~/A
 D93~/H
-D95  x
-D950zu
-D958\nx
-D95RBE
-D95\\zu
-D95d\nx
-D95gnu
-D95rAE
+D952BE
+D95<zu
+D95D\nx
+D95Gnu
+D95RAE
+D95p,x
+D95t=x
 D97t!H
 D98t!E
 D98t/H
@@ -38421,21 +38415,23 @@ D98~2H
 D9;u@H
 D9;~FH
 D9<0u
-D9= !v
-D9="qw
-D9=3Yu
-D9=6 v
-D9=;Dw
-D9=Kfw
-D9=\\Ew
-D9=\\wu
-D9=\frw
-D9=h;x
-D9=kQw
-D9=lgw
-D9=rDw
-D9=s7x
-D9=|qw
+D9=+fw
+D9=<Ew
+D9=<wu
+D9=H;x
+D9=KQw
+D9=Lgw
+D9=RDw
+D9=S7x
+D9=\\qw
+D9=\eDw
+D9=bfw
+D9=kXu
+D9=lRw
+D9=lxu
+D9=p v
+D9=swu
+D9=t;x
 D9?~1M
 D9@0tLA
 D9@\bt\f
@@ -38586,6 +38582,7 @@ D9}\au\a
 D9~ ~.I
 D; t5H
 D; u\e;h
+D;%nWA
 D;(u\vf9t$bu
 D;0t'H
 D;0tRH
@@ -41845,6 +41842,7 @@ E3ҋL$ A
 E3ۉE8L
 E3ۉL$4
 E3ۋD$@L
+E3ۋ\r\f\t
 E4A9@4u
 E7L9;uEH
 E8 uHH
@@ -42181,10 +42179,9 @@ EIl$0H
 EInButtonState
 EItemSuggestPreference
 EItemSuggestPreference"<\n!CDOTAClientMsg_SuggestItemRefresh
-EK\rF,F
-EK\rmBG
-EK\ro>E
-EL;\r>3E
+EK\r&,F
+EK\rMBG
+EK\rO>E
 ELEMENT_ACCESS
 ELEMENT_ACCESS_COLOR_RGB
 ELEMENT_ACCESS_VEC2
@@ -43223,6 +43220,7 @@ E؍H0腶S
 EسGL(L
 E܉L$pH
 E߉EϋEw
+Eߋ\rcVo
 F 8XPt
 F 9F tDA
 F 9G t
@@ -44536,7 +44534,7 @@ GLOBALNAME: %s
 GLOBAL_LOOKUP_FUNC
 GLYPH_COOLDOWN
 GL\t+A
-GM؋\r|OM
+GM؋\r\\OM
 GNAMES_FROM_SECTNAME
 GOST 28147-89
 GOST 28147-89 Cryptocom ParamSet
@@ -46523,42 +46521,47 @@ H @8qKuXI
 H ATAWH
 H D8yK
 H D8yKt
-H H9-3
+H H9-&bn
+H H9--x
 H H9-4
-H H9-41
 H H9-6
-H H9-Fbn
-H H9-Mx
-H H9-\bVQ
+H H9-K;n
+H H9-\t
+H H9-\v
+H H9-`r
+H H9-`y
 H H9-c
-H H9-k;n
+H H9-s
 H H9-y
-H H9-ƴI
 H H95
 H H95&\r
+H H95/,R
 H H95E\f
+H H95G
 H H95H
 H H95M
-H H95O,R
 H H95Q
 H H95d\v
 H H95g
 H H95q\r
+H H95r
+H H95z,R
+H H95܅Q
 H H9=V
+H H9=o
+H H9=rg
 H H9J
-H L9%>K
-H L9%SI
-H L9%qH
+H L9%3I
+H L9%QH
+H L9%xK
 H L9-6
 H L9-9
 H L9-U
 H L9-b\e
 H L9-u
 H L95
-H L95[bQ
-H L95\f
-H L95{]Q
-H L9=1
+H L95;bQ
+H L95[]Q
 H SVWH
 H UATAUAVAWH
 H UAUH
@@ -46627,10 +46630,10 @@ H91u0A
 H91uVH
 H92u\vH
 H93t\tH
-H95,\t
-H95>o
-H95_~B
-H95tr
+H95?~B
+H95Tr
+H95\f\t
+H95xr
 H97t"A
 H97t#A
 H97t&A
@@ -46907,7 +46910,6 @@ HAI\t81\t9dcG
 HARDSUPPORT
 HAS_LADDERS
 HA^A]A
-HA^]ÐzT
 HA_A]A
 HA_A^A
 HA_A^A]A
@@ -47257,7 +47259,6 @@ H\n\aMessage
 H\n\bresponse
 H\n\nmessage_id
 H\n\tabilities
-H\v@=DYF
 H\vMhL3
 H\vMpH\vMxH
 H\vT$PH3
@@ -47321,8 +47322,8 @@ HaveWriteLock_BlockReadsNow@CThreadRWLock_FastRead@@QEAAX_N@Z
 HaɈ|M\v
 Hc+Ic0
 Hc+Lc7H
-Hc-O3
-Hc5-\fh
+Hc-/3
+Hc5\r\fh
 Hc7HcGH
 Hc9E3
 Hc>Hc
@@ -51257,11 +51258,10 @@ JzuӖ?PD
 Jܾ\rY=QX
 K 9\b
 K <!u4L
-K H;\rF
+K H;\r
 K HcC$Hc
 K KcD\v
-K L9%.H
-K L9-x
+K L9-X
 K L9S\bt
 K L9{8u
 K UWATAUAWI
@@ -51284,12 +51284,11 @@ K,+3A
 K,3҉C$A
 K,HcC0
 K0D;H0
-K0H;\r2
 K0HcQ\fD
 K5!n^n
-K6%^\ah
-K8H;\r
+K8H;\r\b
 K8Hc\aIc)D
+K8L9\rf
 K8Lc\rG
 K94\bu
 K9<\bu
@@ -51423,7 +51422,6 @@ KeyValues3: pre-allocated table memory is too small for %u members (%u bytes ava
 KeyValuesSystem
 KeyValuesToJSON
 Keys for overriding inference keys
-KhH;\r
 Kick a specific player from the game
 Kill All Other Cursors
 Kill Cursors With Tag
@@ -51679,6 +51677,7 @@ L$PfD
 L$Pfff
 L$Pt~L
 L$P~uL
+L$P觊U
 L$TE8|$Ku
 L$T~rH
 L$X+G$L
@@ -51984,7 +51983,7 @@ L9)t\vA
 L9)u8A
 L9+t"A
 L9+t\tH
-L9-2\tE
+L9-}D\n
 L90t@H
 L90tVA
 L90t\nH
@@ -51999,9 +51998,9 @@ L93t(L9s\bt"H
 L93t\tH
 L93uMH
 L93uiH
-L95YH
+L959H
+L95>\e
 L95\tcX
-L95^\e
 L96uxE3
 L97t\eA
 L97t\tH
@@ -52025,8 +52024,8 @@ L9;t\tH
 L9;uEH
 L9;u\tH
 L9;uhI
-L9=Puu
-L9=[pq
+L9=0uu
+L9=;pq
 L9>t\tH
 L9>u\aH
 L9?t\tH
@@ -52153,7 +52152,8 @@ L9}ot\nH
 L9~0ufH9n(u`H
 L9~Pt\tM
 L9~\bt\nH
-L;5ds
+L;5Ds
+L;5so
 L;:t\bA
 L;A r\vH
 L;A s\bH
@@ -52166,12 +52166,14 @@ L;J\bv\e
 L;KL$8D
 L;Q s\e
 L;\er3A
-L;\rD3E
-L;\rD7E
-L;\rR\eC
-L;\rW3E
-L;\ro}E
-L;\rt6E
+L;\r$3E
+L;\r$7E
+L;\r2\eC
+L;\r73E
+L;\rO}E
+L;\rT6E
+L;\ri}E
+L;\rr\eC
 L;\tr\vI
 L;c u\fM
 L;d$PA
@@ -52475,287 +52477,291 @@ Lc\\$0E
 Lc\\$pI
 Lc\\\a\bD
 Lc\\\b\bA
-Lc\r "W
-Lc\r De
-Lc\r FD
-Lc\r Ie
+Lc\r "e
+Lc\r #W
+Lc\r 1d
+Lc\r 2D
+Lc\r 48
 Lc\r OQ
-Lc\r QW
-Lc\r RG
-Lc\r Se
-Lc\r VP
-Lc\r \ae
-Lc\r \nC
-Lc\r `N
-Lc\r aL
+Lc\r VR
+Lc\r YN
+Lc\r \\G
+Lc\r _L
 Lc\r bL
-Lc\r d\a
-Lc\r g
-Lc\r k
-Lc\r n
-Lc\r r
-Lc\r tL
-Lc\r te
-Lc\r }R
-Lc\r#,s
-Lc\r#\rd
+Lc\r gG
+Lc\r m
+Lc\r x
+Lc\r%Nr
+Lc\r("P
+Lc\r(#e
+Lc\r($D
+Lc\r((e
+Lc\r(.8
 Lc\r(0f
-Lc\r(8
-Lc\r(9
-Lc\r(9e
-Lc\r(@d
-Lc\r(O\a
+Lc\r(1e
+Lc\r(D
+Lc\r(HW
+Lc\r(JP
+Lc\r(N
 Lc\r(TK
 Lc\r(YK
-Lc\r(_e
-Lc\r(d
+Lc\r(YR
+Lc\r(YW
+Lc\r(^L
+Lc\r(bG
 Lc\r(dM
-Lc\r(wL
+Lc\r(lY
+Lc\r(n
+Lc\r(ne
+Lc\r(z
 Lc\r+"f
-Lc\r+de
 Lc\r0
 Lc\r0!f
-Lc\r0"s
+Lc\r0%D
 Lc\r0*f
-Lc\r05
-Lc\r0LP
-Lc\r0Te
-Lc\r0UR
-Lc\r0VG
+Lc\r0+e
+Lc\r07D
+Lc\r07s
+Lc\r098
+Lc\r0:L
+Lc\r0;R
+Lc\r0A
+Lc\r0Ae
+Lc\r0DL
+Lc\r0I
+Lc\r0I8
+Lc\r0L
 Lc\r0WK
-Lc\r0WP
-Lc\r0Y
-Lc\r0[A
-Lc\r0\\A
+Lc\r0Xe
+Lc\r0ZW
+Lc\r0[e
+Lc\r0\a
+Lc\r0d
 Lc\r0e
-Lc\r0eN
-Lc\r0h
-Lc\r0n\a
-Lc\r0p
-Lc\r0zL
+Lc\r0f
+Lc\r0i
+Lc\r0o
+Lc\r0q
+Lc\r1yi
 Lc\r8
+Lc\r8 W
 Lc\r8%f
+Lc\r8&e
 Lc\r82
-Lc\r85L
-Lc\r8?e
+Lc\r8<e
 Lc\r8A
-Lc\r8FR
-Lc\r8G
-Lc\r8KP
-Lc\r8MP
-Lc\r8NP
-Lc\r8OP
-Lc\r8QN
-Lc\r8RN
-Lc\r8SN
-Lc\r8VA
-Lc\r8X
-Lc\r8\b
-Lc\r8]A
-Lc\r8`L
-Lc\r8aL
-Lc\r8bY
-Lc\r8kW
-Lc\r8m
-Lc\r8oL
+Lc\r8P
+Lc\r8Ye
+Lc\r8lG
 Lc\r8op
-Lc\r8q
-Lc\r8}L
+Lc\r8t
+Lc\r8ue
 Lc\r;SQ
-Lc\r@"e
-Lc\r@#W
+Lc\r@%8
+Lc\r@(R
 Lc\r@(f
-Lc\r@1d
-Lc\r@2D
-Lc\r@48
-Lc\r@VR
-Lc\r@YN
-Lc\r@_L
-Lc\r@bL
-Lc\r@gG
-Lc\r@m
+Lc\r@7
+Lc\r@8
+Lc\r@<D
+Lc\r@=G
+Lc\r@B
+Lc\r@HA
+Lc\r@IA
+Lc\r@^N
+Lc\r@h\a
+Lc\r@nP
+Lc\r@sL
 Lc\r@x
+Lc\r@zI
+Lc\r@zY
+Lc\r@~R
 Lc\rC
 Lc\rC#f
-Lc\rENr
+Lc\rC}L
 Lc\rF
 Lc\rG
 Lc\rH
-Lc\rH"P
-Lc\rH#e
-Lc\rH$D
 Lc\rH&f
-Lc\rH(e
-Lc\rH.8
-Lc\rH1e
-Lc\rHD
-Lc\rHHW
+Lc\rH+8
+Lc\rH+R
+Lc\rH,w
+Lc\rH7R
+Lc\rH<G
+Lc\rH>G
+Lc\rHE\a
 Lc\rHIk
-Lc\rHJP
+Lc\rHJd
 Lc\rHMK
-Lc\rHN
+Lc\rHPd
 Lc\rHQM
-Lc\rHYR
-Lc\rHYW
-Lc\rH^L
-Lc\rHbG
-Lc\rHlY
-Lc\rHn
-Lc\rHne
-Lc\rHz
+Lc\rHTP
+Lc\rHW
+Lc\rH^N
+Lc\rHe
+Lc\rHg\a
+Lc\rHs
+Lc\rHxI
+Lc\rH}R
+Lc\rKDk
 Lc\rKdp
 Lc\rP
-Lc\rP%D
-Lc\rP+e
-Lc\rP7D
-Lc\rP7s
-Lc\rP98
-Lc\rP:L
-Lc\rP;R
-Lc\rPA
-Lc\rPAe
-Lc\rPDL
+Lc\rP P
+Lc\rP*e
+Lc\rP,8
+Lc\rP6
+Lc\rP?G
+Lc\rPAD
+Lc\rPB
+Lc\rPBP
 Lc\rPHQ
-Lc\rPI
-Lc\rPI8
+Lc\rPHR
 Lc\rPJM
-Lc\rPL
-Lc\rPXe
-Lc\rPZW
-Lc\rP[e
-Lc\rP\a
-Lc\rPd
-Lc\rPe
-Lc\rPf
-Lc\rPi
-Lc\rPo
-Lc\rPq
+Lc\rPM\a
+Lc\rPT
+Lc\rP\bC
+Lc\rP]e
+Lc\rPaL
+Lc\rPb
+Lc\rPg
 Lc\rPwp
-Lc\rQyi
+Lc\rPz
 Lc\rVUM
 Lc\rX
-Lc\rX W
-Lc\rX&e
-Lc\rX2
-Lc\rX<e
-Lc\rXA
+Lc\rX"W
+Lc\rX/G
+Lc\rX5e
+Lc\rX7
+Lc\rX>G
+Lc\rX>e
+Lc\rXBD
+Lc\rXDD
+Lc\rXKR
 Lc\rXMM
-Lc\rXP
-Lc\rXYe
+Lc\rXQ
+Lc\rXS
+Lc\rXSW
 Lc\rX\\K
+Lc\rXaY
+Lc\rXc
 Lc\rXcK
-Lc\rXlG
+Lc\rXee
+Lc\rXfY
+Lc\rXm
+Lc\rXn
 Lc\rXt
-Lc\rXue
 Lc\r[VM
 Lc\r\b
-Lc\r\b P
-Lc\r\b&R
-Lc\r\b2s
-Lc\r\b<G
-Lc\r\bA
-Lc\r\bF
-Lc\r\bK
-Lc\r\bN
-Lc\r\bQL
-Lc\r\b\e
-Lc\r\b^W
-Lc\r\baW
-Lc\r\bb
-Lc\r\bbe
+Lc\r\b8
+Lc\r\b9
+Lc\r\b9e
+Lc\r\b@d
+Lc\r\bO\a
+Lc\r\b_e
 Lc\r\bd
-Lc\r\bdL
-Lc\r\bg
-Lc\r\bk
-Lc\r\bne
-Lc\r\bs\a
-Lc\r\v:V
-Lc\r`%8
-Lc\r`(R
+Lc\r\bwL
+Lc\r\vde
 Lc\r`,f
-Lc\r`7
-Lc\r`8
-Lc\r`<D
-Lc\r`=G
-Lc\r`B
-Lc\r`HA
-Lc\r`IA
+Lc\r`0
+Lc\r`E
+Lc\r`JD
+Lc\r`KD
 Lc\r`LK
 Lc\r`PM
+Lc\r`RW
+Lc\r`UP
+Lc\r`VD
+Lc\r`YY
 Lc\r`\ax
-Lc\r`^N
-Lc\r`h\a
-Lc\r`nP
-Lc\r`sL
-Lc\r`x
-Lc\r`zI
-Lc\r`zY
-Lc\r`~R
-Lc\rc}L
+Lc\r`]R
+Lc\r`cN
+Lc\r`i
+Lc\r`iW
+Lc\r`w
+Lc\r`~e
 Lc\rfcp
 Lc\rh
-Lc\rh+8
-Lc\rh+R
-Lc\rh,w
-Lc\rh7R
-Lc\rh<G
-Lc\rh>G
-Lc\rhE\a
+Lc\rh!W
+Lc\rh#D
+Lc\rh)e
+Lc\rh.e
+Lc\rh0
+Lc\rh4R
+Lc\rhG
 Lc\rhJM
-Lc\rhJd
-Lc\rhPd
-Lc\rhTP
-Lc\rhW
-Lc\rh^N
-Lc\rhe
-Lc\rhg\a
-Lc\rhs
-Lc\rhxI
-Lc\rh}R
-Lc\rkDk
+Lc\rhND
+Lc\rhPN
+Lc\rhQA
+Lc\rhWN
+Lc\rh\eR
+Lc\rh`A
+Lc\rh`P
+Lc\rhmL
+Lc\rhr\a
+Lc\rhv
+Lc\rhw
+Lc\rhw\f
 Lc\rp
 Lc\rp P
-Lc\rp*e
-Lc\rp,8
-Lc\rp6
+Lc\rp"d
+Lc\rp*d
+Lc\rp/A
+Lc\rp0A
+Lc\rp2
+Lc\rp9
 Lc\rp9Q
-Lc\rp?G
-Lc\rpAD
 Lc\rpB
-Lc\rpBP
-Lc\rpHR
-Lc\rpM\a
-Lc\rpT
+Lc\rpJL
+Lc\rpJd
+Lc\rpK8
+Lc\rpKL
+Lc\rpL
+Lc\rpO\a
+Lc\rpRA
+Lc\rpRP
+Lc\rpSA
+Lc\rpTA
 Lc\rpWM
-Lc\rp\bC
-Lc\rp]e
-Lc\rpaL
-Lc\rpb
+Lc\rp_G
 Lc\rpbM
-Lc\rpg
-Lc\rpz
+Lc\rphN
+Lc\rpj
+Lc\rpl
+Lc\rplN
+Lc\rple
+Lc\rpt
+Lc\rpx
+Lc\rp~N
+Lc\rurs
 Lc\rx
-Lc\rx"W
 Lc\rx(f
-Lc\rx/G
-Lc\rx5e
+Lc\rx28
+Lc\rx2L
+Lc\rx3L
+Lc\rx5
+Lc\rx5R
 Lc\rx7
-Lc\rx>G
-Lc\rx>e
-Lc\rxBD
-Lc\rxDD
-Lc\rxKR
-Lc\rxQ
-Lc\rxS
-Lc\rxSW
+Lc\rx8d
+Lc\rxA
+Lc\rxHP
+Lc\rxN8
+Lc\rxSP
+Lc\rxU
+Lc\rxUP
+Lc\rxVW
 Lc\rxWM
-Lc\rxaY
-Lc\rxc
-Lc\rxee
-Lc\rxfY
+Lc\rxWW
+Lc\rxYA
+Lc\rxZG
+Lc\rxZR
+Lc\rx`G
+Lc\rxaP
+Lc\rxd
+Lc\rxg
+Lc\rxhG
 Lc\rxm
-Lc\rxn
-Lc\rxt
+Lc\rx|N
+Lc\rx}N
+Lc\rx}\a
 Lcb4E3ɋB,H
 LccXHc
 Lcd$ 3
@@ -53213,7 +53219,6 @@ M;H s\bI
 M;f8tBI
 M;i s\bI
 M@HcE8H
-M@Lc3蝺l
 MANDATORY
 MANTASTYLE
 MARSARENA
@@ -56331,6 +56336,7 @@ PATTACH_WATERWAKE
 PATTACH_WORLDORIGIN
 PA^A]A
 PA^ËD$4D
+PA^Ë\rxL
 PA^ù0\v
 PA_A]A
 PA_A^A
@@ -56354,7 +56360,6 @@ PBKDF2
 PBKDF2PARAM
 PBMAC1
 PD8d$X
-PD9=H
 PD9cH
 PD;F0}\nD
 PD;]0
@@ -56749,10 +56754,9 @@ P[ËK83
 P\bD;uouXD9m
 P\bE3
 P\bE3ɉ5
-P\bE3ɉ5"+2
-P\bE3ɉ5"<2
-P\bE3ɉ5`r2
-P\bE3ɉ5k
+P\bE3ɉ5@r2
+P\bE3ɉ5K
+P\bE3ɉ5u
 P\bHcC\b
 P\bHcD$pA
 P\bHcEHH
@@ -56776,7 +56780,6 @@ P\n\nregression
 P\n\vPlayerScore
 P\n\vitem_equips
 P\tt\f8C:u\aH
-P^Ë\r6HH
 P_ÉL$0H
 P_ËB\bH
 P`3\bD$8H
@@ -63063,6 +63066,7 @@ U13\v9
 U3ۋFxH
 U7{8+S
 U8HcE0H
+U8Hc\rp\a
 U:\\thirdpartycode\\nonredist\\protobuf\\protobuf-3.21.8\\src\\google/protobuf/descriptor.h
 U:\\thirdpartycode\\nonredist\\protobuf\\protobuf-3.21.8\\src\\google/protobuf/dynamic_message.h
 U:\\thirdpartycode\\nonredist\\protobuf\\protobuf-3.21.8\\src\\google/protobuf/extension_set_inl.h
@@ -64014,6 +64018,7 @@ VWAVH
 VWAWH
 VWSUATAUAVAW
 VWebm001
+VXHc\r
 VXLcFh
 VY5[;o
 V\b9^\bu
@@ -64368,7 +64373,7 @@ W\tT$XH
 W\tt$@H
 W\tt$LE
 W\t|$4H
-W\v\rbzl
+W\v\rBzl
 W`c[\e\fF
 WaA2Fa
 WaA2Ga
@@ -64761,7 +64766,6 @@ XD;B\b
 XD;s0
 XE9~Lt
 XF94\tuY
-XH95ƺE
 XH9{0H
 XH9{@H
 XH\bHcD$tL
@@ -64846,8 +64850,8 @@ Y@HcA8Hi
 Y@Hcq8H
 YA1Hc
 YA1u"I
-YA1荒Q
-YA1觽y
+YA1臽y
+YA1謢Y
 YCUtlString@@QEAAAEAV0@AEBV0@@Z
 YCUtlString@@QEAAAEAV0@D@Z
 YCUtlString@@QEAAAEAV0@PEBD@Z
@@ -66763,19 +66767,17 @@ bHc\aHi
 bHc\aL
 bHc\aLk
 bHc\r
-bHc\r$\v
+bHc\r0
 bHc\r1
-bHc\r2
-bHc\rF
-bHc\rH
-bHc\rP
-bHc\rQv
-bHc\rR6
-bHc\r\b
+bHc\r1v
+bHc\r26
+bHc\rE
+bHc\rZ
 bHc\r\nAt
 bHc\r\ntq
-bHc\re
-bHc\rz
+bHc\r\t
+bHc\rgx
+bHc\rs
 bHc\rʛY
 bHcqTLk
 bHeartRegenApplied
@@ -67033,7 +67035,7 @@ bWasSaved
 bX\n|\b4
 bYashaAndKayaApplied
 b\b 0\b\b  \b\t
-b\b4|\b`t
+b\b4|\b
 b\bE;P
 b\bThreadSleep
 b\bV_Int16ToString_Unsafe
@@ -73325,7 +73327,7 @@ f"#\n!CDOTABroadcastMsg_LANLobbyRequest
 f";\n%CDOTAUserMsg_CustomHudElement_Destroy
 f"`\n$CDOTAUserMsg_CustomHudElement_Modify
 f"r\n CClientMsg_CustomGameEventBounce
-f$9\r\a\f
+f$9\ro\v
 f$E9udt
 f$H9\bu\nA
 f$u\rfE
@@ -73336,7 +73338,6 @@ f(9\r4
 f(9\r8\a
 f(9\rN
 f(9\r\t\f
-f(9\rt
 f(9\ru\b
 f(A2\f$I
 f(L9f\bH
@@ -73344,13 +73345,14 @@ f*\fWk
 f*t\n ESteamLearnGetAccessTokensResult
 f+Hcы\f
 f, %f, %f
-f/9\rkMe
+f/9\rKMe
 f0\vP
 f0\vP!!\b
 f0\vP!\b
 f2\bp\a
 f2\bp\aP
 f33Uf33U
+f39\reS
 f6;ȉE
 f6A;B\b
 f7@7F
@@ -73359,7 +73361,6 @@ f9(t\eL
 f9)u4H9j
 f9)u:H
 f9+u\bH
-f9-=57
 f94\btxI
 f9<H}\r
 f9C\nu}H
@@ -73398,8 +73399,7 @@ f;u@s\nfA
 f;w@sB
 f<<0A1pq
 f<>28
-f>9\r\aU
-f?9\rmc
+f?9\rMc
 f@E3ɉt
 f@HcC(H
 f@HcG\f
@@ -73491,7 +73491,6 @@ fD9!u\fL
 fD9$Hu
 fD9$Ou
 fD9$wu
-fD9%<g2
 fD9)u\fH
 fD9,Au
 fD9,pu
@@ -73527,10 +73526,9 @@ fD;C0s
 fD;C\b
 fD;K\b
 fD;]\bs=L
-fD\t5
-fD\t5147
-fD\t5X
-fD\t=0f2
+fD\t58
+fD\t5\n
+fD\t=zf2
 fDamage
 fDelay
 fDigiCert Inc1
@@ -73560,14 +73558,11 @@ fI;\bs
 fIfD9
 fInitialStockDuration
 fKS1߃έ9T
-fK\f\b9\rs
+fK\f\b9\rS
 fK\f\n9\r
-fK\f\n9\r5
-fK\f\n9\rC
-fK\f\n9\r\v
-fK\f\n9\ro
-fK\f\n9\rs
-fK\f\n9\ry
+fK\f\n9\rO
+fK\f\n9\rS
+fK\f\n9\rY
 fLane Winrate
 fLct$0
 fM9't
@@ -73596,12 +73591,10 @@ fTotal Denies
 fValue
 fWeight
 fX!t5
-f\b9\r#l
-f\b9\r\n!E
 f\bThreadYield
 f\bV_IsAbsolutePath
 f\eփZ
-f\n9\rfb\t
+f\n9\rFb\t
 f\nD;\tu\v
 f\n\bAncients
 f\n\bBARRACKS
@@ -74341,11 +74334,11 @@ fp\vP!\n
 fp\vP!]\b
 fp\vP\n0
 fp\v`!s
-fp\v`T5
 fp\v`\n0
 fp\v`\n0\tP
 fp\v`\nP
 fp\v`\nP\t0
+fp\v`t5
 fpnS\bia
 fr\bp\a
 fr\bp\aP
@@ -74551,12 +74544,14 @@ fËF$A9A$}qH
 fȉL$xE
 fȋQ@3
 fы\f\b9\r
+fы\f\b9\r4
+fы\f\b9\rB
 fы\f\b9\rJ
-fы\f\b9\rK
-fы\f\b9\rO
-fы\f\b9\rT
+fы\f\b9\rN
+fы\f\b9\rS
+fы\f\b9\rd
 fы\f\b9\rn
-fы\f\b9\rs
+fы\f\b9\ru
 fِD91
 f۳r8l@\v\r
 f♈ \\sf
@@ -74577,7 +74572,6 @@ gT9wHL
 gXC.nT\v\e
 gXD9cXt
 gXtZIcoxH
-g\\#ULm
 g\n#particle_freeze_transition_override
 g\n'CDOTAClientMsg_ContextualTips_Subscribe
 g\n\eCScenarioGame_RoshanSpawner
@@ -75124,8 +75118,7 @@ hA+EHH
 hA;n\b
 hA;}T
 hA^A]A
-hA^]ÐZg9
-hA^]Ðz4
+hA^]Ðzg9
 hA_A]A
 hA_A^A
 hA_A^A]A
@@ -77941,6 +77934,7 @@ izontalMotionController
 i~wKVA
 j <= (int)sizeof(ctx->key
 j <= sizeof(c->iv
+j3kbO
 j3kgݚ۶2
 j55_j55
 j8Lcs D;s0
@@ -78030,7 +78024,8 @@ k VWATAVAWH
 k VWAUAVAWH
 k VWAVH
 k VWAWH
-k f9-v47
+k f9-V47
+k f9-r
 k(9k8|AH
 k(HcL
 k(L9w(t\nH
@@ -80382,7 +80377,7 @@ l$0t\tH
 l$0uEH
 l$0v f
 l$0~TH
-l$4@8-Tfn
+l$4@8-4fn
 l$4D;m
 l$4H;S\b}0H
 l$4L9nX
@@ -100154,7 +100149,8 @@ p@0pqE5tsO?|1
 p@HPX`h\f
 pA^A]A
 pA^_^ÐOXn
-pA^Ð8y\f
+pA^ÐXy\f
+pA^Ð\bv
 pA^ùX\a
 pA_A]A
 pA_A^A
@@ -104375,7 +104371,7 @@ r220801000000Z
 r241012000000Z
 r250507000000Z
 r250604000000Z
-r260220184921Z0
+r260220233846Z0
 r271008235959Z0a1\v0\t
 r2\t0!\n
 r311109235959Z0b1\v0\t
@@ -105702,7 +105698,7 @@ s(%s) found an entity that wasn't a logic_choreographed_scene or logic_scene_lis
 s(9s8|AH
 s(HcC
 s(L;\vr
-s(f95if2
+s(f95If2
 s)Hc\aL
 s+L;\vr
 s-%d] Change: %s\t[RAW]: %s\n
@@ -110007,8 +110003,6 @@ t$0|LH
 t$0|\bH
 t$0ƃd\a
 t$0ǃP\b
-t$0股B
-t$0荫9
 t$4fA
 t$4zHuFf
 t$83҉t$0
@@ -110037,7 +110031,7 @@ t$8Lc3D;s
 t$8Lcu
 t$8Lc|$0I
 t$8\fIH\v
-t$8\fIH\v=F
+t$8\fIH\v=v
 t$8fA
 t$8fD
 t$8fE
@@ -110217,6 +110211,7 @@ t$PǇ0\b
 t$PǇD
 t$PǇp\b
 t$P膩X
+t$P詜S
 t$TfA
 t$TfE
 t$Tr@A
@@ -110404,7 +110399,7 @@ t'Hc\r
 t'Ic^(3
 t'L9 t
 t'L9!t
-t'L;\rq
+t'L;\rQ
 t(A;EX
 t(E8&t#H
 t(H;S\bu\aH
@@ -110449,7 +110444,8 @@ t-D8 t(H
 t-H9)t
 t-H91t(H
 t-HcA`E3
-t-L9%;H
+t-L9%\eH
+t-L9-e
 t-L90t
 t-L9c
 t-L;\vr
@@ -110470,12 +110466,11 @@ t/I90u\vI
 t/M9(u\vI
 t/M98u\vI
 t0;?ZlP*m
-t0H9=!\fb
 t0H9k8u\bH
 t0IcF\b3
-t0L9%KK
-t0L9%`I
-t0L9%~H
+t0L9%+K
+t0L9%@I
+t0L9%^H
 t0L90t+I
 t0L9s(t*E
 t0M9 u\vI
@@ -110506,7 +110501,6 @@ t2HcA`E
 t2HcUH
 t2Hc\bA;J\f})H
 t2Hc\nA;H\f})Ic@\b
-t2L9%J
 t2L9-C
 t2L9-b
 t2L9-o\e
@@ -110514,11 +110508,15 @@ t2L95
 t3D8T$(t
 t3D9|$h~,H
 t3H9(t
+t3H9-!1
+t3H9-3bn
+t3H9-:x
 t3H9-A
-t3H9-A1
-t3H9-Sbn
-t3H9-Zx
-t3H95\t
+t3H9-h
+t3H9-mr
+t3H9-my
+t3H9-p
+t3H95
 t3H99u&H
 t3HcA`E3
 t3HcCD
@@ -110527,9 +110525,9 @@ t3I9(u\vI
 t3I90u\vI
 t3I98u\vI
 t3I9@ u-I
-t3L9%0
 t3L9-F
-t3L95hbQ
+t3L95HbQ
+t3L95h]Q
 t3M9(u\vI
 t3M98u\vI
 t3\tD$LD
@@ -110546,20 +110544,17 @@ t5D8i\tt/H
 t5Hc\aH
 t5M9 u\rI
 t6H9-1
-t6H9-8
-t6H9-x;n
-t6H9-ӴI
+t6H9-X;n
 t6H90t1
 t6H91t1H
 t6H95
+t6H95T
 t6H95Z
 t6H95\e
-t6H95t
 t6HcH\fI
 t6Hc\nA;I\f}-IcA\b
 t6Hcϸ\b
 t6I\v@@I
-t6L9%\b
 t6M90u\vI
 t79(~$H
 t7D9eX~1D
@@ -110584,7 +110579,7 @@ t9D9}H~3D
 t9H9-C
 t9H9-p
 t9H91t4H
-t9H95\t
+t9H95m
 t9H9=c
 t9Ic~\fI
 t9L9"t4H
@@ -110613,7 +110608,7 @@ t=L9 t8
 t>8H9\\$ht\vH
 t>@8hP}.H
 t>A9[8t
-t>D8-X
+t>D8-8
 t>D80t9H
 t>H;Q(t8H;Q0t2H;Q8
 t>Hc;E3
@@ -110623,20 +110618,19 @@ t?D8"t:H
 t?D9k,u9H
 t?D;gLt9
 t?H9(t\a
-t?H9-6
 t?H95
 t?H95 h
 t?H953\r
+t?H95<,R
 t?H95H
 t?H95R\f
 t?H95U
-t?H95\\,R
 t?H95\a\f
 t?H95\n
 t?H95q\v
 t?H95t
 t?H95~\r
-t?H9=\e
+t?H9=\n
 t?Hc\nA
 t?L95K
 t@D8 t;H
@@ -110726,6 +110720,7 @@ tHistogram:\n
 tI8]puDE3
 tI9H t
 tI<"u#I
+tIH9-x
 tIH91tDM
 tIHcA\bD
 tIHcC\bD
@@ -110745,7 +110740,7 @@ tKD8"tFH
 tKH90tFH
 tK\buMH
 tL$(L
-tL$0;\r
+tL$0;\rt
 tL9kXtGH
 tL@87t
 tLH9(tGH
@@ -110929,7 +110924,6 @@ t\afF9
 t\ax+D
 t\ax,D
 t\ax0D
-t\b#-G k
 t\b3\tA
 t\b3\tC
 t\b3\tF0
@@ -110993,11 +110987,14 @@ t\n\v\f\r
 t\nfE9\bu
 t\r98t H
 t\r9x$u\b
+t\rD85p
 t\rD88t\bI
 t\rD9`Tu\aA
 t\rH;C\bv\a
 t\rHcЋ\a
-t\rL#\rK
+t\rL#\r
+t\rL#\rk
+t\rL#\rk\eC
 t\rL98t\bI
 t\rL;\bu\b
 t\rfD9"u\aB\bL
@@ -111010,38 +111007,40 @@ t\tA9R\bu
 t\tAƄ$Z
 t\tCriteria %d: %s %s\n
 t\tD#5
+t\tD#5*B
 t\tD#51
 t\tD#56
-t\tD#57
-t\tD#5=C
+t\tD#58
+t\tD#5C
 t\tD#5F
+t\tD#5G
+t\tD#5H
 t\tD#5I
 t\tD#5J
-t\tD#5JB
+t\tD#5LD
+t\tD#5P
 t\tD#5R
+t\tD#5S
 t\tD#5T
 t\tD#5V
+t\tD#5W
 t\tD#5X
-t\tD#5\a
-t\tD#5\n
-t\tD#5\rD
 t\tD#5`M
 t\tD#5`N
+t\tD#5a
 t\tD#5bZ
-t\tD#5c
 t\tD#5d
-t\tD#5g
 t\tD#5gO
-t\tD#5h
-t\tD#5lD
+t\tD#5h0
+t\tD#5l
 t\tD#5o
 t\tD#5p
 t\tD#5r!J
-t\tD#5s
+t\tD#5v
 t\tD#5w
-t\tD#5x
 t\tD#5x9
 t\tD#5x\a
+t\tD#5|C
 t\tD8/t
 t\tE88t
 t\tE9G
@@ -111149,7 +111148,7 @@ t`H9o@t0H
 t`Hc\v
 t`I;6r
 t`L9)t[M
-t`L9-hv
+t`L9-Hv
 t`L90t[H
 t`L91t[H
 t`L;\vr
@@ -111707,6 +111706,7 @@ tk8uIH
 tk@8{$t@H
 tk@uIH
 tkD8*tfI
+tkD8-e
 tkD8c$t@H
 tkD8g$t@H
 tkD8{$t@H
@@ -111726,8 +111726,8 @@ tkhuIH
 tkpuRH
 tkxu^H
 tk~iI
-tl@85U
-tl@85t
+tl@855
+tl@85T
 tlH9:tgH
 tlL;\vr
 tls client cert req with anon cipher
@@ -111771,7 +111771,7 @@ tmL9 thM
 tmLc\t3
 tn8\btj
 tnHcD$0
-tnL95A
+tnL95
 tnL99tiH
 tn\buIH
 tnexttoken
@@ -111784,8 +111784,9 @@ toH9(tjH
 toH90tjH
 toH98tjH
 toL9 tjM
-toL9-{1
+toL9-[1
 toL90tjM
+toL95t
 toLocalPlayer
 toPu H
 toPuIH
@@ -111941,9 +111942,9 @@ tp\bP!\f
 tp\bP!\v
 tp\bP\a0
 tp\bP\a0!\r
-tp\b`T
 tp\b`\a0
 tp\b`\aP
+tp\b`t
 tp_scrolls_purchased_1
 tp_scrolls_purchased_2
 tp_scrolls_purchased_3
@@ -112286,7 +112287,7 @@ twofactor_enabled
 twpuRH
 twxu^H
 tx8<@HILPTX\\0
-tx@8-n
+tx@8-N
 txH90tsA
 txn_country_code
 txn_id
@@ -112329,6 +112330,7 @@ t{8uIH
 t{@uIH
 t{Hc/H
 t{HuIH
+t{L9-g
 t{PuIH
 t{XuIH
 t{\bu H
@@ -112580,13 +112582,11 @@ u\eD;Y
 u\eE3ɈD$ E3
 u\eH9+uYH
 u\eH;w r
-u\f@8=Cjd
+u\f@8=#jd
 u\f@8}g
 u\fA9i
-u\fD8%zf
-u\fD8-I
-u\fD8-v
-u\fD8= ul
+u\fD8
+u\fD8-V
 u\fL9#t
 u\f\f
 u\n9l
@@ -113118,7 +113118,7 @@ uuHc|$HH
 uvLc1E3
 uvLcl$HH
 uxHc)E3
-uxHc\rP
+uxHc\r0
 uxIcEpL
 uxLc9E3
 uyLc1E3
@@ -113138,7 +113138,7 @@ uǉ]ϋUwL
 uǋD$(E3
 uȋD$lH
 u͋C$9C rgH
-uϋ\rs^B
+uϋ\rS^B
 uЋL$4D
 uԉL$0H
 u؉uȋ\a9
@@ -114588,7 +114588,7 @@ x-;Qp}(Hc
 x.;Qp})Hc
 x121Address
 x2;Gh
-x2;\rT5
+x2;\r45
 x4;Fh
 x4;Gh
 x500UniqueIdentifier
@@ -114637,7 +114637,7 @@ xE;7}A
 xH9xHH
 xH9{`H
 xH;T$0t\n
-xHc=kx
+xHc=Kx
 xHcCpH
 xHcD$pH
 xHcD$pL
